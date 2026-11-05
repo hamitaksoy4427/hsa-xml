@@ -1,0 +1,3213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urunler>
+  <urun>
+    <stok_kodu>HMPX-DAY-KTC1000</stok_kodu>
+    <kaynak_kodu>DAY-KTC1000</kaynak_kodu>
+    <urun_adi>KAYIŞ BELT</urun_adi>
+    <uretici_kodu></uretici_kodu>
+    <tedarikci_marka>DAYCO</tedarikci_marka>
+    <satis_fiyati>7100</satis_fiyati>
+    <kdv>20</kdv>
+    <para_birimi>TL</para_birimi>
+    <stok>10</stok>
+    <tedarik_durumu>Tedarik ile getirtilir</tedarik_durumu>
+    <teslim_suresi>3-5 iş günü</teslim_suresi>
+    <himpeks_stok>0</himpeks_stok>
+    <birim>PCE</birim>
+    <himpeks_id>19146</himpeks_id>
+  </urun>
+  <urun>
+    <stok_kodu>HMPX-DAY-APV1047</stok_kodu>
+    <kaynak_kodu>DAY-APV1047</kaynak_kodu>
+    <urun_adi>V KAYIS GERGI RULMANI FIAT SEICENTO 1.1 98&gt;</urun_adi>
+    <uretici_kodu>APV1047</uretici_kodu>
+    <tedarikci_marka>DAYCO</tedarikci_marka>
+    <satis_fiyati>1800</satis_fiyati>
+    <kdv>20</kdv>
+    <para_birimi>TL</para_birimi>
+    <stok>10</stok>
+    <tedarik_durumu>Tedarik ile getirtilir</tedarik_durumu>
+    <teslim_suresi>3-5 iş günü</teslim_suresi>
+    <himpeks_stok>0</himpeks_stok>
+    <birim>PCE</birim>
+    <himpeks_id>18316</himpeks_id>
+  </urun>
+  <urun>
+    <stok_kodu>HMPX-DAY-APV1059</stok_kodu>
+    <kaynak_kodu>DAY-APV1059</kaynak_kodu>
+    <urun_adi>V KAYIS GERGI RULMANI FIAT 1.9D BRAVO II STILO 03-08</urun_adi>
+    <uretici_kodu>APV1059</uretici_kodu>
+    <tedarikci_marka>DAYCO</tedarikci_marka>
+    <satis_fiyati>1300</satis_fiyati>
+    <kdv>20</kdv>
+    <para_birimi>TL</para_birimi>
+    <stok>10</stok>
+    <tedarik_durumu>Tedarik ile getirtilir</tedarik_durumu>
+    <teslim_suresi>3-5 iş günü</teslim_suresi>
+    <himpeks_stok>0</himpeks_stok>
+    <birim>PCE</birim>
+    <himpeks_id>18317</himpeks_id>
+  </urun>
+  <urun>
+    <stok_kodu>HMPX-DAY-APV2214</stok_kodu>
+    <kaynak_kodu>DAY-APV2214</kaynak_kodu>
+    <urun_adi>V KAYIS GERGI RULMANI</urun_adi>
+    <uretici_kodu>APV2214</uretici_kodu>
+    <tedarikci_marka>DAYCO</tedarikci_marka>
+    <satis_fiyati>1200</satis_fiyati>
+    <kdv>20</kdv>
+    <para_birimi>TL</para_birimi>
+    <stok>10</stok>
+    <tedarik_durumu>Tedarik ile getirtilir</tedarik_durumu>
+    <teslim_suresi>3-5 iş günü</teslim_suresi>
+    <himpeks_stok>0</himpeks_stok>
+    <birim>PCE</birim>
+    <himpeks_id>18365</himpeks_id>
+  </urun>
+  <urun>
+    <stok_kodu>HMPX-RNZ-12-34439-01</stok_kodu>
+    <kaynak_kodu>RNZ-12-34439-01</kaynak_kodu>
+    <urun_adi>SUBAP LASTIGI</urun_adi>
+    <uretici_kodu>12-34439-01</uretici_kodu>
+    <tedarikci_marka>VICTOR REINZ</tedarikci_marka>
+    <satis_fiyati>2000</satis_fiyati>
+    <kdv>20</kdv>
+    <para_birimi>TL</para_birimi>
+    <stok>10</stok>
+    <tedarik_durumu>Tedarik ile getirtilir</tedarik_durumu>
+    <teslim_suresi>3-5 iş günü</teslim_suresi>
+    <himpeks_stok>0</himpeks_stok>
+    <birim>SET</birim>
+    <himpeks_id>114157</himpeks_id>
+  </urun>
+  <urun>
+    <stok_kodu>HMPX-RNZ-12-33447-01</stok_kodu>
+    <kaynak_kodu>RNZ-12-33447-01</kaynak_kodu>
+    <urun_adi>SUBAP LASTIGI</urun_adi>
+    <uretici_kodu>12-33447-01</uretici_kodu>
+    <tedarikci_marka>VICTOR REINZ</tedarikci_marka>
+    <satis_fiyati>1000</satis_fiyati>
+    <kdv>20</kdv>
+    <para_birimi>TL</para_birimi>
+    <stok>10</stok>
+    <tedarik_durumu>Tedarik ile getirtilir</tedarik_durumu>
+    <teslim_suresi>3-5 iş günü</teslim_suresi>
+    <himpeks_stok>0</himpeks_stok>
+    <birim>SET</birim>
+    <himpeks_id>114150</himpeks_id>
+  </urun>
+  <urun>
+    <stok_kodu>HMPX-DAY-APV2712</stok_kodu>
+    <kaynak_kodu>DAY-APV2712</kaynak_kodu>
+    <urun_adi>KAYIŞ BELT</urun_adi>
+    <uretici_kodu></uretici_kodu>
+    <tedarikci_marka>DAYCO</tedarikci_marka>
+    <satis_fiyati>3600</satis_fiyati>
+    <kdv>20</kdv>
+    <para_birimi>TL</para_birimi>
+    <stok>10</stok>
+    <tedarik_durumu>Tedarik ile getirtilir</tedarik_durumu>
+    <teslim_suresi>3-5 iş günü</teslim_suresi>
+    <himpeks_stok>0</himpeks_stok>
+    <birim>PCE</birim>
+    <himpeks_id>18419</himpeks_id>
+  </urun>
+  <urun>
+    <stok_kodu>HMPX-RNZ-12-31306-05</stok_kodu>
+    <kaynak_kodu>RNZ-12-31306-05</kaynak_kodu>
+    <urun_adi>SUBAP LASTIGI</urun_adi>
+    <uretici_kodu>12-31306-05</uretici_kodu>
+    <tedarikci_marka>VICTOR REINZ</tedarikci_marka>
+    <satis_fiyati>1200</satis_fiyati>
+    <kdv>20</kdv>
+    <para_birimi>TL</para_birimi>
+    <stok>10</stok>
+    <tedarik_durumu>Tedarik ile getirtilir</tedarik_durumu>
+    <teslim_suresi>3-5 iş günü</teslim_suresi>
+    <himpeks_stok>0</himpeks_stok>
+    <birim>SET</birim>
+    <himpeks_id>114144</himpeks_id>
+  </urun>
+  <urun>
+    <stok_kodu>HMPX-RNZ-12-33512-02</stok_kodu>
+    <kaynak_kodu>RNZ-12-33512-02</kaynak_kodu>
+    <urun_adi>SUBAP LASTIGI</urun_adi>
+    <uretici_kodu>12-33512-02</uretici_kodu>
+    <tedarikci_marka>VICTOR REINZ</tedarikci_marka>
+    <satis_fiyati>800</satis_fiyati>
+    <kdv>20</kdv>
+    <para_birimi>TL</para_birimi>
+    <stok>10</stok>
+    <tedarik_durumu>Tedarik ile getirtilir</tedarik_durumu>
+    <teslim_suresi>3-5 iş günü</teslim_suresi>
+    <himpeks_stok>0</himpeks_stok>
+    <birim>SET</birim>
+    <himpeks_id>114151</himpeks_id>
+  </urun>
+  <urun>
+    <stok_kodu>HMPX-RNZ-70-34399-00</stok_kodu>
+    <kaynak_kodu>RNZ-70-34399-00</kaynak_kodu>
+    <urun_adi>SUBAP LASTIGI</urun_adi>
+    <uretici_kodu></uretici_kodu>
+    <tedarikci_marka>VICTOR REINZ</tedarikci_marka>
+    <satis_fiyati>100</satis_fiyati>
+    <kdv>20</kdv>
+    <para_birimi>TL</para_birimi>
+    <stok>10</stok>
+    <tedarik_durumu>Tedarik ile getirtilir</tedarik_durumu>
+    <teslim_suresi>3-5 iş günü</teslim_suresi>
+    <himpeks_stok>0</himpeks_stok>
+    <birim>PCE</birim>
+    <himpeks_id>115648</himpeks_id>
+  </urun>
+  <urun>
+    <stok_kodu>HMPX-DAY-APV2465</stok_kodu>
+    <kaynak_kodu>DAY-APV2465</kaynak_kodu>
+    <urun_adi>ALTERNATOR V KAYIS GERGI RULMANI KOM</urun_adi>
+    <uretici_kodu>APV2465</uretici_kodu>
+    <tedarikci_marka>DAYCO</tedarikci_marka>
+    <satis_fiyati>4100</satis_fiyati>
+    <kdv>20</kdv>
+    <para_birimi>TL</para_birimi>
+    <stok>10</stok>
+    <tedarik_durumu>Tedarik ile getirtilir</tedarik_durumu>
+    <teslim_suresi>3-5 iş günü</teslim_suresi>
+    <himpeks_stok>0</himpeks_stok>
+    <birim>PCE</birim>
+    <himpeks_id>18396</himpeks_id>
+  </urun>
+  <urun>
+    <stok_kodu>HMPX-DAY-ATB2027</stok_kodu>
+    <kaynak_kodu>DAY-ATB2027</kaynak_kodu>
+    <urun_adi>V KAYIS GERGI RULMANI PEUGEOT BENZINLI 106 I-II 205 I-II 206 306 307 406 EXPERT PARTNER</urun_adi>
+    <uretici_kodu>ATB2027</uretici_kodu>
+    <tedarikci_marka>DAYCO</tedarikci_marka>
+    <satis_fiyati>2200</satis_fiyati>
+    <kdv>20</kdv>
+    <para_birimi>TL</para_birimi>
+    <stok>10</stok>
+    <tedarik_durumu>Tedarik ile getirtilir</tedarik_durumu>
+    <teslim_suresi>3-5 iş günü</teslim_suresi>
+    <himpeks_stok>0</himpeks_stok>
+    <birim>PCE</birim>
+    <himpeks_id>18494</himpeks_id>
+  </urun>
+  <urun>
+    <stok_kodu>HMPX-DAY-KPV333</stok_kodu>
+    <kaynak_kodu>DAY-KPV333</kaynak_kodu>
+    <urun_adi>V KAYIŞ GERGİ SETİ (EURO 4) 6PK 975 COURİER - FOCUS - C-MAX 05&gt; 1.5/1.6 TDCİ</urun_adi>
+    <uretici_kodu>KPV333</uretici_kodu>
+    <tedarikci_marka>DAYCO</tedarikci_marka>
+    <satis_fiyati>3100</satis_fiyati>
+    <kdv>20</kdv>
+    <para_birimi>TL</para_birimi>
+    <stok>54</stok>
+    <tedarik_durumu>Stokta</tedarik_durumu>
+    <teslim_suresi>1-2 iş günü</teslim_suresi>
+    <himpeks_stok>54</himpeks_stok>
+    <birim>PCE</birim>
+    <himpeks_id>18834</himpeks_id>
+    <resimler><resim>https://raw.githubusercontent.com/hamitaksoy4427/hsa-xml/main/resim/DAY_KPV333.jpg</resim></resimler>
+  </urun>
+  <urun>
+    <stok_kodu>HMPX-RNZ-70-37621-00</stok_kodu>
+    <kaynak_kodu>RNZ-70-37621-00</kaynak_kodu>
+    <urun_adi>CONTA</urun_adi>
+    <uretici_kodu>70-37621-00</uretici_kodu>
+    <tedarikci_marka>VICTOR REINZ</tedarikci_marka>
+    <satis_fiyati>200</satis_fiyati>
+    <kdv>20</kdv>
+    <para_birimi>TL</para_birimi>
+    <stok>10</stok>
+    <tedarik_durumu>Tedarik ile getirtilir</tedarik_durumu>
+    <teslim_suresi>3-5 iş günü</teslim_suresi>
+    <himpeks_stok>0</himpeks_stok>
+    <birim>PCE</birim>
+    <himpeks_id>115668</himpeks_id>
+  </urun>
+  <urun>
+    <stok_kodu>HMPX-RNZ-12-42873-01</stok_kodu>
+    <kaynak_kodu>RNZ-12-42873-01</kaynak_kodu>
+    <urun_adi>SUBAP YAG LASTIGI</urun_adi>
+    <uretici_kodu>12-42873-01</uretici_kodu>
+    <tedarikci_marka>VICTOR REINZ</tedarikci_marka>
+    <satis_fiyati>2300</satis_fiyati>
+    <kdv>20</kdv>
+    <para_birimi>TL</para_birimi>
+    <stok>10</stok>
+    <tedarik_durumu>Tedarik ile getirtilir</tedarik_durumu>
+    <teslim_suresi>3-5 iş günü</teslim_suresi>
+    <himpeks_stok>0</himpeks_stok>
+    <birim>SET</birim>
+    <himpeks_id>114190</himpeks_id>
+  </urun>
+  <urun>
+    <stok_kodu>HMPX-RNZ-71-33408-00</stok_kodu>
+    <kaynak_kodu>RNZ-71-33408-00</kaynak_kodu>
+    <urun_adi>YAG KARTER CONTASI</urun_adi>
+    <uretici_kodu></uretici_kodu>
+    <tedarikci_marka>VICTOR REINZ</tedarikci_marka>
+    <satis_fiyati>1200</satis_fiyati>
+    <kdv>20</kdv>
+    <para_birimi>TL</para_birimi>
+    <stok>10</stok>
+    <tedarik_durumu>Tedarik ile getirtilir</tedarik_durumu>
+    <teslim_suresi>3-5 iş günü</teslim_suresi>
+    <himpeks_stok>0</himpeks_stok>
+    <birim>PCE</birim>
+    <himpeks_id>115892</himpeks_id>
+  </urun>
+  <urun>
+    <stok_kodu>HMPX-RNZ-02-33005-04</stok_kodu>
+    <kaynak_kodu>RNZ-02-33005-04</kaynak_kodu>
+    <urun_adi>UST TAKIM CONTA</urun_adi>
+    <uretici_kodu>02-33005-04</uretici_kodu>
+    <tedarikci_marka>VICTOR REINZ</tedarikci_marka>
+    <satis_fiyati>3800</satis_fiyati>
+    <kdv>20</kdv>
+    <para_birimi>TL</para_birimi>
+    <stok>10</stok>
+    <tedarik_durumu>Tedarik ile getirtilir</tedarik_durumu>
+    <teslim_suresi>3-5 iş günü</teslim_suresi>
+    <himpeks_stok>0</himpeks_stok>
+    <birim>SET</birim>
+    <himpeks_id>113598</himpeks_id>
+  </urun>
+  <urun>
+    <stok_kodu>HMPX-RNZ-02-34220-01</stok_kodu>
+    <kaynak_kodu>RNZ-02-34220-01</kaynak_kodu>
+    <urun_adi>UST TAKIM CONTA</urun_adi>
+    <uretici_kodu>02-34220-01</uretici_kodu>
+    <tedarikci_marka>VICTOR REINZ</tedarikci_marka>
+    <satis_fiyati>13800</satis_fiyati>
+    <kdv>20</kdv>
+    <para_birimi>TL</para_birimi>
+    <stok>10</stok>
+    <tedarik_durumu>Tedarik ile getirtilir</tedarik_durumu>
+    <teslim_suresi>3-5 iş günü</teslim_suresi>
+    <himpeks_stok>0</himpeks_stok>
+    <birim>SET</birim>
+    <himpeks_id>113648</himpeks_id>
+  </urun>
+  <urun>
+    <stok_kodu>HMPX-RNZ-70-34264-00</stok_kodu>
+    <kaynak_kodu>RNZ-70-34264-00</kaynak_kodu>
+    <urun_adi>SUBAP LASTIGI</urun_adi>
+    <uretici_kodu></uretici_kodu>
+    <tedarikci_marka>VICTOR REINZ</tedarikci_marka>
+    <satis_fiyati>100</satis_fiyati>
+    <kdv>20</kdv>
+    <para_birimi>TL</para_birimi>
+    <stok>10</stok>
+    <tedarik_durumu>Tedarik ile getirtilir</tedarik_durumu>
+    <teslim_suresi>3-5 iş günü</teslim_suresi>
+    <himpeks_stok>0</himpeks_stok>
+    <birim>PCE</birim>
+    <himpeks_id>115647</himpeks_id>
+  </urun>
+  <urun>
+    <stok_kodu>HMPX-DAY-APV2259</stok_kodu>
+    <kaynak_kodu>DAY-APV2259</kaynak_kodu>
+    <urun_adi>KAYIŞ BELT</urun_adi>
+    <uretici_kodu></uretici_kodu>
+    <tedarikci_marka>DAYCO</tedarikci_marka>
+    <satis_fiyati>8300</satis_fiyati>
+    <kdv>20</kdv>
+    <para_birimi>TL</para_birimi>
+    <stok>10</stok>
+    <tedarik_durumu>Tedarik ile getirtilir</tedarik_durumu>
+    <teslim_suresi>3-5 iş günü</teslim_suresi>
+    <himpeks_stok>0</himpeks_stok>
+    <birim>PCE</birim>
+    <himpeks_id>18372</himpeks_id>
+  </urun>
+  <urun>
+    <stok_kodu>HMPX-DAY-APV2511</stok_kodu>
+    <kaynak_kodu>DAY-APV2511</kaynak_kodu>
+    <urun_adi>KAYIŞ BELT</urun_adi>
+    <uretici_kodu></uretici_kodu>
+    <tedarikci_marka>DAYCO</tedarikci_marka>
+    <satis_fiyati>4800</satis_fiyati>
+    <kdv>20</kdv>
+    <para_birimi>TL</para_birimi>
+    <stok>10</stok>
+    <tedarik_durumu>Tedarik ile getirtilir</tedarik_durumu>
+    <teslim_suresi>3-5 iş günü</teslim_suresi>
+    <himpeks_stok>0</himpeks_stok>
+    <birim>PCE</birim>
+    <himpeks_id>18405</himpeks_id>
+  </urun>
+  <urun>
+    <stok_kodu>HMPX-DAY-APV2667</stok_kodu>
+    <kaynak_kodu>DAY-APV2667</kaynak_kodu>
+    <urun_adi>KAYIŞ BELT</urun_adi>
+    <uretici_kodu></uretici_kodu>
+    <tedarikci_marka>DAYCO</tedarikci_marka>
+    <satis_fiyati>3900</satis_fiyati>
+    <kdv>20</kdv>
+    <para_birimi>TL</para_birimi>
+    <stok>10</stok>
+    <tedarik_durumu>Tedarik ile getirtilir</tedarik_durumu>
+    <teslim_suresi>3-5 iş günü</teslim_suresi>
+    <himpeks_stok>0</himpeks_stok>
+    <birim>PCE</birim>
+    <himpeks_id>18411</himpeks_id>
+  </urun>
+  <urun>
+    <stok_kodu>HMPX-RNZ-15-38642-01</stok_kodu>
+    <kaynak_kodu>RNZ-15-38642-01</kaynak_kodu>
+    <urun_adi>ENJEKTOR TAMIR TAKIMI</urun_adi>
+    <uretici_kodu>15-38642-01</uretici_kodu>
+    <tedarikci_marka>VICTOR REINZ</tedarikci_marka>
+    <satis_fiyati>1000</satis_fiyati>
+    <kdv>20</kdv>
+    <para_birimi>TL</para_birimi>
+    <stok>10</stok>
+    <tedarik_durumu>Tedarik ile getirtilir</tedarik_durumu>
+    <teslim_suresi>3-5 iş günü</teslim_suresi>
+    <himpeks_stok>0</himpeks_stok>
+    <birim>SET</birim>
+    <himpeks_id>114523</himpeks_id>
+  </urun>
+  <urun>
+    <stok_kodu>HMPX-RNZ-70-42741-00</stok_kodu>
+    <kaynak_kodu>RNZ-70-42741-00</kaynak_kodu>
+    <urun_adi>SUBAP KECESI</urun_adi>
+    <uretici_kodu></uretici_kodu>
+    <tedarikci_marka>VICTOR REINZ</tedarikci_marka>
+    <satis_fiyati>200</satis_fiyati>
+    <kdv>20</kdv>
+    <para_birimi>TL</para_birimi>
+    <stok>10</stok>
+    <tedarik_durumu>Tedarik ile getirtilir</tedarik_durumu>
+    <teslim_suresi>3-5 iş günü</teslim_suresi>
+    <himpeks_stok>0</himpeks_stok>
+    <birim>PCE</birim>
+    <himpeks_id>115677</himpeks_id>
+  </urun>
+  <urun>
+    <stok_kodu>HMPX-DPO-341-2904L-UQ</stok_kodu>
+    <kaynak_kodu>DPO-341-2904L-UQ</kaynak_kodu>
+    <urun_adi>REFLEKTOR SOL VOLKSWAGEN GOLF VII 15-</urun_adi>
+    <uretici_kodu>3412904LUQ</uretici_kodu>
+    <tedarikci_marka>DEPO</tedarikci_marka>
+    <satis_fiyati>900</satis_fiyati>
+    <kdv>20</kdv>
+    <para_birimi>TL</para_birimi>
+    <stok>10</stok>
+    <tedarik_durumu>Tedarik ile getirtilir</tedarik_durumu>
+    <teslim_suresi>3-5 iş günü</teslim_suresi>
+    <himpeks_stok>0</himpeks_stok>
+    <birim>PCE</birim>
+    <himpeks_id>29427</himpeks_id>
+  </urun>
+  <urun>
+    <stok_kodu>HMPX-DPO-341-2904R-UQ</stok_kodu>
+    <kaynak_kodu>DPO-341-2904R-UQ</kaynak_kodu>
+    <urun_adi>REFLEKTOR SAG VOLKSWAGEN GOLF VII 15-</urun_adi>
+    <uretici_kodu>3412904RUQ</uretici_kodu>
+    <tedarikci_marka>DEPO</tedarikci_marka>
+    <satis_fiyati>900</satis_fiyati>
+    <kdv>20</kdv>
+    <para_birimi>TL</para_birimi>
+    <stok>10</stok>
+    <tedarik_durumu>Tedarik ile getirtilir</tedarik_durumu>
+    <teslim_suresi>3-5 iş günü</teslim_suresi>
+    <himpeks_stok>0</himpeks_stok>
+    <birim>PCE</birim>
+    <himpeks_id>29428</himpeks_id>
+  </urun>
+  <urun>
+    <stok_kodu>HMPX-RNZ-70-42742-00</stok_kodu>
+    <kaynak_kodu>RNZ-70-42742-00</kaynak_kodu>
+    <urun_adi>CONTA - VANA MİLİ</urun_adi>
+    <uretici_kodu>70-42742-00</uretici_kodu>
+    <tedarikci_marka>VICTOR REINZ</tedarikci_marka>
+    <satis_fiyati>200</satis_fiyati>
+    <kdv>20</kdv>
+    <para_birimi>TL</para_birimi>
+    <stok>10</stok>
+    <tedarik_durumu>Tedarik ile getirtilir</tedarik_durumu>
+    <teslim_suresi>3-5 iş günü</teslim_suresi>
+    <himpeks_stok>0</himpeks_stok>
+    <birim>PCE</birim>
+    <himpeks_id>115678</himpeks_id>
+  </urun>
+  <urun>
+    <stok_kodu>HMPX-RNZ-71-36772-00</stok_kodu>
+    <kaynak_kodu>RNZ-71-36772-00</kaynak_kodu>
+    <urun_adi>ZINCIR KAPAK CONTASI</urun_adi>
+    <uretici_kodu></uretici_kodu>
+    <tedarikci_marka>VICTOR REINZ</tedarikci_marka>
+    <satis_fiyati>1400</satis_fiyati>
+    <kdv>20</kdv>
+    <para_birimi>TL</para_birimi>
+    <stok>10</stok>
+    <tedarik_durumu>Tedarik ile getirtilir</tedarik_durumu>
+    <teslim_suresi>3-5 iş günü</teslim_suresi>
+    <himpeks_stok>0</himpeks_stok>
+    <birim>PCE</birim>
+    <himpeks_id>116102</himpeks_id>
+  </urun>
+  <urun>
+    <stok_kodu>HMPX-SKF-VKM31160</stok_kodu>
+    <kaynak_kodu>SKF-VKM31160</kaynak_kodu>
+    <urun_adi>V KAYIS GERGI VW GOLF 13- PASSAT 15- POLO 15- AUDI A3 13- A4 13- A6 11-18 SEAT LEON 13- SKODA OCTAVIA 13</urun_adi>
+    <uretici_kodu>VKM31160</uretici_kodu>
+    <tedarikci_marka>SKF</tedarikci_marka>
+    <satis_fiyati>2600</satis_fiyati>
+    <kdv>20</kdv>
+    <para_birimi>TL</para_birimi>
+    <stok>10</stok>
+    <tedarik_durumu>Tedarik ile getirtilir</tedarik_durumu>
+    <teslim_suresi>3-5 iş günü</teslim_suresi>
+    <himpeks_stok>0</himpeks_stok>
+    <birim>PCE</birim>
+    <himpeks_id>120522</himpeks_id>
+  </urun>
+  <urun>
+    <stok_kodu>HMPX-SKF-VKT1001</stok_kodu>
+    <kaynak_kodu>SKF-VKT1001</kaynak_kodu>
+    <urun_adi>SANZUMAN CIFTLI RULMAN VW CADDY 04- GOLF 09- PASSA</urun_adi>
+    <uretici_kodu>VKT 1001</uretici_kodu>
+    <tedarikci_marka>SKF</tedarikci_marka>
+    <satis_fiyati>9400</satis_fiyati>
+    <kdv>20</kdv>
+    <para_birimi>TL</para_birimi>
+    <stok>10</stok>
+    <tedarik_durumu>Tedarik ile getirtilir</tedarik_durumu>
+    <teslim_suresi>3-5 iş günü</teslim_suresi>
+    <himpeks_stok>0</himpeks_stok>
+    <birim>PCE</birim>
+    <himpeks_id>121014</himpeks_id>
+  </urun>
+  <urun>
+    <stok_kodu>HMPX-RNZ-08-31717-01</stok_kodu>
+    <kaynak_kodu>RNZ-08-31717-01</kaynak_kodu>
+    <urun_adi>MOTOR ALT TAKIM CONTA</urun_adi>
+    <uretici_kodu>08-31717-01</uretici_kodu>
+    <tedarikci_marka>VICTOR REINZ</tedarikci_marka>
+    <satis_fiyati>4100</satis_fiyati>
+    <kdv>20</kdv>
+    <para_birimi>TL</para_birimi>
+    <stok>10</stok>
+    <tedarik_durumu>Tedarik ile getirtilir</tedarik_durumu>
+    <teslim_suresi>3-5 iş günü</teslim_suresi>
+    <himpeks_stok>0</himpeks_stok>
+    <birim>SET</birim>
+    <himpeks_id>113968</himpeks_id>
+  </urun>
+  <urun>
+    <stok_kodu>HMPX-RNZ-61-31705-00</stok_kodu>
+    <kaynak_kodu>RNZ-61-31705-00</kaynak_kodu>
+    <urun_adi>CONTA SİLİNDİR KAPAĞI</urun_adi>
+    <uretici_kodu>61-31705-00</uretici_kodu>
+    <tedarikci_marka>VICTOR REINZ</tedarikci_marka>
+    <satis_fiyati>1300</satis_fiyati>
+    <kdv>20</kdv>
+    <para_birimi>TL</para_birimi>
+    <stok>10</stok>
+    <tedarik_durumu>Tedarik ile getirtilir</tedarik_durumu>
+    <teslim_suresi>3-5 iş günü</teslim_suresi>
+    <himpeks_stok>0</himpeks_stok>
+    <birim>PCE</birim>
+    <himpeks_id>114834</himpeks_id>
+  </urun>
+  <urun>
+    <stok_kodu>HMPX-DAY-5PK690EE</stok_kodu>
+    <kaynak_kodu>DAY-5PK690EE</kaynak_kodu>
+    <urun_adi>BİLYA BEARING</urun_adi>
+    <uretici_kodu></uretici_kodu>
+    <tedarikci_marka>DAYCO</tedarikci_marka>
+    <satis_fiyati>700</satis_fiyati>
+    <kdv>20</kdv>
+    <para_birimi>TL</para_birimi>
+    <stok>10</stok>
+    <tedarik_durumu>Tedarik ile getirtilir</tedarik_durumu>
+    <teslim_suresi>3-5 iş günü</teslim_suresi>
+    <himpeks_stok>0</himpeks_stok>
+    <birim>PCE</birim>
+    <himpeks_id>17754</himpeks_id>
+  </urun>
+  <urun>
+    <stok_kodu>HMPX-DAY-6PK1029EE</stok_kodu>
+    <kaynak_kodu>DAY-6PK1029EE</kaynak_kodu>
+    <urun_adi>V KAYIŞI 6PK 1029 EE FOCUS-FIESTA 11&gt;</urun_adi>
+    <uretici_kodu>6PK1029EE</uretici_kodu>
+    <tedarikci_marka>DAYCO</tedarikci_marka>
+    <satis_fiyati>900</satis_fiyati>
+    <kdv>20</kdv>
+    <para_birimi>TL</para_birimi>
+    <stok>10</stok>
+    <tedarik_durumu>Tedarik ile getirtilir</tedarik_durumu>
+    <teslim_suresi>3-5 iş günü</teslim_suresi>
+    <himpeks_stok>0</himpeks_stok>
+    <birim>PCE</birim>
+    <himpeks_id>17823</himpeks_id>
+  </urun>
+  <urun>
+    <stok_kodu>HMPX-DAY-APV1114</stok_kodu>
+    <kaynak_kodu>DAY-APV1114</kaynak_kodu>
+    <urun_adi>KAYIŞ BELT</urun_adi>
+    <uretici_kodu></uretici_kodu>
+    <tedarikci_marka>DAYCO</tedarikci_marka>
+    <satis_fiyati>3200</satis_fiyati>
+    <kdv>20</kdv>
+    <para_birimi>TL</para_birimi>
+    <stok>10</stok>
+    <tedarik_durumu>Tedarik ile getirtilir</tedarik_durumu>
+    <teslim_suresi>3-5 iş günü</teslim_suresi>
+    <himpeks_stok>0</himpeks_stok>
+    <birim>PCE</birim>
+    <himpeks_id>18332</himpeks_id>
+  </urun>
+  <urun>
+    <stok_kodu>HMPX-RNZ-08-31934-01</stok_kodu>
+    <kaynak_kodu>RNZ-08-31934-01</kaynak_kodu>
+    <urun_adi>ALT TAKIM CONTA</urun_adi>
+    <uretici_kodu>08-31934-01</uretici_kodu>
+    <tedarikci_marka>VICTOR REINZ</tedarikci_marka>
+    <satis_fiyati>2400</satis_fiyati>
+    <kdv>20</kdv>
+    <para_birimi>TL</para_birimi>
+    <stok>10</stok>
+    <tedarik_durumu>Tedarik ile getirtilir</tedarik_durumu>
+    <teslim_suresi>3-5 iş günü</teslim_suresi>
+    <himpeks_stok>0</himpeks_stok>
+    <birim>SET</birim>
+    <himpeks_id>113970</himpeks_id>
+  </urun>
+  <urun>
+    <stok_kodu>HMPX-RNZ-61-35425-00</stok_kodu>
+    <kaynak_kodu>RNZ-61-35425-00</kaynak_kodu>
+    <urun_adi>SILINDIR KAPAGI CONTASI</urun_adi>
+    <uretici_kodu></uretici_kodu>
+    <tedarikci_marka>VICTOR REINZ</tedarikci_marka>
+    <satis_fiyati>3200</satis_fiyati>
+    <kdv>20</kdv>
+    <para_birimi>TL</para_birimi>
+    <stok>10</stok>
+    <tedarik_durumu>Tedarik ile getirtilir</tedarik_durumu>
+    <teslim_suresi>3-5 iş günü</teslim_suresi>
+    <himpeks_stok>0</himpeks_stok>
+    <birim>PCE</birim>
+    <himpeks_id>115043</himpeks_id>
+  </urun>
+  <urun>
+    <stok_kodu>HMPX-RNZ-70-12643-00</stok_kodu>
+    <kaynak_kodu>RNZ-70-12643-00</kaynak_kodu>
+    <urun_adi>MOTOR SUBAP LASTIGI</urun_adi>
+    <uretici_kodu></uretici_kodu>
+    <tedarikci_marka>VICTOR REINZ</tedarikci_marka>
+    <satis_fiyati>300</satis_fiyati>
+    <kdv>20</kdv>
+    <para_birimi>TL</para_birimi>
+    <stok>10</stok>
+    <tedarik_durumu>Tedarik ile getirtilir</tedarik_durumu>
+    <teslim_suresi>3-5 iş günü</teslim_suresi>
+    <himpeks_stok>0</himpeks_stok>
+    <birim>PCE</birim>
+    <himpeks_id>115599</himpeks_id>
+  </urun>
+  <urun>
+    <stok_kodu>HMPX-SAC-6366000021</stok_kodu>
+    <kaynak_kodu>SAC-6366000021</kaynak_kodu>
+    <urun_adi>VOLANT KOMPLE 1.5 TDCİ  FOCUS/KUGA/CONNECT/C-MAX</urun_adi>
+    <uretici_kodu>6366 000 021</uretici_kodu>
+    <tedarikci_marka>SACHS</tedarikci_marka>
+    <satis_fiyati>25900</satis_fiyati>
+    <kdv>20</kdv>
+    <para_birimi>TL</para_birimi>
+    <stok>1</stok>
+    <tedarik_durumu>Stokta</tedarik_durumu>
+    <teslim_suresi>1-2 iş günü</teslim_suresi>
+    <himpeks_stok>1</himpeks_stok>
+    <birim>PCE</birim>
+    <himpeks_id>118389</himpeks_id>
+    <resimler><resim>https://raw.githubusercontent.com/hamitaksoy4427/hsa-xml/main/resim/SAC_6366000021.jpg</resim></resimler>
+  </urun>
+  <urun>
+    <stok_kodu>HMPX-SKF VKBA 7099</stok_kodu>
+    <kaynak_kodu>SKF VKBA 7099</kaynak_kodu>
+    <urun_adi>ARKA TEKER BILYA TEK TEKER TRANSIT 14&gt;</urun_adi>
+    <uretici_kodu>VKBA 7099</uretici_kodu>
+    <tedarikci_marka>SKF</tedarikci_marka>
+    <satis_fiyati>10000</satis_fiyati>
+    <kdv>20</kdv>
+    <para_birimi>TL</para_birimi>
+    <stok>1</stok>
+    <tedarik_durumu>Stokta</tedarik_durumu>
+    <teslim_suresi>1-2 iş günü</teslim_suresi>
+    <himpeks_stok>1</himpeks_stok>
+    <birim>PCE</birim>
+    <himpeks_id>120080</himpeks_id>
+    <resimler><resim>https://raw.githubusercontent.com/hamitaksoy4427/hsa-xml/main/resim/SKF_VKBA_7099.jpg</resim></resimler>
+  </urun>
+  <urun>
+    <stok_kodu>HMPX-SKF VKML 84106</stok_kodu>
+    <kaynak_kodu>SKF VKML 84106</kaynak_kodu>
+    <urun_adi>EKSANTRİK ZİNCİR SETİ TRANSIT 06&gt;12&gt; 2.4 TDCI 100-120-140 PS</urun_adi>
+    <uretici_kodu>VKML 84106</uretici_kodu>
+    <tedarikci_marka>SKF</tedarikci_marka>
+    <satis_fiyati>9000</satis_fiyati>
+    <kdv>20</kdv>
+    <para_birimi>TL</para_birimi>
+    <stok>10</stok>
+    <tedarik_durumu>Tedarik ile getirtilir</tedarik_durumu>
+    <teslim_suresi>3-5 iş günü</teslim_suresi>
+    <himpeks_stok>0</himpeks_stok>
+    <birim>PCE</birim>
+    <himpeks_id>120864</himpeks_id>
+    <resimler><resim>https://raw.githubusercontent.com/hamitaksoy4427/hsa-xml/main/resim/SKF_VKML_84106.jpg</resim></resimler>
+  </urun>
+  <urun>
+    <stok_kodu>HMPX-SKT 040731-V</stok_kodu>
+    <kaynak_kodu>SKT 040731-V</kaynak_kodu>
+    <urun_adi>VAKUM KEÇE VİTON (MAKO DİNAMO)   TRANSIT 93&gt; T12-15</urun_adi>
+    <uretici_kodu>SKT 040731-V</uretici_kodu>
+    <tedarikci_marka>SKT</tedarikci_marka>
+    <satis_fiyati>300</satis_fiyati>
+    <kdv>20</kdv>
+    <para_birimi>TL</para_birimi>
+    <stok>20</stok>
+    <tedarik_durumu>Stokta</tedarik_durumu>
+    <teslim_suresi>1-2 iş günü</teslim_suresi>
+    <himpeks_stok>20</himpeks_stok>
+    <birim>PCE</birim>
+    <himpeks_id>121044</himpeks_id>
+    <resimler><resim>https://raw.githubusercontent.com/hamitaksoy4427/hsa-xml/main/resim/SKT_040731_V.jpg</resim></resimler>
+  </urun>
+  <urun>
+    <stok_kodu>HMPX-SKT 040901-P</stok_kodu>
+    <kaynak_kodu>SKT 040901-P</kaynak_kodu>
+    <urun_adi>VİTES MİL KEÇE  TRANSIT 01&gt;</urun_adi>
+    <uretici_kodu>SKT 040901-P</uretici_kodu>
+    <tedarikci_marka>SKT</tedarikci_marka>
+    <satis_fiyati>200</satis_fiyati>
+    <kdv>20</kdv>
+    <para_birimi>TL</para_birimi>
+    <stok>13</stok>
+    <tedarik_durumu>Stokta</tedarik_durumu>
+    <teslim_suresi>1-2 iş günü</teslim_suresi>
+    <himpeks_stok>13</himpeks_stok>
+    <birim>PCE</birim>
+    <himpeks_id>121074</himpeks_id>
+    <resimler><resim>https://raw.githubusercontent.com/hamitaksoy4427/hsa-xml/main/resim/SKT_040901_P.jpg</resim></resimler>
+  </urun>
+  <urun>
+    <stok_kodu>HMPX-SKT 410345-V</stok_kodu>
+    <kaynak_kodu>SKT 410345-V</kaynak_kodu>
+    <urun_adi>ARKA GRANK KEÇE  ESCORT 95&gt; ZETEC</urun_adi>
+    <uretici_kodu>SKT 410345-V</uretici_kodu>
+    <tedarikci_marka>SKT</tedarikci_marka>
+    <satis_fiyati>1000</satis_fiyati>
+    <kdv>20</kdv>
+    <para_birimi>TL</para_birimi>
+    <stok>7</stok>
+    <tedarik_durumu>Stokta</tedarik_durumu>
+    <teslim_suresi>1-2 iş günü</teslim_suresi>
+    <himpeks_stok>7</himpeks_stok>
+    <birim>PCE</birim>
+    <himpeks_id>121398</himpeks_id>
+    <resimler><resim>https://raw.githubusercontent.com/hamitaksoy4427/hsa-xml/main/resim/SKT_410345_V.jpg</resim></resimler>
+  </urun>
+  <urun>
+    <stok_kodu>HMPX-SKT 4S-002-P</stok_kodu>
+    <kaynak_kodu>SKT 4S-002-P</kaynak_kodu>
+    <urun_adi>SUPAP LASTİK 2.0 OHC TAUNUS 86&gt;</urun_adi>
+    <uretici_kodu>SKT 4S-002-P</uretici_kodu>
+    <tedarikci_marka>SKT</tedarikci_marka>
+    <satis_fiyati>100</satis_fiyati>
+    <kdv>20</kdv>
+    <para_birimi>TL</para_birimi>
+    <stok>27</stok>
+    <tedarik_durumu>Stokta</tedarik_durumu>
+    <teslim_suresi>1-2 iş günü</teslim_suresi>
+    <himpeks_stok>27</himpeks_stok>
+    <birim>PCE</birim>
+    <himpeks_id>121501</himpeks_id>
+    <resimler><resim>https://raw.githubusercontent.com/hamitaksoy4427/hsa-xml/main/resim/SKT_4S_002_P.jpg</resim></resimler>
+  </urun>
+  <urun>
+    <stok_kodu>HMPX-SKT 4S-027-V</stok_kodu>
+    <kaynak_kodu>SKT 4S-027-V</kaynak_kodu>
+    <urun_adi>SUPAP LASTİK  ESCORT 95&gt; ZETEC</urun_adi>
+    <uretici_kodu>SKT 4S-027-V</uretici_kodu>
+    <tedarikci_marka>SKT</tedarikci_marka>
+    <satis_fiyati>100</satis_fiyati>
+    <kdv>20</kdv>
+    <para_birimi>TL</para_birimi>
+    <stok>524</stok>
+    <tedarik_durumu>Stokta</tedarik_durumu>
+    <teslim_suresi>1-2 iş günü</teslim_suresi>
+    <himpeks_stok>524</himpeks_stok>
+    <birim>PCE</birim>
+    <himpeks_id>121506</himpeks_id>
+    <resimler><resim>https://raw.githubusercontent.com/hamitaksoy4427/hsa-xml/main/resim/SKT_4S_027_V.jpg</resim></resimler>
+  </urun>
+  <urun>
+    <stok_kodu>HMPX-RNZ-02-35930-02</stok_kodu>
+    <kaynak_kodu>RNZ-02-35930-02</kaynak_kodu>
+    <urun_adi>CONTA</urun_adi>
+    <uretici_kodu>02-35930-02</uretici_kodu>
+    <tedarikci_marka>VICTOR REINZ</tedarikci_marka>
+    <satis_fiyati>7500</satis_fiyati>
+    <kdv>20</kdv>
+    <para_birimi>TL</para_birimi>
+    <stok>10</stok>
+    <tedarik_durumu>Tedarik ile getirtilir</tedarik_durumu>
+    <teslim_suresi>3-5 iş günü</teslim_suresi>
+    <himpeks_stok>0</himpeks_stok>
+    <birim>SET</birim>
+    <himpeks_id>113692</himpeks_id>
+  </urun>
+  <urun>
+    <stok_kodu>HMPX-RNZ-14-32018-01</stok_kodu>
+    <kaynak_kodu>RNZ-14-32018-01</kaynak_kodu>
+    <urun_adi>CIVATA KİTİ - SİLİNDİR KAFASI</urun_adi>
+    <uretici_kodu>14-32018-01</uretici_kodu>
+    <tedarikci_marka>VICTOR REINZ</tedarikci_marka>
+    <satis_fiyati>1000</satis_fiyati>
+    <kdv>20</kdv>
+    <para_birimi>TL</para_birimi>
+    <stok>10</stok>
+    <tedarik_durumu>Tedarik ile getirtilir</tedarik_durumu>
+    <teslim_suresi>3-5 iş günü</teslim_suresi>
+    <himpeks_stok>0</himpeks_stok>
+    <birim>SET</birim>
+    <himpeks_id>114276</himpeks_id>
+  </urun>
+  <urun>
+    <stok_kodu>HMPX-RNZ-61-28415-20</stok_kodu>
+    <kaynak_kodu>RNZ-61-28415-20</kaynak_kodu>
+    <urun_adi>CONTA SİLİNDİR KAPAĞI</urun_adi>
+    <uretici_kodu>61-28415-20</uretici_kodu>
+    <tedarikci_marka>VICTOR REINZ</tedarikci_marka>
+    <satis_fiyati>2500</satis_fiyati>
+    <kdv>20</kdv>
+    <para_birimi>TL</para_birimi>
+    <stok>10</stok>
+    <tedarik_durumu>Tedarik ile getirtilir</tedarik_durumu>
+    <teslim_suresi>3-5 iş günü</teslim_suresi>
+    <himpeks_stok>0</himpeks_stok>
+    <birim>PCE</birim>
+    <himpeks_id>114760</himpeks_id>
+  </urun>
+  <urun>
+    <stok_kodu>HMPX-RNZ-61-35425-10</stok_kodu>
+    <kaynak_kodu>RNZ-61-35425-10</kaynak_kodu>
+    <urun_adi>SILINDIR KAPAGI CONTASI</urun_adi>
+    <uretici_kodu></uretici_kodu>
+    <tedarikci_marka>VICTOR REINZ</tedarikci_marka>
+    <satis_fiyati>3200</satis_fiyati>
+    <kdv>20</kdv>
+    <para_birimi>TL</para_birimi>
+    <stok>10</stok>
+    <tedarik_durumu>Tedarik ile getirtilir</tedarik_durumu>
+    <teslim_suresi>3-5 iş günü</teslim_suresi>
+    <himpeks_stok>0</himpeks_stok>
+    <birim>PCE</birim>
+    <himpeks_id>115044</himpeks_id>
+  </urun>
+  <urun>
+    <stok_kodu>HMPX-RNZ-70-35544-00</stok_kodu>
+    <kaynak_kodu>RNZ-70-35544-00</kaynak_kodu>
+    <urun_adi>SUBAP LASTIGI</urun_adi>
+    <uretici_kodu>70-35544-00</uretici_kodu>
+    <tedarikci_marka>VICTOR REINZ</tedarikci_marka>
+    <satis_fiyati>200</satis_fiyati>
+    <kdv>20</kdv>
+    <para_birimi>TL</para_birimi>
+    <stok>10</stok>
+    <tedarik_durumu>Tedarik ile getirtilir</tedarik_durumu>
+    <teslim_suresi>3-5 iş günü</teslim_suresi>
+    <himpeks_stok>0</himpeks_stok>
+    <birim>PCE</birim>
+    <himpeks_id>115656</himpeks_id>
+  </urun>
+  <urun>
+    <stok_kodu>HMPX-RNZ-70-35893-00</stok_kodu>
+    <kaynak_kodu>RNZ-70-35893-00</kaynak_kodu>
+    <urun_adi>CONTA - VANA MİLİ</urun_adi>
+    <uretici_kodu>70-35893-00</uretici_kodu>
+    <tedarikci_marka>VICTOR REINZ</tedarikci_marka>
+    <satis_fiyati>100</satis_fiyati>
+    <kdv>20</kdv>
+    <para_birimi>TL</para_birimi>
+    <stok>10</stok>
+    <tedarik_durumu>Tedarik ile getirtilir</tedarik_durumu>
+    <teslim_suresi>3-5 iş günü</teslim_suresi>
+    <himpeks_stok>0</himpeks_stok>
+    <birim>PCE</birim>
+    <himpeks_id>115662</himpeks_id>
+  </urun>
+  <urun>
+    <stok_kodu>HMPX-RNZ-71-34111-00</stok_kodu>
+    <kaynak_kodu>RNZ-71-34111-00</kaynak_kodu>
+    <urun_adi>CONTA - EMME MANİFOLD</urun_adi>
+    <uretici_kodu>71-34111-00</uretici_kodu>
+    <tedarikci_marka>VICTOR REINZ</tedarikci_marka>
+    <satis_fiyati>400</satis_fiyati>
+    <kdv>20</kdv>
+    <para_birimi>TL</para_birimi>
+    <stok>10</stok>
+    <tedarik_durumu>Tedarik ile getirtilir</tedarik_durumu>
+    <teslim_suresi>3-5 iş günü</teslim_suresi>
+    <himpeks_stok>0</himpeks_stok>
+    <birim>PCE</birim>
+    <himpeks_id>115934</himpeks_id>
+  </urun>
+  <urun>
+    <stok_kodu>HMPX-RNZ-71-35537-00</stok_kodu>
+    <kaynak_kodu>RNZ-71-35537-00</kaynak_kodu>
+    <urun_adi>CONTA - EMME MANİFOLD</urun_adi>
+    <uretici_kodu>71-35537-00</uretici_kodu>
+    <tedarikci_marka>VICTOR REINZ</tedarikci_marka>
+    <satis_fiyati>500</satis_fiyati>
+    <kdv>20</kdv>
+    <para_birimi>TL</para_birimi>
+    <stok>10</stok>
+    <tedarik_durumu>Tedarik ile getirtilir</tedarik_durumu>
+    <teslim_suresi>3-5 iş günü</teslim_suresi>
+    <himpeks_stok>0</himpeks_stok>
+    <birim>PCE</birim>
+    <himpeks_id>116017</himpeks_id>
+  </urun>
+  <urun>
+    <stok_kodu>HMPX-RNZ-81-33872-00</stok_kodu>
+    <kaynak_kodu>RNZ-81-33872-00</kaynak_kodu>
+    <urun_adi>MİL YAĞ KEÇESİ</urun_adi>
+    <uretici_kodu>81-33872-00</uretici_kodu>
+    <tedarikci_marka>VICTOR REINZ</tedarikci_marka>
+    <satis_fiyati>2400</satis_fiyati>
+    <kdv>20</kdv>
+    <para_birimi>TL</para_birimi>
+    <stok>10</stok>
+    <tedarik_durumu>Tedarik ile getirtilir</tedarik_durumu>
+    <teslim_suresi>3-5 iş günü</teslim_suresi>
+    <himpeks_stok>0</himpeks_stok>
+    <birim>PCE</birim>
+    <himpeks_id>116513</himpeks_id>
+  </urun>
+  <urun>
+    <stok_kodu>HMPX-RNZ-14-55096-01</stok_kodu>
+    <kaynak_kodu>RNZ-14-55096-01</kaynak_kodu>
+    <urun_adi>CONTA</urun_adi>
+    <uretici_kodu>14-55096-01</uretici_kodu>
+    <tedarikci_marka>VICTOR REINZ</tedarikci_marka>
+    <satis_fiyati>4000</satis_fiyati>
+    <kdv>20</kdv>
+    <para_birimi>TL</para_birimi>
+    <stok>10</stok>
+    <tedarik_durumu>Tedarik ile getirtilir</tedarik_durumu>
+    <teslim_suresi>3-5 iş günü</teslim_suresi>
+    <himpeks_stok>0</himpeks_stok>
+    <birim>SET</birim>
+    <himpeks_id>114440</himpeks_id>
+  </urun>
+  <urun>
+    <stok_kodu>HMPX-RNZ-12-52718-02</stok_kodu>
+    <kaynak_kodu>RNZ-12-52718-02</kaynak_kodu>
+    <urun_adi>CONTA TAKIMI - VANA MİLİ</urun_adi>
+    <uretici_kodu>12-52718-02</uretici_kodu>
+    <tedarikci_marka>VICTOR REINZ</tedarikci_marka>
+    <satis_fiyati>700</satis_fiyati>
+    <kdv>20</kdv>
+    <para_birimi>TL</para_birimi>
+    <stok>10</stok>
+    <tedarik_durumu>Tedarik ile getirtilir</tedarik_durumu>
+    <teslim_suresi>3-5 iş günü</teslim_suresi>
+    <himpeks_stok>0</himpeks_stok>
+    <birim>SET</birim>
+    <himpeks_id>114191</himpeks_id>
+  </urun>
+  <urun>
+    <stok_kodu>HMPX-RNZ-81-54068-00</stok_kodu>
+    <kaynak_kodu>RNZ-81-54068-00</kaynak_kodu>
+    <urun_adi>MİL YAĞ KEÇESİ</urun_adi>
+    <uretici_kodu>81-54068-00</uretici_kodu>
+    <tedarikci_marka>VICTOR REINZ</tedarikci_marka>
+    <satis_fiyati>300</satis_fiyati>
+    <kdv>20</kdv>
+    <para_birimi>TL</para_birimi>
+    <stok>10</stok>
+    <tedarik_durumu>Tedarik ile getirtilir</tedarik_durumu>
+    <teslim_suresi>3-5 iş günü</teslim_suresi>
+    <himpeks_stok>0</himpeks_stok>
+    <birim>PCE</birim>
+    <himpeks_id>116660</himpeks_id>
+  </urun>
+  <urun>
+    <stok_kodu>HMPX-DPO-223-1604L-UE</stok_kodu>
+    <kaynak_kodu>DPO-223-1604L-UE</kaynak_kodu>
+    <urun_adi>GUNDUZ SURUS LAMBASI SOL- KIA RIO 15&gt;</urun_adi>
+    <uretici_kodu>2231604LUE</uretici_kodu>
+    <tedarikci_marka>DEPO</tedarikci_marka>
+    <satis_fiyati>1600</satis_fiyati>
+    <kdv>20</kdv>
+    <para_birimi>TL</para_birimi>
+    <stok>10</stok>
+    <tedarik_durumu>Tedarik ile getirtilir</tedarik_durumu>
+    <teslim_suresi>3-5 iş günü</teslim_suresi>
+    <himpeks_stok>0</himpeks_stok>
+    <birim>PCE</birim>
+    <himpeks_id>29225</himpeks_id>
+  </urun>
+  <urun>
+    <stok_kodu>HMPX-DPO-212-1546L-UE</stok_kodu>
+    <kaynak_kodu>DPO-212-1546L-UE</kaynak_kodu>
+    <urun_adi>SINYAL LAMBASI SOL TOYOTA COROLLA AE92 88-91 DUYSUZ SIGNAL LAMP LEFT TOYOTA COROLLA AE92 88-91 WITHOUT SENSOR</urun_adi>
+    <uretici_kodu>2121546LUE</uretici_kodu>
+    <tedarikci_marka>DEPO</tedarikci_marka>
+    <satis_fiyati>800</satis_fiyati>
+    <kdv>20</kdv>
+    <para_birimi>TL</para_birimi>
+    <stok>10</stok>
+    <tedarik_durumu>Tedarik ile getirtilir</tedarik_durumu>
+    <teslim_suresi>3-5 iş günü</teslim_suresi>
+    <himpeks_stok>0</himpeks_stok>
+    <birim>PCE</birim>
+    <himpeks_id>27764</himpeks_id>
+  </urun>
+  <urun>
+    <stok_kodu>HMPX-DPO-212-19K1L-LD-UE</stok_kodu>
+    <kaynak_kodu>DPO-212-19K1L-LD-UE</kaynak_kodu>
+    <urun_adi>STOP LAMBASI SOL TOYOTA HILUX VIGO 04- SISLI  TAILLIGHT LEFT TOYOTA HILUX VIGO 04- FOGGY</urun_adi>
+    <uretici_kodu>21219K1LLDUE</uretici_kodu>
+    <tedarikci_marka>DEPO</tedarikci_marka>
+    <satis_fiyati>3400</satis_fiyati>
+    <kdv>20</kdv>
+    <para_birimi>TL</para_birimi>
+    <stok>10</stok>
+    <tedarik_durumu>Tedarik ile getirtilir</tedarik_durumu>
+    <teslim_suresi>3-5 iş günü</teslim_suresi>
+    <himpeks_stok>0</himpeks_stok>
+    <birim>PCE</birim>
+    <himpeks_id>27872</himpeks_id>
+  </urun>
+  <urun>
+    <stok_kodu>HMPX-SKF-VKM61085</stok_kodu>
+    <kaynak_kodu>SKF-VKM61085</kaynak_kodu>
+    <urun_adi>V KAYIŞI GERGI</urun_adi>
+    <uretici_kodu>VKM61085</uretici_kodu>
+    <tedarikci_marka>SKF</tedarikci_marka>
+    <satis_fiyati>2400</satis_fiyati>
+    <kdv>20</kdv>
+    <para_birimi>TL</para_birimi>
+    <stok>10</stok>
+    <tedarik_durumu>Tedarik ile getirtilir</tedarik_durumu>
+    <teslim_suresi>3-5 iş günü</teslim_suresi>
+    <himpeks_stok>0</himpeks_stok>
+    <birim>PCE</birim>
+    <himpeks_id>120609</himpeks_id>
+  </urun>
+  <urun>
+    <stok_kodu>HMPX-RNZ-15-52664-01</stok_kodu>
+    <kaynak_kodu>RNZ-15-52664-01</kaynak_kodu>
+    <urun_adi>CONTA SETİ - SİLİNDİR KAPAĞI</urun_adi>
+    <uretici_kodu>15-52664-01</uretici_kodu>
+    <tedarikci_marka>VICTOR REINZ</tedarikci_marka>
+    <satis_fiyati>900</satis_fiyati>
+    <kdv>20</kdv>
+    <para_birimi>TL</para_birimi>
+    <stok>10</stok>
+    <tedarik_durumu>Tedarik ile getirtilir</tedarik_durumu>
+    <teslim_suresi>3-5 iş günü</teslim_suresi>
+    <himpeks_stok>0</himpeks_stok>
+    <birim>SET</birim>
+    <himpeks_id>114557</himpeks_id>
+  </urun>
+  <urun>
+    <stok_kodu>HMPX-SKF-VKM63014</stok_kodu>
+    <kaynak_kodu>SKF-VKM63014</kaynak_kodu>
+    <urun_adi>GERGI RULMANI HONDA CIVIC 1.6 05-12 / ACCORD 2.0 08-15 / CRV 2.0 07</urun_adi>
+    <uretici_kodu>VKM63014</uretici_kodu>
+    <tedarikci_marka>SKF</tedarikci_marka>
+    <satis_fiyati>1300</satis_fiyati>
+    <kdv>20</kdv>
+    <para_birimi>TL</para_birimi>
+    <stok>10</stok>
+    <tedarik_durumu>Tedarik ile getirtilir</tedarik_durumu>
+    <teslim_suresi>3-5 iş günü</teslim_suresi>
+    <himpeks_stok>0</himpeks_stok>
+    <birim>PCE</birim>
+    <himpeks_id>120610</himpeks_id>
+  </urun>
+  <urun>
+    <stok_kodu>HMPX-DAY-APV2447</stok_kodu>
+    <kaynak_kodu>DAY-APV2447</kaynak_kodu>
+    <urun_adi>GERGİ BİLYASI TENSIONER BEARING</urun_adi>
+    <uretici_kodu></uretici_kodu>
+    <tedarikci_marka>DAYCO</tedarikci_marka>
+    <satis_fiyati>4300</satis_fiyati>
+    <kdv>20</kdv>
+    <para_birimi>TL</para_birimi>
+    <stok>10</stok>
+    <tedarik_durumu>Tedarik ile getirtilir</tedarik_durumu>
+    <teslim_suresi>3-5 iş günü</teslim_suresi>
+    <himpeks_stok>0</himpeks_stok>
+    <birim>PCE</birim>
+    <himpeks_id>18392</himpeks_id>
+  </urun>
+  <urun>
+    <stok_kodu>HMPX-DPO-216-2906L3UQ</stok_kodu>
+    <kaynak_kodu>DPO-216-2906L3UQ</kaynak_kodu>
+    <urun_adi>REFLEKTOR SOL MAZDA 3 SERISI 09&gt;13  REFLECTOR LEFT MAZDA 3 SERIES 09&gt;13</urun_adi>
+    <uretici_kodu>2162906L3UQ</uretici_kodu>
+    <tedarikci_marka>DEPO</tedarikci_marka>
+    <satis_fiyati>200</satis_fiyati>
+    <kdv>20</kdv>
+    <para_birimi>TL</para_birimi>
+    <stok>10</stok>
+    <tedarik_durumu>Tedarik ile getirtilir</tedarik_durumu>
+    <teslim_suresi>3-5 iş günü</teslim_suresi>
+    <himpeks_stok>0</himpeks_stok>
+    <birim>PCE</birim>
+    <himpeks_id>28549</himpeks_id>
+  </urun>
+  <urun>
+    <stok_kodu>HMPX-DPO-216-2906R3UQ</stok_kodu>
+    <kaynak_kodu>DPO-216-2906R3UQ</kaynak_kodu>
+    <urun_adi>REFLEKTOR SAG MAZDA 3 SERISI 09&gt;13  REFLECTOR RIGHT MAZDA 3 SERIES 09&gt;13</urun_adi>
+    <uretici_kodu>2162906R3UQ</uretici_kodu>
+    <tedarikci_marka>DEPO</tedarikci_marka>
+    <satis_fiyati>200</satis_fiyati>
+    <kdv>20</kdv>
+    <para_birimi>TL</para_birimi>
+    <stok>10</stok>
+    <tedarik_durumu>Tedarik ile getirtilir</tedarik_durumu>
+    <teslim_suresi>3-5 iş günü</teslim_suresi>
+    <himpeks_stok>0</himpeks_stok>
+    <birim>PCE</birim>
+    <himpeks_id>28550</himpeks_id>
+  </urun>
+  <urun>
+    <stok_kodu>HMPX-SKF-VKBA7536</stok_kodu>
+    <kaynak_kodu>SKF-VKBA7536</kaynak_kodu>
+    <urun_adi>RULMAN ON TEKER VKBA7537 ABSLI - MAZDA-6 08&gt;12</urun_adi>
+    <uretici_kodu>VKBA7536</uretici_kodu>
+    <tedarikci_marka>SKF</tedarikci_marka>
+    <satis_fiyati>5300</satis_fiyati>
+    <kdv>20</kdv>
+    <para_birimi>TL</para_birimi>
+    <stok>10</stok>
+    <tedarik_durumu>Tedarik ile getirtilir</tedarik_durumu>
+    <teslim_suresi>3-5 iş günü</teslim_suresi>
+    <himpeks_stok>0</himpeks_stok>
+    <birim>PCE</birim>
+    <himpeks_id>120112</himpeks_id>
+  </urun>
+  <urun>
+    <stok_kodu>HMPX-RNZ-12-35406-01</stok_kodu>
+    <kaynak_kodu>RNZ-12-35406-01</kaynak_kodu>
+    <urun_adi>MOTOR SUBAP LASTIGI</urun_adi>
+    <uretici_kodu>12-35406-01</uretici_kodu>
+    <tedarikci_marka>VICTOR REINZ</tedarikci_marka>
+    <satis_fiyati>3600</satis_fiyati>
+    <kdv>20</kdv>
+    <para_birimi>TL</para_birimi>
+    <stok>10</stok>
+    <tedarik_durumu>Tedarik ile getirtilir</tedarik_durumu>
+    <teslim_suresi>3-5 iş günü</teslim_suresi>
+    <himpeks_stok>0</himpeks_stok>
+    <birim>SET</birim>
+    <himpeks_id>114161</himpeks_id>
+  </urun>
+  <urun>
+    <stok_kodu>HMPX-RNZ-15-52247-01</stok_kodu>
+    <kaynak_kodu>RNZ-15-52247-01</kaynak_kodu>
+    <urun_adi>CONTA SETİ - SİLİNDİR KAPAĞI</urun_adi>
+    <uretici_kodu>15-52247-01</uretici_kodu>
+    <tedarikci_marka>VICTOR REINZ</tedarikci_marka>
+    <satis_fiyati>600</satis_fiyati>
+    <kdv>20</kdv>
+    <para_birimi>TL</para_birimi>
+    <stok>10</stok>
+    <tedarik_durumu>Tedarik ile getirtilir</tedarik_durumu>
+    <teslim_suresi>3-5 iş günü</teslim_suresi>
+    <himpeks_stok>0</himpeks_stok>
+    <birim>SET</birim>
+    <himpeks_id>114554</himpeks_id>
+  </urun>
+  <urun>
+    <stok_kodu>HMPX-RNZ-15-53187-01</stok_kodu>
+    <kaynak_kodu>RNZ-15-53187-01</kaynak_kodu>
+    <urun_adi>CONTA SETİ - SİLİNDİR KAPAĞI</urun_adi>
+    <uretici_kodu>15-53187-01</uretici_kodu>
+    <tedarikci_marka>VICTOR REINZ</tedarikci_marka>
+    <satis_fiyati>800</satis_fiyati>
+    <kdv>20</kdv>
+    <para_birimi>TL</para_birimi>
+    <stok>10</stok>
+    <tedarik_durumu>Tedarik ile getirtilir</tedarik_durumu>
+    <teslim_suresi>3-5 iş günü</teslim_suresi>
+    <himpeks_stok>0</himpeks_stok>
+    <birim>SET</birim>
+    <himpeks_id>114576</himpeks_id>
+  </urun>
+  <urun>
+    <stok_kodu>HMPX-RNZ-70-27214-00</stok_kodu>
+    <kaynak_kodu>RNZ-70-27214-00</kaynak_kodu>
+    <urun_adi>SUBAP LASTİĞİ</urun_adi>
+    <uretici_kodu>70-27214-00</uretici_kodu>
+    <tedarikci_marka>VICTOR REINZ</tedarikci_marka>
+    <satis_fiyati>100</satis_fiyati>
+    <kdv>20</kdv>
+    <para_birimi>TL</para_birimi>
+    <stok>10</stok>
+    <tedarik_durumu>Tedarik ile getirtilir</tedarik_durumu>
+    <teslim_suresi>3-5 iş günü</teslim_suresi>
+    <himpeks_stok>0</himpeks_stok>
+    <birim>PCE</birim>
+    <himpeks_id>115618</himpeks_id>
+  </urun>
+  <urun>
+    <stok_kodu>HMPX-SKF-VKBA6640</stok_kodu>
+    <kaynak_kodu>SKF-VKBA6640</kaynak_kodu>
+    <urun_adi>RULMAN ARKA TEKER VKBA3966 25×52×42 SUZUKI IGNIS 03&gt;10</urun_adi>
+    <uretici_kodu>VKBA6640</uretici_kodu>
+    <tedarikci_marka>SKF</tedarikci_marka>
+    <satis_fiyati>3100</satis_fiyati>
+    <kdv>20</kdv>
+    <para_birimi>TL</para_birimi>
+    <stok>10</stok>
+    <tedarik_durumu>Tedarik ile getirtilir</tedarik_durumu>
+    <teslim_suresi>3-5 iş günü</teslim_suresi>
+    <himpeks_stok>0</himpeks_stok>
+    <birim>PCE</birim>
+    <himpeks_id>119984</himpeks_id>
+  </urun>
+  <urun>
+    <stok_kodu>HMPX-RNZ-08-35408-01</stok_kodu>
+    <kaynak_kodu>RNZ-08-35408-01</kaynak_kodu>
+    <urun_adi>ALT TAKIM CONTA</urun_adi>
+    <uretici_kodu>08-35408-01</uretici_kodu>
+    <tedarikci_marka>VICTOR REINZ</tedarikci_marka>
+    <satis_fiyati>2700</satis_fiyati>
+    <kdv>20</kdv>
+    <para_birimi>TL</para_birimi>
+    <stok>10</stok>
+    <tedarik_durumu>Tedarik ile getirtilir</tedarik_durumu>
+    <teslim_suresi>3-5 iş günü</teslim_suresi>
+    <himpeks_stok>0</himpeks_stok>
+    <birim>SET</birim>
+    <himpeks_id>114015</himpeks_id>
+  </urun>
+  <urun>
+    <stok_kodu>HMPX-RNZ-81-15512-30</stok_kodu>
+    <kaynak_kodu>RNZ-81-15512-30</kaynak_kodu>
+    <urun_adi>YAG POMPA HAREKET MILI KECESI</urun_adi>
+    <uretici_kodu></uretici_kodu>
+    <tedarikci_marka>VICTOR REINZ</tedarikci_marka>
+    <satis_fiyati>400</satis_fiyati>
+    <kdv>20</kdv>
+    <para_birimi>TL</para_birimi>
+    <stok>10</stok>
+    <tedarik_durumu>Tedarik ile getirtilir</tedarik_durumu>
+    <teslim_suresi>3-5 iş günü</teslim_suresi>
+    <himpeks_stok>0</himpeks_stok>
+    <birim>PCE</birim>
+    <himpeks_id>116467</himpeks_id>
+  </urun>
+  <urun>
+    <stok_kodu>HMPX-DAY-APV2464</stok_kodu>
+    <kaynak_kodu>DAY-APV2464</kaynak_kodu>
+    <urun_adi>V KAYIS GERGI RULMANI KUTUKLU LAND ROVER FREELANDER 2.2 TD4 06-14 RANGE ROVER EVOQUE 2.2D 11-&gt;</urun_adi>
+    <uretici_kodu>APV2464</uretici_kodu>
+    <tedarikci_marka>DAYCO</tedarikci_marka>
+    <satis_fiyati>3400</satis_fiyati>
+    <kdv>20</kdv>
+    <para_birimi>TL</para_birimi>
+    <stok>10</stok>
+    <tedarik_durumu>Tedarik ile getirtilir</tedarik_durumu>
+    <teslim_suresi>3-5 iş günü</teslim_suresi>
+    <himpeks_stok>0</himpeks_stok>
+    <birim>PCE</birim>
+    <himpeks_id>18395</himpeks_id>
+  </urun>
+  <urun>
+    <stok_kodu>HMPX-RNZ-12-34836-01</stok_kodu>
+    <kaynak_kodu>RNZ-12-34836-01</kaynak_kodu>
+    <urun_adi>CONTA</urun_adi>
+    <uretici_kodu>12-34836-01</uretici_kodu>
+    <tedarikci_marka>VICTOR REINZ</tedarikci_marka>
+    <satis_fiyati>2800</satis_fiyati>
+    <kdv>20</kdv>
+    <para_birimi>TL</para_birimi>
+    <stok>10</stok>
+    <tedarik_durumu>Tedarik ile getirtilir</tedarik_durumu>
+    <teslim_suresi>3-5 iş günü</teslim_suresi>
+    <himpeks_stok>0</himpeks_stok>
+    <birim>SET</birim>
+    <himpeks_id>114158</himpeks_id>
+  </urun>
+  <urun>
+    <stok_kodu>HMPX-RNZ-61-35355-00</stok_kodu>
+    <kaynak_kodu>RNZ-61-35355-00</kaynak_kodu>
+    <urun_adi>SILINDIR KAPAGI CONTASI</urun_adi>
+    <uretici_kodu></uretici_kodu>
+    <tedarikci_marka>VICTOR REINZ</tedarikci_marka>
+    <satis_fiyati>2500</satis_fiyati>
+    <kdv>20</kdv>
+    <para_birimi>TL</para_birimi>
+    <stok>10</stok>
+    <tedarik_durumu>Tedarik ile getirtilir</tedarik_durumu>
+    <teslim_suresi>3-5 iş günü</teslim_suresi>
+    <himpeks_stok>0</himpeks_stok>
+    <birim>PCE</birim>
+    <himpeks_id>115037</himpeks_id>
+  </urun>
+  <urun>
+    <stok_kodu>HMPX-RNZ-12-29491-02</stok_kodu>
+    <kaynak_kodu>RNZ-12-29491-02</kaynak_kodu>
+    <urun_adi>SUPAP LASTIGI SET</urun_adi>
+    <uretici_kodu>12-29491-02</uretici_kodu>
+    <tedarikci_marka>VICTOR REINZ</tedarikci_marka>
+    <satis_fiyati>1800</satis_fiyati>
+    <kdv>20</kdv>
+    <para_birimi>TL</para_birimi>
+    <stok>10</stok>
+    <tedarik_durumu>Tedarik ile getirtilir</tedarik_durumu>
+    <teslim_suresi>3-5 iş günü</teslim_suresi>
+    <himpeks_stok>0</himpeks_stok>
+    <birim>SET</birim>
+    <himpeks_id>114140</himpeks_id>
+  </urun>
+  <urun>
+    <stok_kodu>HMPX-RNZ-15-29497-01</stok_kodu>
+    <kaynak_kodu>RNZ-15-29497-01</kaynak_kodu>
+    <urun_adi>KULBUTOR KAPAK CONTASI TK</urun_adi>
+    <uretici_kodu>15-29497-01</uretici_kodu>
+    <tedarikci_marka>VICTOR REINZ</tedarikci_marka>
+    <satis_fiyati>2600</satis_fiyati>
+    <kdv>20</kdv>
+    <para_birimi>TL</para_birimi>
+    <stok>10</stok>
+    <tedarik_durumu>Tedarik ile getirtilir</tedarik_durumu>
+    <teslim_suresi>3-5 iş günü</teslim_suresi>
+    <himpeks_stok>0</himpeks_stok>
+    <birim>PCE</birim>
+    <himpeks_id>114470</himpeks_id>
+  </urun>
+  <urun>
+    <stok_kodu>HMPX-RNZ-61-31255-00</stok_kodu>
+    <kaynak_kodu>RNZ-61-31255-00</kaynak_kodu>
+    <urun_adi>SILINDIR KAPAGI CONTASI</urun_adi>
+    <uretici_kodu>61-31255-00</uretici_kodu>
+    <tedarikci_marka>VICTOR REINZ</tedarikci_marka>
+    <satis_fiyati>2600</satis_fiyati>
+    <kdv>20</kdv>
+    <para_birimi>TL</para_birimi>
+    <stok>10</stok>
+    <tedarik_durumu>Tedarik ile getirtilir</tedarik_durumu>
+    <teslim_suresi>3-5 iş günü</teslim_suresi>
+    <himpeks_stok>0</himpeks_stok>
+    <birim>PCE</birim>
+    <himpeks_id>114803</himpeks_id>
+  </urun>
+  <urun>
+    <stok_kodu>HMPX-RNZ-71-36394-00</stok_kodu>
+    <kaynak_kodu>RNZ-71-36394-00</kaynak_kodu>
+    <urun_adi>KULBUTOR KAPAK CONTA</urun_adi>
+    <uretici_kodu></uretici_kodu>
+    <tedarikci_marka>VICTOR REINZ</tedarikci_marka>
+    <satis_fiyati>1300</satis_fiyati>
+    <kdv>20</kdv>
+    <para_birimi>TL</para_birimi>
+    <stok>10</stok>
+    <tedarik_durumu>Tedarik ile getirtilir</tedarik_durumu>
+    <teslim_suresi>3-5 iş günü</teslim_suresi>
+    <himpeks_stok>0</himpeks_stok>
+    <birim>PCE</birim>
+    <himpeks_id>116089</himpeks_id>
+  </urun>
+  <urun>
+    <stok_kodu>HMPX-SKT 046024-V</stok_kodu>
+    <kaynak_kodu>SKT 046024-V</kaynak_kodu>
+    <urun_adi>KECE 34×52X7 L13TL SAG</urun_adi>
+    <uretici_kodu></uretici_kodu>
+    <tedarikci_marka>SKT</tedarikci_marka>
+    <satis_fiyati>400</satis_fiyati>
+    <kdv>20</kdv>
+    <para_birimi>TL</para_birimi>
+    <stok>20</stok>
+    <tedarik_durumu>Stokta</tedarik_durumu>
+    <teslim_suresi>1-2 iş günü</teslim_suresi>
+    <himpeks_stok>20</himpeks_stok>
+    <birim>PCE</birim>
+    <himpeks_id>121228</himpeks_id>
+    <resimler><resim>https://raw.githubusercontent.com/hamitaksoy4427/hsa-xml/main/resim/SKT_046024_V.jpg</resim></resimler>
+  </urun>
+  <urun>
+    <stok_kodu>HMPX-PUR-FCS932</stok_kodu>
+    <kaynak_kodu>PUR-FCS932</kaynak_kodu>
+    <urun_adi>MAZOT FILTRESI MERCEDES C SERISI C180CDI 11- / E SERISI E220CDI 09- / GLK SERISI</urun_adi>
+    <uretici_kodu>FCS932</uretici_kodu>
+    <tedarikci_marka>PURFLUX</tedarikci_marka>
+    <satis_fiyati>5600</satis_fiyati>
+    <kdv>20</kdv>
+    <para_birimi>TL</para_birimi>
+    <stok>10</stok>
+    <tedarik_durumu>Tedarik ile getirtilir</tedarik_durumu>
+    <teslim_suresi>3-5 iş günü</teslim_suresi>
+    <himpeks_stok>0</himpeks_stok>
+    <birim>PCE</birim>
+    <himpeks_id>106534</himpeks_id>
+  </urun>
+  <urun>
+    <stok_kodu>HMPX-RNZ-01-29245-01</stok_kodu>
+    <kaynak_kodu>RNZ-01-29245-01</kaynak_kodu>
+    <urun_adi>TAKIM CONTA</urun_adi>
+    <uretici_kodu>01-29245-01</uretici_kodu>
+    <tedarikci_marka>VICTOR REINZ</tedarikci_marka>
+    <satis_fiyati>9900</satis_fiyati>
+    <kdv>20</kdv>
+    <para_birimi>TL</para_birimi>
+    <stok>10</stok>
+    <tedarik_durumu>Tedarik ile getirtilir</tedarik_durumu>
+    <teslim_suresi>3-5 iş günü</teslim_suresi>
+    <himpeks_stok>0</himpeks_stok>
+    <birim>SET</birim>
+    <himpeks_id>113352</himpeks_id>
+  </urun>
+  <urun>
+    <stok_kodu>HMPX-RNZ-02-34150-01</stok_kodu>
+    <kaynak_kodu>RNZ-02-34150-01</kaynak_kodu>
+    <urun_adi>TAKIM CONTA</urun_adi>
+    <uretici_kodu>02-34150-01</uretici_kodu>
+    <tedarikci_marka>VICTOR REINZ</tedarikci_marka>
+    <satis_fiyati>4100</satis_fiyati>
+    <kdv>20</kdv>
+    <para_birimi>TL</para_birimi>
+    <stok>10</stok>
+    <tedarik_durumu>Tedarik ile getirtilir</tedarik_durumu>
+    <teslim_suresi>3-5 iş günü</teslim_suresi>
+    <himpeks_stok>0</himpeks_stok>
+    <birim>SET</birim>
+    <himpeks_id>113642</himpeks_id>
+  </urun>
+  <urun>
+    <stok_kodu>HMPX-RNZ-12-25227-03</stok_kodu>
+    <kaynak_kodu>RNZ-12-25227-03</kaynak_kodu>
+    <urun_adi>SUPAP LASTIGI</urun_adi>
+    <uretici_kodu>12-25227-03</uretici_kodu>
+    <tedarikci_marka>VICTOR REINZ</tedarikci_marka>
+    <satis_fiyati>600</satis_fiyati>
+    <kdv>20</kdv>
+    <para_birimi>TL</para_birimi>
+    <stok>10</stok>
+    <tedarik_durumu>Tedarik ile getirtilir</tedarik_durumu>
+    <teslim_suresi>3-5 iş günü</teslim_suresi>
+    <himpeks_stok>0</himpeks_stok>
+    <birim>SET</birim>
+    <himpeks_id>114128</himpeks_id>
+  </urun>
+  <urun>
+    <stok_kodu>HMPX-RNZ-61-31250-00</stok_kodu>
+    <kaynak_kodu>RNZ-61-31250-00</kaynak_kodu>
+    <urun_adi>SILINDIR KAPAGI CONTASI</urun_adi>
+    <uretici_kodu>61-31250-00</uretici_kodu>
+    <tedarikci_marka>VICTOR REINZ</tedarikci_marka>
+    <satis_fiyati>2600</satis_fiyati>
+    <kdv>20</kdv>
+    <para_birimi>TL</para_birimi>
+    <stok>10</stok>
+    <tedarik_durumu>Tedarik ile getirtilir</tedarik_durumu>
+    <teslim_suresi>3-5 iş günü</teslim_suresi>
+    <himpeks_stok>0</himpeks_stok>
+    <birim>PCE</birim>
+    <himpeks_id>114802</himpeks_id>
+  </urun>
+  <urun>
+    <stok_kodu>HMPX-RNZ-70-31598-00</stok_kodu>
+    <kaynak_kodu>RNZ-70-31598-00</kaynak_kodu>
+    <urun_adi>ENJEKTOR AGIZ CONTASI</urun_adi>
+    <uretici_kodu>70-31598-00</uretici_kodu>
+    <tedarikci_marka>VICTOR REINZ</tedarikci_marka>
+    <satis_fiyati>100</satis_fiyati>
+    <kdv>20</kdv>
+    <para_birimi>TL</para_birimi>
+    <stok>10</stok>
+    <tedarik_durumu>Tedarik ile getirtilir</tedarik_durumu>
+    <teslim_suresi>3-5 iş günü</teslim_suresi>
+    <himpeks_stok>0</himpeks_stok>
+    <birim>PCE</birim>
+    <himpeks_id>115633</himpeks_id>
+  </urun>
+  <urun>
+    <stok_kodu>HMPX-RNZ-81-15512-50</stok_kodu>
+    <kaynak_kodu>RNZ-81-15512-50</kaynak_kodu>
+    <urun_adi>MİL YAĞ KEÇESİ</urun_adi>
+    <uretici_kodu>81-15512-50</uretici_kodu>
+    <tedarikci_marka>VICTOR REINZ</tedarikci_marka>
+    <satis_fiyati>300</satis_fiyati>
+    <kdv>20</kdv>
+    <para_birimi>TL</para_birimi>
+    <stok>10</stok>
+    <tedarik_durumu>Tedarik ile getirtilir</tedarik_durumu>
+    <teslim_suresi>3-5 iş günü</teslim_suresi>
+    <himpeks_stok>0</himpeks_stok>
+    <birim>PCE</birim>
+    <himpeks_id>116468</himpeks_id>
+  </urun>
+  <urun>
+    <stok_kodu>HMPX-SKF-VKBA6676</stok_kodu>
+    <kaynak_kodu>SKF-VKBA6676</kaynak_kodu>
+    <urun_adi>ON AKS RULMANI KIT MERCEDES VITO-VIANO W639 W447</urun_adi>
+    <uretici_kodu>VKBA6676</uretici_kodu>
+    <tedarikci_marka>SKF</tedarikci_marka>
+    <satis_fiyati>9800</satis_fiyati>
+    <kdv>20</kdv>
+    <para_birimi>TL</para_birimi>
+    <stok>10</stok>
+    <tedarik_durumu>Tedarik ile getirtilir</tedarik_durumu>
+    <teslim_suresi>3-5 iş günü</teslim_suresi>
+    <himpeks_stok>0</himpeks_stok>
+    <birim>PCE</birim>
+    <himpeks_id>119992</himpeks_id>
+  </urun>
+  <urun>
+    <stok_kodu>HMPX-DAY-APV2846</stok_kodu>
+    <kaynak_kodu>DAY-APV2846</kaynak_kodu>
+    <urun_adi>V KAYIS GERGI RULMANI KUTUKLU BMW 530D 535D 09-17 7 V BELT TENSIONER BEARING BOXED BMW 530D 535D 09-17 730D 740D 08-15×5 3.0D 4.0D 10-13×6 3.0D 4.0D 10-&gt;</urun_adi>
+    <uretici_kodu>APV2846</uretici_kodu>
+    <tedarikci_marka>DAYCO</tedarikci_marka>
+    <satis_fiyati>5500</satis_fiyati>
+    <kdv>20</kdv>
+    <para_birimi>TL</para_birimi>
+    <stok>10</stok>
+    <tedarik_durumu>Tedarik ile getirtilir</tedarik_durumu>
+    <teslim_suresi>3-5 iş günü</teslim_suresi>
+    <himpeks_stok>0</himpeks_stok>
+    <birim>PCE</birim>
+    <himpeks_id>18438</himpeks_id>
+  </urun>
+  <urun>
+    <stok_kodu>HMPX-RNZ-12-35172-01</stok_kodu>
+    <kaynak_kodu>RNZ-12-35172-01</kaynak_kodu>
+    <urun_adi>SUPAP LASTIGI SET</urun_adi>
+    <uretici_kodu>12-35172-01</uretici_kodu>
+    <tedarikci_marka>VICTOR REINZ</tedarikci_marka>
+    <satis_fiyati>1400</satis_fiyati>
+    <kdv>20</kdv>
+    <para_birimi>TL</para_birimi>
+    <stok>10</stok>
+    <tedarik_durumu>Tedarik ile getirtilir</tedarik_durumu>
+    <teslim_suresi>3-5 iş günü</teslim_suresi>
+    <himpeks_stok>0</himpeks_stok>
+    <birim>SET</birim>
+    <himpeks_id>114159</himpeks_id>
+  </urun>
+  <urun>
+    <stok_kodu>HMPX-RNZ-12-35172-02</stok_kodu>
+    <kaynak_kodu>RNZ-12-35172-02</kaynak_kodu>
+    <urun_adi>SUPAP LASTIGI</urun_adi>
+    <uretici_kodu>12-35172-02</uretici_kodu>
+    <tedarikci_marka>VICTOR REINZ</tedarikci_marka>
+    <satis_fiyati>2100</satis_fiyati>
+    <kdv>20</kdv>
+    <para_birimi>TL</para_birimi>
+    <stok>10</stok>
+    <tedarik_durumu>Tedarik ile getirtilir</tedarik_durumu>
+    <teslim_suresi>3-5 iş günü</teslim_suresi>
+    <himpeks_stok>0</himpeks_stok>
+    <birim>SET</birim>
+    <himpeks_id>114160</himpeks_id>
+  </urun>
+  <urun>
+    <stok_kodu>HMPX-RNZ-12-37281-01</stok_kodu>
+    <kaynak_kodu>RNZ-12-37281-01</kaynak_kodu>
+    <urun_adi>SUPAP LASTIGI</urun_adi>
+    <uretici_kodu>12-37281-01</uretici_kodu>
+    <tedarikci_marka>VICTOR REINZ</tedarikci_marka>
+    <satis_fiyati>1700</satis_fiyati>
+    <kdv>20</kdv>
+    <para_birimi>TL</para_birimi>
+    <stok>10</stok>
+    <tedarik_durumu>Tedarik ile getirtilir</tedarik_durumu>
+    <teslim_suresi>3-5 iş günü</teslim_suresi>
+    <himpeks_stok>0</himpeks_stok>
+    <birim>SET</birim>
+    <himpeks_id>114177</himpeks_id>
+  </urun>
+  <urun>
+    <stok_kodu>HMPX-RNZ-14-32005-01</stok_kodu>
+    <kaynak_kodu>RNZ-14-32005-01</kaynak_kodu>
+    <urun_adi>SILINDIR KAPAK SAPLAMASI</urun_adi>
+    <uretici_kodu>14-32005-01</uretici_kodu>
+    <tedarikci_marka>VICTOR REINZ</tedarikci_marka>
+    <satis_fiyati>1700</satis_fiyati>
+    <kdv>20</kdv>
+    <para_birimi>TL</para_birimi>
+    <stok>10</stok>
+    <tedarik_durumu>Tedarik ile getirtilir</tedarik_durumu>
+    <teslim_suresi>3-5 iş günü</teslim_suresi>
+    <himpeks_stok>0</himpeks_stok>
+    <birim>SET</birim>
+    <himpeks_id>114274</himpeks_id>
+  </urun>
+  <urun>
+    <stok_kodu>HMPX-RNZ-15-37331-01</stok_kodu>
+    <kaynak_kodu>RNZ-15-37331-01</kaynak_kodu>
+    <urun_adi>UST KAPAK CONTASI</urun_adi>
+    <uretici_kodu>15-37331-01</uretici_kodu>
+    <tedarikci_marka>VICTOR REINZ</tedarikci_marka>
+    <satis_fiyati>4900</satis_fiyati>
+    <kdv>20</kdv>
+    <para_birimi>TL</para_birimi>
+    <stok>10</stok>
+    <tedarik_durumu>Tedarik ile getirtilir</tedarik_durumu>
+    <teslim_suresi>3-5 iş günü</teslim_suresi>
+    <himpeks_stok>0</himpeks_stok>
+    <birim>SET</birim>
+    <himpeks_id>114515</himpeks_id>
+  </urun>
+  <urun>
+    <stok_kodu>HMPX-RNZ-61-31895-00</stok_kodu>
+    <kaynak_kodu>RNZ-61-31895-00</kaynak_kodu>
+    <urun_adi>SILINDIR KAPAGI CONTASI</urun_adi>
+    <uretici_kodu>61-31895-00</uretici_kodu>
+    <tedarikci_marka>VICTOR REINZ</tedarikci_marka>
+    <satis_fiyati>2500</satis_fiyati>
+    <kdv>20</kdv>
+    <para_birimi>TL</para_birimi>
+    <stok>10</stok>
+    <tedarik_durumu>Tedarik ile getirtilir</tedarik_durumu>
+    <teslim_suresi>3-5 iş günü</teslim_suresi>
+    <himpeks_stok>0</himpeks_stok>
+    <birim>PCE</birim>
+    <himpeks_id>114847</himpeks_id>
+  </urun>
+  <urun>
+    <stok_kodu>HMPX-RNZ-61-31915-10</stok_kodu>
+    <kaynak_kodu>RNZ-61-31915-10</kaynak_kodu>
+    <urun_adi>SILINDIR KAPAGI CONTASI</urun_adi>
+    <uretici_kodu>61-31915-10</uretici_kodu>
+    <tedarikci_marka>VICTOR REINZ</tedarikci_marka>
+    <satis_fiyati>5000</satis_fiyati>
+    <kdv>20</kdv>
+    <para_birimi>TL</para_birimi>
+    <stok>10</stok>
+    <tedarik_durumu>Tedarik ile getirtilir</tedarik_durumu>
+    <teslim_suresi>3-5 iş günü</teslim_suresi>
+    <himpeks_stok>0</himpeks_stok>
+    <birim>PCE</birim>
+    <himpeks_id>114849</himpeks_id>
+  </urun>
+  <urun>
+    <stok_kodu>HMPX-RNZ-61-35005-20</stok_kodu>
+    <kaynak_kodu>RNZ-61-35005-20</kaynak_kodu>
+    <urun_adi>SILINDIR KAPAGI CONTASI</urun_adi>
+    <uretici_kodu></uretici_kodu>
+    <tedarikci_marka>VICTOR REINZ</tedarikci_marka>
+    <satis_fiyati>6300</satis_fiyati>
+    <kdv>20</kdv>
+    <para_birimi>TL</para_birimi>
+    <stok>10</stok>
+    <tedarik_durumu>Tedarik ile getirtilir</tedarik_durumu>
+    <teslim_suresi>3-5 iş günü</teslim_suresi>
+    <himpeks_stok>0</himpeks_stok>
+    <birim>PCE</birim>
+    <himpeks_id>115024</himpeks_id>
+  </urun>
+  <urun>
+    <stok_kodu>HMPX-RNZ-61-36455-00</stok_kodu>
+    <kaynak_kodu>RNZ-61-36455-00</kaynak_kodu>
+    <urun_adi>SILINDIR KAPAGI CONTASI</urun_adi>
+    <uretici_kodu></uretici_kodu>
+    <tedarikci_marka>VICTOR REINZ</tedarikci_marka>
+    <satis_fiyati>3800</satis_fiyati>
+    <kdv>20</kdv>
+    <para_birimi>TL</para_birimi>
+    <stok>10</stok>
+    <tedarik_durumu>Tedarik ile getirtilir</tedarik_durumu>
+    <teslim_suresi>3-5 iş günü</teslim_suresi>
+    <himpeks_stok>0</himpeks_stok>
+    <birim>PCE</birim>
+    <himpeks_id>115156</himpeks_id>
+  </urun>
+  <urun>
+    <stok_kodu>HMPX-RNZ-71-28484-00</stok_kodu>
+    <kaynak_kodu>RNZ-71-28484-00</kaynak_kodu>
+    <urun_adi>UST KAPAK CONTASI</urun_adi>
+    <uretici_kodu></uretici_kodu>
+    <tedarikci_marka>VICTOR REINZ</tedarikci_marka>
+    <satis_fiyati>1100</satis_fiyati>
+    <kdv>20</kdv>
+    <para_birimi>TL</para_birimi>
+    <stok>10</stok>
+    <tedarik_durumu>Tedarik ile getirtilir</tedarik_durumu>
+    <teslim_suresi>3-5 iş günü</teslim_suresi>
+    <himpeks_stok>0</himpeks_stok>
+    <birim>PCE</birim>
+    <himpeks_id>115810</himpeks_id>
+  </urun>
+  <urun>
+    <stok_kodu>HMPX-RNZ-71-34834-00</stok_kodu>
+    <kaynak_kodu>RNZ-71-34834-00</kaynak_kodu>
+    <urun_adi>EGZOZ MANIFOLD CONTASI</urun_adi>
+    <uretici_kodu></uretici_kodu>
+    <tedarikci_marka>VICTOR REINZ</tedarikci_marka>
+    <satis_fiyati>1400</satis_fiyati>
+    <kdv>20</kdv>
+    <para_birimi>TL</para_birimi>
+    <stok>10</stok>
+    <tedarik_durumu>Tedarik ile getirtilir</tedarik_durumu>
+    <teslim_suresi>3-5 iş günü</teslim_suresi>
+    <himpeks_stok>0</himpeks_stok>
+    <birim>PCE</birim>
+    <himpeks_id>115985</himpeks_id>
+  </urun>
+  <urun>
+    <stok_kodu>HMPX-RNZ-81-28498-00</stok_kodu>
+    <kaynak_kodu>RNZ-81-28498-00</kaynak_kodu>
+    <urun_adi>KRANK KECESI</urun_adi>
+    <uretici_kodu></uretici_kodu>
+    <tedarikci_marka>VICTOR REINZ</tedarikci_marka>
+    <satis_fiyati>500</satis_fiyati>
+    <kdv>20</kdv>
+    <para_birimi>TL</para_birimi>
+    <stok>10</stok>
+    <tedarik_durumu>Tedarik ile getirtilir</tedarik_durumu>
+    <teslim_suresi>3-5 iş günü</teslim_suresi>
+    <himpeks_stok>0</himpeks_stok>
+    <birim>PCE</birim>
+    <himpeks_id>116507</himpeks_id>
+  </urun>
+  <urun>
+    <stok_kodu>HMPX-RNZ-12-36866-02</stok_kodu>
+    <kaynak_kodu>RNZ-12-36866-02</kaynak_kodu>
+    <urun_adi>SUPAP LASTIGI</urun_adi>
+    <uretici_kodu>12-36866-02</uretici_kodu>
+    <tedarikci_marka>VICTOR REINZ</tedarikci_marka>
+    <satis_fiyati>3500</satis_fiyati>
+    <kdv>20</kdv>
+    <para_birimi>TL</para_birimi>
+    <stok>10</stok>
+    <tedarik_durumu>Tedarik ile getirtilir</tedarik_durumu>
+    <teslim_suresi>3-5 iş günü</teslim_suresi>
+    <himpeks_stok>0</himpeks_stok>
+    <birim>SET</birim>
+    <himpeks_id>114172</himpeks_id>
+  </urun>
+  <urun>
+    <stok_kodu>HMPX-RNZ-71-35886-00</stok_kodu>
+    <kaynak_kodu>RNZ-71-35886-00</kaynak_kodu>
+    <urun_adi>CONTA - YAĞ KARTERİ</urun_adi>
+    <uretici_kodu>71-35886-00</uretici_kodu>
+    <tedarikci_marka>VICTOR REINZ</tedarikci_marka>
+    <satis_fiyati>1700</satis_fiyati>
+    <kdv>20</kdv>
+    <para_birimi>TL</para_birimi>
+    <stok>10</stok>
+    <tedarik_durumu>Tedarik ile getirtilir</tedarik_durumu>
+    <teslim_suresi>3-5 iş günü</teslim_suresi>
+    <himpeks_stok>0</himpeks_stok>
+    <birim>PCE</birim>
+    <himpeks_id>116042</himpeks_id>
+  </urun>
+  <urun>
+    <stok_kodu>HMPX-RNZ-81-20745-00</stok_kodu>
+    <kaynak_kodu>RNZ-81-20745-00</kaynak_kodu>
+    <urun_adi>KRANK KECESI</urun_adi>
+    <uretici_kodu></uretici_kodu>
+    <tedarikci_marka>VICTOR REINZ</tedarikci_marka>
+    <satis_fiyati>1600</satis_fiyati>
+    <kdv>20</kdv>
+    <para_birimi>TL</para_birimi>
+    <stok>10</stok>
+    <tedarik_durumu>Tedarik ile getirtilir</tedarik_durumu>
+    <teslim_suresi>3-5 iş günü</teslim_suresi>
+    <himpeks_stok>0</himpeks_stok>
+    <birim>PCE</birim>
+    <himpeks_id>116477</himpeks_id>
+  </urun>
+  <urun>
+    <stok_kodu>HMPX-RNZ-02-37985-01</stok_kodu>
+    <kaynak_kodu>RNZ-02-37985-01</kaynak_kodu>
+    <urun_adi>MOTOR (UST) TAKIM CONTA</urun_adi>
+    <uretici_kodu>02-37985-01</uretici_kodu>
+    <tedarikci_marka>VICTOR REINZ</tedarikci_marka>
+    <satis_fiyati>10700</satis_fiyati>
+    <kdv>20</kdv>
+    <para_birimi>TL</para_birimi>
+    <stok>10</stok>
+    <tedarik_durumu>Tedarik ile getirtilir</tedarik_durumu>
+    <teslim_suresi>3-5 iş günü</teslim_suresi>
+    <himpeks_stok>0</himpeks_stok>
+    <birim>SET</birim>
+    <himpeks_id>113804</himpeks_id>
+  </urun>
+  <urun>
+    <stok_kodu>HMPX-SKF-VKBC20094</stok_kodu>
+    <kaynak_kodu>SKF-VKBC20094</kaynak_kodu>
+    <urun_adi>ON PORYA RULMANI(ABS-) MEKANIK SANZ</urun_adi>
+    <uretici_kodu>VKBC20094</uretici_kodu>
+    <tedarikci_marka>SKF</tedarikci_marka>
+    <satis_fiyati>3200</satis_fiyati>
+    <kdv>20</kdv>
+    <para_birimi>TL</para_birimi>
+    <stok>10</stok>
+    <tedarik_durumu>Tedarik ile getirtilir</tedarik_durumu>
+    <teslim_suresi>3-5 iş günü</teslim_suresi>
+    <himpeks_stok>0</himpeks_stok>
+    <birim>PCE</birim>
+    <himpeks_id>120200</himpeks_id>
+  </urun>
+  <urun>
+    <stok_kodu>HMPX-DAY-3PK576EE</stok_kodu>
+    <kaynak_kodu>DAY-3PK576EE</kaynak_kodu>
+    <urun_adi>KAYIŞ BELT</urun_adi>
+    <uretici_kodu></uretici_kodu>
+    <tedarikci_marka>DAYCO</tedarikci_marka>
+    <satis_fiyati>400</satis_fiyati>
+    <kdv>20</kdv>
+    <para_birimi>TL</para_birimi>
+    <stok>10</stok>
+    <tedarik_durumu>Tedarik ile getirtilir</tedarik_durumu>
+    <teslim_suresi>3-5 iş günü</teslim_suresi>
+    <himpeks_stok>0</himpeks_stok>
+    <birim>PCE</birim>
+    <himpeks_id>17430</himpeks_id>
+  </urun>
+  <urun>
+    <stok_kodu>HMPX-DAY-5PK1121K</stok_kodu>
+    <kaynak_kodu>DAY-5PK1121K</kaynak_kodu>
+    <urun_adi>KAYIŞ BELT</urun_adi>
+    <uretici_kodu></uretici_kodu>
+    <tedarikci_marka>DAYCO</tedarikci_marka>
+    <satis_fiyati>900</satis_fiyati>
+    <kdv>20</kdv>
+    <para_birimi>TL</para_birimi>
+    <stok>10</stok>
+    <tedarik_durumu>Tedarik ile getirtilir</tedarik_durumu>
+    <teslim_suresi>3-5 iş günü</teslim_suresi>
+    <himpeks_stok>0</himpeks_stok>
+    <birim>PCE</birim>
+    <himpeks_id>17655</himpeks_id>
+  </urun>
+  <urun>
+    <stok_kodu>HMPX-DAY-6PK1117S</stok_kodu>
+    <kaynak_kodu>DAY-6PK1117S</kaynak_kodu>
+    <urun_adi>GERGİ BİLYASI TENSIONER BEARING</urun_adi>
+    <uretici_kodu></uretici_kodu>
+    <tedarikci_marka>DAYCO</tedarikci_marka>
+    <satis_fiyati>1000</satis_fiyati>
+    <kdv>20</kdv>
+    <para_birimi>TL</para_birimi>
+    <stok>10</stok>
+    <tedarik_durumu>Tedarik ile getirtilir</tedarik_durumu>
+    <teslim_suresi>3-5 iş günü</teslim_suresi>
+    <himpeks_stok>0</himpeks_stok>
+    <birim>PCE</birim>
+    <himpeks_id>17852</himpeks_id>
+  </urun>
+  <urun>
+    <stok_kodu>HMPX-DAY-6PK1429</stok_kodu>
+    <kaynak_kodu>DAY-6PK1429</kaynak_kodu>
+    <urun_adi>KAYIŞ BELT</urun_adi>
+    <uretici_kodu></uretici_kodu>
+    <tedarikci_marka>DAYCO</tedarikci_marka>
+    <satis_fiyati>1200</satis_fiyati>
+    <kdv>20</kdv>
+    <para_birimi>TL</para_birimi>
+    <stok>10</stok>
+    <tedarik_durumu>Tedarik ile getirtilir</tedarik_durumu>
+    <teslim_suresi>3-5 iş günü</teslim_suresi>
+    <himpeks_stok>0</himpeks_stok>
+    <birim>PCE</birim>
+    <himpeks_id>17921</himpeks_id>
+  </urun>
+  <urun>
+    <stok_kodu>HMPX-DAY-6PK1750HD</stok_kodu>
+    <kaynak_kodu>DAY-6PK1750HD</kaynak_kodu>
+    <urun_adi>KAYIŞ SETİ BELT SET</urun_adi>
+    <uretici_kodu></uretici_kodu>
+    <tedarikci_marka>DAYCO</tedarikci_marka>
+    <satis_fiyati>1300</satis_fiyati>
+    <kdv>20</kdv>
+    <para_birimi>TL</para_birimi>
+    <stok>10</stok>
+    <tedarik_durumu>Tedarik ile getirtilir</tedarik_durumu>
+    <teslim_suresi>3-5 iş günü</teslim_suresi>
+    <himpeks_stok>0</himpeks_stok>
+    <birim>PCE</birim>
+    <himpeks_id>17986</himpeks_id>
+  </urun>
+  <urun>
+    <stok_kodu>HMPX-DAY-6PK2220</stok_kodu>
+    <kaynak_kodu>DAY-6PK2220</kaynak_kodu>
+    <urun_adi>KAYIŞ BELT</urun_adi>
+    <uretici_kodu></uretici_kodu>
+    <tedarikci_marka>DAYCO</tedarikci_marka>
+    <satis_fiyati>1700</satis_fiyati>
+    <kdv>20</kdv>
+    <para_birimi>TL</para_birimi>
+    <stok>10</stok>
+    <tedarik_durumu>Tedarik ile getirtilir</tedarik_durumu>
+    <teslim_suresi>3-5 iş günü</teslim_suresi>
+    <himpeks_stok>0</himpeks_stok>
+    <birim>PCE</birim>
+    <himpeks_id>18058</himpeks_id>
+  </urun>
+  <urun>
+    <stok_kodu>HMPX-DAY-6PK989EE</stok_kodu>
+    <kaynak_kodu>DAY-6PK989EE</kaynak_kodu>
+    <urun_adi>BİLYA BEARING</urun_adi>
+    <uretici_kodu></uretici_kodu>
+    <tedarikci_marka>DAYCO</tedarikci_marka>
+    <satis_fiyati>900</satis_fiyati>
+    <kdv>20</kdv>
+    <para_birimi>TL</para_birimi>
+    <stok>10</stok>
+    <tedarik_durumu>Tedarik ile getirtilir</tedarik_durumu>
+    <teslim_suresi>3-5 iş günü</teslim_suresi>
+    <himpeks_stok>0</himpeks_stok>
+    <birim>PCE</birim>
+    <himpeks_id>18158</himpeks_id>
+  </urun>
+  <urun>
+    <stok_kodu>HMPX-DAY-7PK1165S</stok_kodu>
+    <kaynak_kodu>DAY-7PK1165S</kaynak_kodu>
+    <urun_adi>KAYIŞ BELT</urun_adi>
+    <uretici_kodu></uretici_kodu>
+    <tedarikci_marka>DAYCO</tedarikci_marka>
+    <satis_fiyati>1100</satis_fiyati>
+    <kdv>20</kdv>
+    <para_birimi>TL</para_birimi>
+    <stok>10</stok>
+    <tedarik_durumu>Tedarik ile getirtilir</tedarik_durumu>
+    <teslim_suresi>3-5 iş günü</teslim_suresi>
+    <himpeks_stok>0</himpeks_stok>
+    <birim>PCE</birim>
+    <himpeks_id>18180</himpeks_id>
+  </urun>
+  <urun>
+    <stok_kodu>HMPX-DAY-8PK1230</stok_kodu>
+    <kaynak_kodu>DAY-8PK1230</kaynak_kodu>
+    <urun_adi>KAYIŞ SETİ BELT SET</urun_adi>
+    <uretici_kodu></uretici_kodu>
+    <tedarikci_marka>DAYCO</tedarikci_marka>
+    <satis_fiyati>1400</satis_fiyati>
+    <kdv>20</kdv>
+    <para_birimi>TL</para_birimi>
+    <stok>10</stok>
+    <tedarik_durumu>Tedarik ile getirtilir</tedarik_durumu>
+    <teslim_suresi>3-5 iş günü</teslim_suresi>
+    <himpeks_stok>0</himpeks_stok>
+    <birim>PCE</birim>
+    <himpeks_id>18278</himpeks_id>
+  </urun>
+  <urun>
+    <stok_kodu>HMPX-DAY-APV2415</stok_kodu>
+    <kaynak_kodu>DAY-APV2415</kaynak_kodu>
+    <urun_adi>KAYIŞ BELT</urun_adi>
+    <uretici_kodu></uretici_kodu>
+    <tedarikci_marka>DAYCO</tedarikci_marka>
+    <satis_fiyati>4100</satis_fiyati>
+    <kdv>20</kdv>
+    <para_birimi>TL</para_birimi>
+    <stok>10</stok>
+    <tedarik_durumu>Tedarik ile getirtilir</tedarik_durumu>
+    <teslim_suresi>3-5 iş günü</teslim_suresi>
+    <himpeks_stok>0</himpeks_stok>
+    <birim>PCE</birim>
+    <himpeks_id>18389</himpeks_id>
+  </urun>
+  <urun>
+    <stok_kodu>HMPX-DAY-APV2492</stok_kodu>
+    <kaynak_kodu>DAY-APV2492</kaynak_kodu>
+    <urun_adi>KAYIŞ BELT</urun_adi>
+    <uretici_kodu></uretici_kodu>
+    <tedarikci_marka>DAYCO</tedarikci_marka>
+    <satis_fiyati>1300</satis_fiyati>
+    <kdv>20</kdv>
+    <para_birimi>TL</para_birimi>
+    <stok>10</stok>
+    <tedarik_durumu>Tedarik ile getirtilir</tedarik_durumu>
+    <teslim_suresi>3-5 iş günü</teslim_suresi>
+    <himpeks_stok>0</himpeks_stok>
+    <birim>PCE</birim>
+    <himpeks_id>18400</himpeks_id>
+  </urun>
+  <urun>
+    <stok_kodu>HMPX-DAY-APV2842</stok_kodu>
+    <kaynak_kodu>DAY-APV2842</kaynak_kodu>
+    <urun_adi>KAYIŞ BELT</urun_adi>
+    <uretici_kodu></uretici_kodu>
+    <tedarikci_marka>DAYCO</tedarikci_marka>
+    <satis_fiyati>13400</satis_fiyati>
+    <kdv>20</kdv>
+    <para_birimi>TL</para_birimi>
+    <stok>10</stok>
+    <tedarik_durumu>Tedarik ile getirtilir</tedarik_durumu>
+    <teslim_suresi>3-5 iş günü</teslim_suresi>
+    <himpeks_stok>0</himpeks_stok>
+    <birim>PCE</birim>
+    <himpeks_id>18436</himpeks_id>
+  </urun>
+  <urun>
+    <stok_kodu>HMPX-DAY-ATB1010</stok_kodu>
+    <kaynak_kodu>DAY-ATB1010</kaynak_kodu>
+    <urun_adi>KAYIŞ SETİ BELT SET</urun_adi>
+    <uretici_kodu></uretici_kodu>
+    <tedarikci_marka>DAYCO</tedarikci_marka>
+    <satis_fiyati>1300</satis_fiyati>
+    <kdv>20</kdv>
+    <para_birimi>TL</para_birimi>
+    <stok>10</stok>
+    <tedarik_durumu>Tedarik ile getirtilir</tedarik_durumu>
+    <teslim_suresi>3-5 iş günü</teslim_suresi>
+    <himpeks_stok>0</himpeks_stok>
+    <birim>PCE</birim>
+    <himpeks_id>18482</himpeks_id>
+  </urun>
+  <urun>
+    <stok_kodu>HMPX-DAY-ATB2551</stok_kodu>
+    <kaynak_kodu>DAY-ATB2551</kaynak_kodu>
+    <urun_adi>KAYIŞ BELT</urun_adi>
+    <uretici_kodu></uretici_kodu>
+    <tedarikci_marka>DAYCO</tedarikci_marka>
+    <satis_fiyati>5200</satis_fiyati>
+    <kdv>20</kdv>
+    <para_birimi>TL</para_birimi>
+    <stok>10</stok>
+    <tedarik_durumu>Tedarik ile getirtilir</tedarik_durumu>
+    <teslim_suresi>3-5 iş günü</teslim_suresi>
+    <himpeks_stok>0</himpeks_stok>
+    <birim>PCE</birim>
+    <himpeks_id>18556</himpeks_id>
+  </urun>
+  <urun>
+    <stok_kodu>HMPX-DAY-ATB2554</stok_kodu>
+    <kaynak_kodu>DAY-ATB2554</kaynak_kodu>
+    <urun_adi>KAYIŞ BELT</urun_adi>
+    <uretici_kodu></uretici_kodu>
+    <tedarikci_marka>DAYCO</tedarikci_marka>
+    <satis_fiyati>1500</satis_fiyati>
+    <kdv>20</kdv>
+    <para_birimi>TL</para_birimi>
+    <stok>10</stok>
+    <tedarik_durumu>Tedarik ile getirtilir</tedarik_durumu>
+    <teslim_suresi>3-5 iş günü</teslim_suresi>
+    <himpeks_stok>0</himpeks_stok>
+    <birim>PCE</birim>
+    <himpeks_id>18557</himpeks_id>
+  </urun>
+  <urun>
+    <stok_kodu>HMPX-DAY-ATB2560</stok_kodu>
+    <kaynak_kodu>DAY-ATB2560</kaynak_kodu>
+    <urun_adi>GERGİ BİLYASI TENSIONER BEARING</urun_adi>
+    <uretici_kodu></uretici_kodu>
+    <tedarikci_marka>DAYCO</tedarikci_marka>
+    <satis_fiyati>2000</satis_fiyati>
+    <kdv>20</kdv>
+    <para_birimi>TL</para_birimi>
+    <stok>10</stok>
+    <tedarik_durumu>Tedarik ile getirtilir</tedarik_durumu>
+    <teslim_suresi>3-5 iş günü</teslim_suresi>
+    <himpeks_stok>0</himpeks_stok>
+    <birim>PCE</birim>
+    <himpeks_id>18558</himpeks_id>
+  </urun>
+  <urun>
+    <stok_kodu>HMPX-DAY-ATB2561</stok_kodu>
+    <kaynak_kodu>DAY-ATB2561</kaynak_kodu>
+    <urun_adi>KAYIŞ SETİ BELT SET</urun_adi>
+    <uretici_kodu></uretici_kodu>
+    <tedarikci_marka>DAYCO</tedarikci_marka>
+    <satis_fiyati>2200</satis_fiyati>
+    <kdv>20</kdv>
+    <para_birimi>TL</para_birimi>
+    <stok>10</stok>
+    <tedarik_durumu>Tedarik ile getirtilir</tedarik_durumu>
+    <teslim_suresi>3-5 iş günü</teslim_suresi>
+    <himpeks_stok>0</himpeks_stok>
+    <birim>PCE</birim>
+    <himpeks_id>18559</himpeks_id>
+  </urun>
+  <urun>
+    <stok_kodu>HMPX-DAY-DP018</stok_kodu>
+    <kaynak_kodu>DAY-DP018</kaynak_kodu>
+    <urun_adi>GERGİ BİLYASI TENSIONER BEARING</urun_adi>
+    <uretici_kodu></uretici_kodu>
+    <tedarikci_marka>DAYCO</tedarikci_marka>
+    <satis_fiyati>3100</satis_fiyati>
+    <kdv>20</kdv>
+    <para_birimi>TL</para_birimi>
+    <stok>10</stok>
+    <tedarik_durumu>Tedarik ile getirtilir</tedarik_durumu>
+    <teslim_suresi>3-5 iş günü</teslim_suresi>
+    <himpeks_stok>0</himpeks_stok>
+    <birim>PCE</birim>
+    <himpeks_id>18568</himpeks_id>
+  </urun>
+  <urun>
+    <stok_kodu>HMPX-DAY-DP028</stok_kodu>
+    <kaynak_kodu>DAY-DP028</kaynak_kodu>
+    <urun_adi>GERGİ BİLYASI TENSIONER BEARING</urun_adi>
+    <uretici_kodu></uretici_kodu>
+    <tedarikci_marka>DAYCO</tedarikci_marka>
+    <satis_fiyati>2400</satis_fiyati>
+    <kdv>20</kdv>
+    <para_birimi>TL</para_birimi>
+    <stok>10</stok>
+    <tedarik_durumu>Tedarik ile getirtilir</tedarik_durumu>
+    <teslim_suresi>3-5 iş günü</teslim_suresi>
+    <himpeks_stok>0</himpeks_stok>
+    <birim>PCE</birim>
+    <himpeks_id>18573</himpeks_id>
+  </urun>
+  <urun>
+    <stok_kodu>HMPX-DAY-DP177</stok_kodu>
+    <kaynak_kodu>DAY-DP177</kaynak_kodu>
+    <urun_adi>KAYIŞ BELT</urun_adi>
+    <uretici_kodu></uretici_kodu>
+    <tedarikci_marka>DAYCO</tedarikci_marka>
+    <satis_fiyati>6800</satis_fiyati>
+    <kdv>20</kdv>
+    <para_birimi>TL</para_birimi>
+    <stok>10</stok>
+    <tedarik_durumu>Tedarik ile getirtilir</tedarik_durumu>
+    <teslim_suresi>3-5 iş günü</teslim_suresi>
+    <himpeks_stok>0</himpeks_stok>
+    <birim>PCE</birim>
+    <himpeks_id>18606</himpeks_id>
+  </urun>
+  <urun>
+    <stok_kodu>HMPX-DAY-DP273</stok_kodu>
+    <kaynak_kodu>DAY-DP273</kaynak_kodu>
+    <urun_adi>KAYIŞ BELT</urun_adi>
+    <uretici_kodu></uretici_kodu>
+    <tedarikci_marka>DAYCO</tedarikci_marka>
+    <satis_fiyati>2900</satis_fiyati>
+    <kdv>20</kdv>
+    <para_birimi>TL</para_birimi>
+    <stok>10</stok>
+    <tedarik_durumu>Tedarik ile getirtilir</tedarik_durumu>
+    <teslim_suresi>3-5 iş günü</teslim_suresi>
+    <himpeks_stok>0</himpeks_stok>
+    <birim>PCE</birim>
+    <himpeks_id>18632</himpeks_id>
+  </urun>
+  <urun>
+    <stok_kodu>HMPX-DAY-DPV1035</stok_kodu>
+    <kaynak_kodu>DAY-DPV1035</kaynak_kodu>
+    <urun_adi>KAYIŞ BELT</urun_adi>
+    <uretici_kodu></uretici_kodu>
+    <tedarikci_marka>DAYCO</tedarikci_marka>
+    <satis_fiyati>3600</satis_fiyati>
+    <kdv>20</kdv>
+    <para_birimi>TL</para_birimi>
+    <stok>10</stok>
+    <tedarik_durumu>Tedarik ile getirtilir</tedarik_durumu>
+    <teslim_suresi>3-5 iş günü</teslim_suresi>
+    <himpeks_stok>0</himpeks_stok>
+    <birim>PCE</birim>
+    <himpeks_id>18682</himpeks_id>
+  </urun>
+  <urun>
+    <stok_kodu>HMPX-DAY-DT1034V</stok_kodu>
+    <kaynak_kodu>DAY-DT1034V</kaynak_kodu>
+    <urun_adi>KAYIŞ BELT</urun_adi>
+    <uretici_kodu></uretici_kodu>
+    <tedarikci_marka>DAYCO</tedarikci_marka>
+    <satis_fiyati>700</satis_fiyati>
+    <kdv>20</kdv>
+    <para_birimi>TL</para_birimi>
+    <stok>10</stok>
+    <tedarik_durumu>Tedarik ile getirtilir</tedarik_durumu>
+    <teslim_suresi>3-5 iş günü</teslim_suresi>
+    <himpeks_stok>0</himpeks_stok>
+    <birim>PCE</birim>
+    <himpeks_id>18705</himpeks_id>
+  </urun>
+  <urun>
+    <stok_kodu>HMPX-DAY-DT1250V</stok_kodu>
+    <kaynak_kodu>DAY-DT1250V</kaynak_kodu>
+    <urun_adi>KAYIŞ BELT</urun_adi>
+    <uretici_kodu></uretici_kodu>
+    <tedarikci_marka>DAYCO</tedarikci_marka>
+    <satis_fiyati>600</satis_fiyati>
+    <kdv>20</kdv>
+    <para_birimi>TL</para_birimi>
+    <stok>10</stok>
+    <tedarik_durumu>Tedarik ile getirtilir</tedarik_durumu>
+    <teslim_suresi>3-5 iş günü</teslim_suresi>
+    <himpeks_stok>0</himpeks_stok>
+    <birim>PCE</birim>
+    <himpeks_id>18795</himpeks_id>
+  </urun>
+  <urun>
+    <stok_kodu>HMPX-DAY-DT1288V</stok_kodu>
+    <kaynak_kodu>DAY-DT1288V</kaynak_kodu>
+    <urun_adi>KAYIŞ BELT</urun_adi>
+    <uretici_kodu></uretici_kodu>
+    <tedarikci_marka>DAYCO</tedarikci_marka>
+    <satis_fiyati>900</satis_fiyati>
+    <kdv>20</kdv>
+    <para_birimi>TL</para_birimi>
+    <stok>10</stok>
+    <tedarik_durumu>Tedarik ile getirtilir</tedarik_durumu>
+    <teslim_suresi>3-5 iş günü</teslim_suresi>
+    <himpeks_stok>0</himpeks_stok>
+    <birim>PCE</birim>
+    <himpeks_id>18807</himpeks_id>
+  </urun>
+  <urun>
+    <stok_kodu>HMPX-DAY-KTBWP12080</stok_kodu>
+    <kaynak_kodu>DAY-KTBWP12080</kaynak_kodu>
+    <urun_adi>KAYIŞ BELT</urun_adi>
+    <uretici_kodu></uretici_kodu>
+    <tedarikci_marka>DAYCO</tedarikci_marka>
+    <satis_fiyati>8900</satis_fiyati>
+    <kdv>20</kdv>
+    <para_birimi>TL</para_birimi>
+    <stok>10</stok>
+    <tedarik_durumu>Tedarik ile getirtilir</tedarik_durumu>
+    <teslim_suresi>3-5 iş günü</teslim_suresi>
+    <himpeks_stok>0</himpeks_stok>
+    <birim>PCE</birim>
+    <himpeks_id>19089</himpeks_id>
+  </urun>
+  <urun>
+    <stok_kodu>HMPX-DAY-KTBWP2961</stok_kodu>
+    <kaynak_kodu>DAY-KTBWP2961</kaynak_kodu>
+    <urun_adi>KAYIŞ BELT</urun_adi>
+    <uretici_kodu></uretici_kodu>
+    <tedarikci_marka>DAYCO</tedarikci_marka>
+    <satis_fiyati>9300</satis_fiyati>
+    <kdv>20</kdv>
+    <para_birimi>TL</para_birimi>
+    <stok>10</stok>
+    <tedarik_durumu>Tedarik ile getirtilir</tedarik_durumu>
+    <teslim_suresi>3-5 iş günü</teslim_suresi>
+    <himpeks_stok>0</himpeks_stok>
+    <birim>PCE</birim>
+    <himpeks_id>19100</himpeks_id>
+  </urun>
+  <urun>
+    <stok_kodu>HMPX-DAY-KTBWP7941</stok_kodu>
+    <kaynak_kodu>DAY-KTBWP7941</kaynak_kodu>
+    <urun_adi>KAYIŞ BELT</urun_adi>
+    <uretici_kodu></uretici_kodu>
+    <tedarikci_marka>DAYCO</tedarikci_marka>
+    <satis_fiyati>7100</satis_fiyati>
+    <kdv>20</kdv>
+    <para_birimi>TL</para_birimi>
+    <stok>10</stok>
+    <tedarik_durumu>Tedarik ile getirtilir</tedarik_durumu>
+    <teslim_suresi>3-5 iş günü</teslim_suresi>
+    <himpeks_stok>0</himpeks_stok>
+    <birim>PCE</birim>
+    <himpeks_id>19136</himpeks_id>
+  </urun>
+  <urun>
+    <stok_kodu>HMPX-DAY-KTBWP9170</stok_kodu>
+    <kaynak_kodu>DAY-KTBWP9170</kaynak_kodu>
+    <urun_adi>KAYIŞ BELT</urun_adi>
+    <uretici_kodu></uretici_kodu>
+    <tedarikci_marka>DAYCO</tedarikci_marka>
+    <satis_fiyati>11700</satis_fiyati>
+    <kdv>20</kdv>
+    <para_birimi>TL</para_birimi>
+    <stok>10</stok>
+    <tedarik_durumu>Tedarik ile getirtilir</tedarik_durumu>
+    <teslim_suresi>3-5 iş günü</teslim_suresi>
+    <himpeks_stok>0</himpeks_stok>
+    <birim>PCE</birim>
+    <himpeks_id>19143</himpeks_id>
+  </urun>
+  <urun>
+    <stok_kodu>HMPX-DAY-KTC1023</stok_kodu>
+    <kaynak_kodu>DAY-KTC1023</kaynak_kodu>
+    <urun_adi>KAYIŞ BELT</urun_adi>
+    <uretici_kodu></uretici_kodu>
+    <tedarikci_marka>DAYCO</tedarikci_marka>
+    <satis_fiyati>30000</satis_fiyati>
+    <kdv>20</kdv>
+    <para_birimi>TL</para_birimi>
+    <stok>10</stok>
+    <tedarik_durumu>Tedarik ile getirtilir</tedarik_durumu>
+    <teslim_suresi>3-5 iş günü</teslim_suresi>
+    <himpeks_stok>0</himpeks_stok>
+    <birim>PCE</birim>
+    <himpeks_id>19153</himpeks_id>
+  </urun>
+  <urun>
+    <stok_kodu>HMPX-DAY-KTC1082</stok_kodu>
+    <kaynak_kodu>DAY-KTC1082</kaynak_kodu>
+    <urun_adi>KAYIŞ BELT</urun_adi>
+    <uretici_kodu></uretici_kodu>
+    <tedarikci_marka>DAYCO</tedarikci_marka>
+    <satis_fiyati>8300</satis_fiyati>
+    <kdv>20</kdv>
+    <para_birimi>TL</para_birimi>
+    <stok>10</stok>
+    <tedarik_durumu>Tedarik ile getirtilir</tedarik_durumu>
+    <teslim_suresi>3-5 iş günü</teslim_suresi>
+    <himpeks_stok>0</himpeks_stok>
+    <birim>PCE</birim>
+    <himpeks_id>19163</himpeks_id>
+  </urun>
+  <urun>
+    <stok_kodu>HMPX-DAY-KTC1124</stok_kodu>
+    <kaynak_kodu>DAY-KTC1124</kaynak_kodu>
+    <urun_adi>TRIGER ZINCIR SETI 1.2 TCE</urun_adi>
+    <uretici_kodu>KTC 1124</uretici_kodu>
+    <tedarikci_marka>DAYCO</tedarikci_marka>
+    <satis_fiyati>6000</satis_fiyati>
+    <kdv>20</kdv>
+    <para_birimi>TL</para_birimi>
+    <stok>10</stok>
+    <tedarik_durumu>Tedarik ile getirtilir</tedarik_durumu>
+    <teslim_suresi>3-5 iş günü</teslim_suresi>
+    <himpeks_stok>0</himpeks_stok>
+    <birim>PCE</birim>
+    <himpeks_id>19168</himpeks_id>
+  </urun>
+  <urun>
+    <stok_kodu>HMPX-DAY-KTC1125</stok_kodu>
+    <kaynak_kodu>DAY-KTC1125</kaynak_kodu>
+    <urun_adi>EKSANTRIK ZINCIR SETI NISSAN QASHQAI 1.6 DCI 14&gt; “R CAM CHAIN SET NISSAN QASHQAI 1.6 DCI 14&gt; "R9M" / XTRAIL 1.6 DCI 14&gt; / RENAULT MEGANE III / FLUENCE 1.6 DCI 15&gt; / KADJAR 1.6 16&gt; / TALI·SMAN 1.6 DCI 16&gt;</urun_adi>
+    <uretici_kodu>KTC1125</uretici_kodu>
+    <tedarikci_marka>DAYCO</tedarikci_marka>
+    <satis_fiyati>9200</satis_fiyati>
+    <kdv>20</kdv>
+    <para_birimi>TL</para_birimi>
+    <stok>10</stok>
+    <tedarik_durumu>Tedarik ile getirtilir</tedarik_durumu>
+    <teslim_suresi>3-5 iş günü</teslim_suresi>
+    <himpeks_stok>0</himpeks_stok>
+    <birim>PCE</birim>
+    <himpeks_id>19169</himpeks_id>
+  </urun>
+  <urun>
+    <stok_kodu>HMPX-DAY-KTC1126</stok_kodu>
+    <kaynak_kodu>DAY-KTC1126</kaynak_kodu>
+    <urun_adi>KAYIŞ BELT</urun_adi>
+    <uretici_kodu></uretici_kodu>
+    <tedarikci_marka>DAYCO</tedarikci_marka>
+    <satis_fiyati>7800</satis_fiyati>
+    <kdv>20</kdv>
+    <para_birimi>TL</para_birimi>
+    <stok>10</stok>
+    <tedarik_durumu>Tedarik ile getirtilir</tedarik_durumu>
+    <teslim_suresi>3-5 iş günü</teslim_suresi>
+    <himpeks_stok>0</himpeks_stok>
+    <birim>PCE</birim>
+    <himpeks_id>19170</himpeks_id>
+  </urun>
+  <urun>
+    <stok_kodu>HMPX-DAY-KTC1193</stok_kodu>
+    <kaynak_kodu>DAY-KTC1193</kaynak_kodu>
+    <urun_adi>ZİNCİR TAKIMI TRANSIT</urun_adi>
+    <uretici_kodu></uretici_kodu>
+    <tedarikci_marka>DAYCO</tedarikci_marka>
+    <satis_fiyati>6400</satis_fiyati>
+    <kdv>20</kdv>
+    <para_birimi>TL</para_birimi>
+    <stok>10</stok>
+    <tedarik_durumu>Tedarik ile getirtilir</tedarik_durumu>
+    <teslim_suresi>3-5 iş günü</teslim_suresi>
+    <himpeks_stok>0</himpeks_stok>
+    <birim>PCE</birim>
+    <himpeks_id>19174</himpeks_id>
+  </urun>
+  <urun>
+    <stok_kodu>HMPX-DAY-TCH1041</stok_kodu>
+    <kaynak_kodu>DAY-TCH1041</kaynak_kodu>
+    <urun_adi>GERGİ BİLYASI TENSIONER BEARING</urun_adi>
+    <uretici_kodu></uretici_kodu>
+    <tedarikci_marka>DAYCO</tedarikci_marka>
+    <satis_fiyati>2900</satis_fiyati>
+    <kdv>20</kdv>
+    <para_birimi>TL</para_birimi>
+    <stok>10</stok>
+    <tedarik_durumu>Tedarik ile getirtilir</tedarik_durumu>
+    <teslim_suresi>3-5 iş günü</teslim_suresi>
+    <himpeks_stok>0</himpeks_stok>
+    <birim>PCE</birim>
+    <himpeks_id>19205</himpeks_id>
+  </urun>
+  <urun>
+    <stok_kodu>HMPX-DPO-125-4001N-UE</stok_kodu>
+    <kaynak_kodu>DPO-125-4001N-UE</kaynak_kodu>
+    <urun_adi>ARKA SIS LAMBASI SOL-SAG NISSAN X-TRAIL 14-  REAR FOG LAMP LEFT-LEFT NISSAN X-TRAIL 14-</urun_adi>
+    <uretici_kodu>1254001NUE</uretici_kodu>
+    <tedarikci_marka>DEPO</tedarikci_marka>
+    <satis_fiyati>3000</satis_fiyati>
+    <kdv>20</kdv>
+    <para_birimi>TL</para_birimi>
+    <stok>10</stok>
+    <tedarik_durumu>Tedarik ile getirtilir</tedarik_durumu>
+    <teslim_suresi>3-5 iş günü</teslim_suresi>
+    <himpeks_stok>0</himpeks_stok>
+    <birim>PCE</birim>
+    <himpeks_id>27611</himpeks_id>
+  </urun>
+  <urun>
+    <stok_kodu>HMPX-DPO-431-11AELMLD-EM</stok_kodu>
+    <kaynak_kodu>DPO-431-11AELMLD-EM</kaynak_kodu>
+    <urun_adi>FAR SOL</urun_adi>
+    <uretici_kodu></uretici_kodu>
+    <tedarikci_marka>DEPO</tedarikci_marka>
+    <satis_fiyati>13000</satis_fiyati>
+    <kdv>20</kdv>
+    <para_birimi>TL</para_birimi>
+    <stok>10</stok>
+    <tedarik_durumu>Tedarik ile getirtilir</tedarik_durumu>
+    <teslim_suresi>3-5 iş günü</teslim_suresi>
+    <himpeks_stok>0</himpeks_stok>
+    <birim>PCE</birim>
+    <himpeks_id>29519</himpeks_id>
+  </urun>
+  <urun>
+    <stok_kodu>HMPX-DPO-431-11AERMLD-EM</stok_kodu>
+    <kaynak_kodu>DPO-431-11AERMLD-EM</kaynak_kodu>
+    <urun_adi>FAR SAĞ</urun_adi>
+    <uretici_kodu></uretici_kodu>
+    <tedarikci_marka>DEPO</tedarikci_marka>
+    <satis_fiyati>13000</satis_fiyati>
+    <kdv>20</kdv>
+    <para_birimi>TL</para_birimi>
+    <stok>10</stok>
+    <tedarik_durumu>Tedarik ile getirtilir</tedarik_durumu>
+    <teslim_suresi>3-5 iş günü</teslim_suresi>
+    <himpeks_stok>0</himpeks_stok>
+    <birim>PCE</birim>
+    <himpeks_id>29520</himpeks_id>
+  </urun>
+  <urun>
+    <stok_kodu>HMPX-DPO-431-19AQR-UE</stok_kodu>
+    <kaynak_kodu>DPO-431-19AQR-UE</kaynak_kodu>
+    <urun_adi>STOP LAMBASI SAĞ FIESTA 17&gt;</urun_adi>
+    <uretici_kodu></uretici_kodu>
+    <tedarikci_marka>DEPO</tedarikci_marka>
+    <satis_fiyati>5500</satis_fiyati>
+    <kdv>20</kdv>
+    <para_birimi>TL</para_birimi>
+    <stok>10</stok>
+    <tedarik_durumu>Tedarik ile getirtilir</tedarik_durumu>
+    <teslim_suresi>3-5 iş günü</teslim_suresi>
+    <himpeks_stok>0</himpeks_stok>
+    <birim>PCE</birim>
+    <himpeks_id>29614</himpeks_id>
+  </urun>
+  <urun>
+    <stok_kodu>HMPX-DPO-431-19AWL-UE</stok_kodu>
+    <kaynak_kodu>DPO-431-19AWL-UE</kaynak_kodu>
+    <urun_adi>STOP LAMBASI DIŞ SOL FOCUS 18&gt; SEDAN</urun_adi>
+    <uretici_kodu>431-19AWL-UE</uretici_kodu>
+    <tedarikci_marka>DEPO</tedarikci_marka>
+    <satis_fiyati>7000</satis_fiyati>
+    <kdv>20</kdv>
+    <para_birimi>TL</para_birimi>
+    <stok>5</stok>
+    <tedarik_durumu>Stokta</tedarik_durumu>
+    <teslim_suresi>1-2 iş günü</teslim_suresi>
+    <himpeks_stok>5</himpeks_stok>
+    <birim>PCE</birim>
+    <himpeks_id>29615</himpeks_id>
+  </urun>
+  <urun>
+    <stok_kodu>HMPX-DPO-431-19AWR-UE</stok_kodu>
+    <kaynak_kodu>DPO-431-19AWR-UE</kaynak_kodu>
+    <urun_adi>STOP LAMBASI DIŞ SAĞ FOCUS 18&gt; SEDAN</urun_adi>
+    <uretici_kodu>431-19AWR-UE</uretici_kodu>
+    <tedarikci_marka>DEPO</tedarikci_marka>
+    <satis_fiyati>7000</satis_fiyati>
+    <kdv>20</kdv>
+    <para_birimi>TL</para_birimi>
+    <stok>2</stok>
+    <tedarik_durumu>Stokta</tedarik_durumu>
+    <teslim_suresi>1-2 iş günü</teslim_suresi>
+    <himpeks_stok>2</himpeks_stok>
+    <birim>PCE</birim>
+    <himpeks_id>29616</himpeks_id>
+  </urun>
+  <urun>
+    <stok_kodu>HMPX-DPO-431-19B6L-UE</stok_kodu>
+    <kaynak_kodu>DPO-431-19B6L-UE</kaynak_kodu>
+    <urun_adi>STOP LAMBASI SOL TRANSIT CUSTOM 12&gt; V362</urun_adi>
+    <uretici_kodu>431-19B6L-UE</uretici_kodu>
+    <tedarikci_marka>DEPO</tedarikci_marka>
+    <satis_fiyati>4800</satis_fiyati>
+    <kdv>20</kdv>
+    <para_birimi>TL</para_birimi>
+    <stok>10</stok>
+    <tedarik_durumu>Tedarik ile getirtilir</tedarik_durumu>
+    <teslim_suresi>3-5 iş günü</teslim_suresi>
+    <himpeks_stok>0</himpeks_stok>
+    <birim>PCE</birim>
+    <himpeks_id>29617</himpeks_id>
+  </urun>
+  <urun>
+    <stok_kodu>HMPX-DPO-431-19B6R-UE</stok_kodu>
+    <kaynak_kodu>DPO-431-19B6R-UE</kaynak_kodu>
+    <urun_adi>STOP LAMBASI SAG TRANSIT CUSTOM 12&gt; V362</urun_adi>
+    <uretici_kodu>431-19B6R-UE</uretici_kodu>
+    <tedarikci_marka>DEPO</tedarikci_marka>
+    <satis_fiyati>4800</satis_fiyati>
+    <kdv>20</kdv>
+    <para_birimi>TL</para_birimi>
+    <stok>10</stok>
+    <tedarik_durumu>Tedarik ile getirtilir</tedarik_durumu>
+    <teslim_suresi>3-5 iş günü</teslim_suresi>
+    <himpeks_stok>0</himpeks_stok>
+    <birim>PCE</birim>
+    <himpeks_id>29618</himpeks_id>
+  </urun>
+  <urun>
+    <stok_kodu>HMPX-MAR-511145</stok_kodu>
+    <kaynak_kodu>MAR-511145</kaynak_kodu>
+    <urun_adi>STOP SAG</urun_adi>
+    <uretici_kodu>511145</uretici_kodu>
+    <tedarikci_marka>MARS</tedarikci_marka>
+    <satis_fiyati>2200</satis_fiyati>
+    <kdv>20</kdv>
+    <para_birimi>TL</para_birimi>
+    <stok>10</stok>
+    <tedarik_durumu>Tedarik ile getirtilir</tedarik_durumu>
+    <teslim_suresi>3-5 iş günü</teslim_suresi>
+    <himpeks_stok>0</himpeks_stok>
+    <birim>PCE</birim>
+    <himpeks_id>68447</himpeks_id>
+  </urun>
+  <urun>
+    <stok_kodu>HMPX-MGA-60204</stok_kodu>
+    <kaynak_kodu>MGA-60204</kaynak_kodu>
+    <urun_adi>SİLİNDİR KAPAĞI (2.5 12 VALF WLY3100K0C) RANGER 96&gt;06-MAZDA B2500</urun_adi>
+    <uretici_kodu>60204</uretici_kodu>
+    <tedarikci_marka>MGA</tedarikci_marka>
+    <satis_fiyati>25400</satis_fiyati>
+    <kdv>20</kdv>
+    <para_birimi>TL</para_birimi>
+    <stok>3</stok>
+    <tedarik_durumu>Stokta</tedarik_durumu>
+    <teslim_suresi>1-2 iş günü</teslim_suresi>
+    <himpeks_stok>3</himpeks_stok>
+    <birim>PCE</birim>
+    <himpeks_id>74689</himpeks_id>
+  </urun>
+  <urun>
+    <stok_kodu>HMPX-RNZ-02-36290-02</stok_kodu>
+    <kaynak_kodu>RNZ-02-36290-02</kaynak_kodu>
+    <urun_adi>UST TAKIM CONTA</urun_adi>
+    <uretici_kodu>02-36290-02</uretici_kodu>
+    <tedarikci_marka>VICTOR REINZ</tedarikci_marka>
+    <satis_fiyati>18000</satis_fiyati>
+    <kdv>20</kdv>
+    <para_birimi>TL</para_birimi>
+    <stok>10</stok>
+    <tedarik_durumu>Tedarik ile getirtilir</tedarik_durumu>
+    <teslim_suresi>3-5 iş günü</teslim_suresi>
+    <himpeks_stok>0</himpeks_stok>
+    <birim>SET</birim>
+    <himpeks_id>113722</himpeks_id>
+  </urun>
+  <urun>
+    <stok_kodu>HMPX-RNZ-02-36365-01</stok_kodu>
+    <kaynak_kodu>RNZ-02-36365-01</kaynak_kodu>
+    <urun_adi>TAKIM CONTA</urun_adi>
+    <uretici_kodu>02-36365-01</uretici_kodu>
+    <tedarikci_marka>VICTOR REINZ</tedarikci_marka>
+    <satis_fiyati>9200</satis_fiyati>
+    <kdv>20</kdv>
+    <para_birimi>TL</para_birimi>
+    <stok>10</stok>
+    <tedarik_durumu>Tedarik ile getirtilir</tedarik_durumu>
+    <teslim_suresi>3-5 iş günü</teslim_suresi>
+    <himpeks_stok>0</himpeks_stok>
+    <birim>SET</birim>
+    <himpeks_id>113724</himpeks_id>
+  </urun>
+  <urun>
+    <stok_kodu>HMPX-RNZ-02-36370-01</stok_kodu>
+    <kaynak_kodu>RNZ-02-36370-01</kaynak_kodu>
+    <urun_adi>TAKIM CONTA</urun_adi>
+    <uretici_kodu>02-36370-01</uretici_kodu>
+    <tedarikci_marka>VICTOR REINZ</tedarikci_marka>
+    <satis_fiyati>9300</satis_fiyati>
+    <kdv>20</kdv>
+    <para_birimi>TL</para_birimi>
+    <stok>10</stok>
+    <tedarik_durumu>Tedarik ile getirtilir</tedarik_durumu>
+    <teslim_suresi>3-5 iş günü</teslim_suresi>
+    <himpeks_stok>0</himpeks_stok>
+    <birim>SET</birim>
+    <himpeks_id>113725</himpeks_id>
+  </urun>
+  <urun>
+    <stok_kodu>HMPX-RNZ-02-36560-01</stok_kodu>
+    <kaynak_kodu>RNZ-02-36560-01</kaynak_kodu>
+    <urun_adi>TAKIM CONTA</urun_adi>
+    <uretici_kodu>02-36560-01</uretici_kodu>
+    <tedarikci_marka>VICTOR REINZ</tedarikci_marka>
+    <satis_fiyati>9900</satis_fiyati>
+    <kdv>20</kdv>
+    <para_birimi>TL</para_birimi>
+    <stok>10</stok>
+    <tedarik_durumu>Tedarik ile getirtilir</tedarik_durumu>
+    <teslim_suresi>3-5 iş günü</teslim_suresi>
+    <himpeks_stok>0</himpeks_stok>
+    <birim>SET</birim>
+    <himpeks_id>113732</himpeks_id>
+  </urun>
+  <urun>
+    <stok_kodu>HMPX-RNZ-02-36565-01</stok_kodu>
+    <kaynak_kodu>RNZ-02-36565-01</kaynak_kodu>
+    <urun_adi>TAKIM CONTA</urun_adi>
+    <uretici_kodu>02-36565-01</uretici_kodu>
+    <tedarikci_marka>VICTOR REINZ</tedarikci_marka>
+    <satis_fiyati>10400</satis_fiyati>
+    <kdv>20</kdv>
+    <para_birimi>TL</para_birimi>
+    <stok>10</stok>
+    <tedarik_durumu>Tedarik ile getirtilir</tedarik_durumu>
+    <teslim_suresi>3-5 iş günü</teslim_suresi>
+    <himpeks_stok>0</himpeks_stok>
+    <birim>SET</birim>
+    <himpeks_id>113733</himpeks_id>
+  </urun>
+  <urun>
+    <stok_kodu>HMPX-RNZ-02-37100-01</stok_kodu>
+    <kaynak_kodu>RNZ-02-37100-01</kaynak_kodu>
+    <urun_adi>TAKIM CONTA</urun_adi>
+    <uretici_kodu>02-37100-01</uretici_kodu>
+    <tedarikci_marka>VICTOR REINZ</tedarikci_marka>
+    <satis_fiyati>7800</satis_fiyati>
+    <kdv>20</kdv>
+    <para_birimi>TL</para_birimi>
+    <stok>10</stok>
+    <tedarik_durumu>Tedarik ile getirtilir</tedarik_durumu>
+    <teslim_suresi>3-5 iş günü</teslim_suresi>
+    <himpeks_stok>0</himpeks_stok>
+    <birim>SET</birim>
+    <himpeks_id>113751</himpeks_id>
+  </urun>
+  <urun>
+    <stok_kodu>HMPX-RNZ-02-37105-01</stok_kodu>
+    <kaynak_kodu>RNZ-02-37105-01</kaynak_kodu>
+    <urun_adi>TAKIM CONTA</urun_adi>
+    <uretici_kodu>02-37105-01</uretici_kodu>
+    <tedarikci_marka>VICTOR REINZ</tedarikci_marka>
+    <satis_fiyati>7700</satis_fiyati>
+    <kdv>20</kdv>
+    <para_birimi>TL</para_birimi>
+    <stok>10</stok>
+    <tedarik_durumu>Tedarik ile getirtilir</tedarik_durumu>
+    <teslim_suresi>3-5 iş günü</teslim_suresi>
+    <himpeks_stok>0</himpeks_stok>
+    <birim>SET</birim>
+    <himpeks_id>113752</himpeks_id>
+  </urun>
+  <urun>
+    <stok_kodu>HMPX-RNZ-02-37270-03</stok_kodu>
+    <kaynak_kodu>RNZ-02-37270-03</kaynak_kodu>
+    <urun_adi>TAKIM CONTA</urun_adi>
+    <uretici_kodu>02-37270-03</uretici_kodu>
+    <tedarikci_marka>VICTOR REINZ</tedarikci_marka>
+    <satis_fiyati>20500</satis_fiyati>
+    <kdv>20</kdv>
+    <para_birimi>TL</para_birimi>
+    <stok>10</stok>
+    <tedarik_durumu>Tedarik ile getirtilir</tedarik_durumu>
+    <teslim_suresi>3-5 iş günü</teslim_suresi>
+    <himpeks_stok>0</himpeks_stok>
+    <birim>SET</birim>
+    <himpeks_id>113761</himpeks_id>
+  </urun>
+  <urun>
+    <stok_kodu>HMPX-RNZ-02-37283-02</stok_kodu>
+    <kaynak_kodu>RNZ-02-37283-02</kaynak_kodu>
+    <urun_adi>UST TAKIM CONTA</urun_adi>
+    <uretici_kodu>02-37283-02</uretici_kodu>
+    <tedarikci_marka>VICTOR REINZ</tedarikci_marka>
+    <satis_fiyati>12200</satis_fiyati>
+    <kdv>20</kdv>
+    <para_birimi>TL</para_birimi>
+    <stok>10</stok>
+    <tedarik_durumu>Tedarik ile getirtilir</tedarik_durumu>
+    <teslim_suresi>3-5 iş günü</teslim_suresi>
+    <himpeks_stok>0</himpeks_stok>
+    <birim>SET</birim>
+    <himpeks_id>113763</himpeks_id>
+  </urun>
+  <urun>
+    <stok_kodu>HMPX-RNZ-02-37293-01</stok_kodu>
+    <kaynak_kodu>RNZ-02-37293-01</kaynak_kodu>
+    <urun_adi>UST TAKIM CONTA</urun_adi>
+    <uretici_kodu>02-37293-01</uretici_kodu>
+    <tedarikci_marka>VICTOR REINZ</tedarikci_marka>
+    <satis_fiyati>13000</satis_fiyati>
+    <kdv>20</kdv>
+    <para_birimi>TL</para_birimi>
+    <stok>10</stok>
+    <tedarik_durumu>Tedarik ile getirtilir</tedarik_durumu>
+    <teslim_suresi>3-5 iş günü</teslim_suresi>
+    <himpeks_stok>0</himpeks_stok>
+    <birim>SET</birim>
+    <himpeks_id>113764</himpeks_id>
+  </urun>
+  <urun>
+    <stok_kodu>HMPX-RNZ-02-37320-01</stok_kodu>
+    <kaynak_kodu>RNZ-02-37320-01</kaynak_kodu>
+    <urun_adi>TAKIM CONTA</urun_adi>
+    <uretici_kodu>02-37320-01</uretici_kodu>
+    <tedarikci_marka>VICTOR REINZ</tedarikci_marka>
+    <satis_fiyati>10000</satis_fiyati>
+    <kdv>20</kdv>
+    <para_birimi>TL</para_birimi>
+    <stok>10</stok>
+    <tedarik_durumu>Tedarik ile getirtilir</tedarik_durumu>
+    <teslim_suresi>3-5 iş günü</teslim_suresi>
+    <himpeks_stok>0</himpeks_stok>
+    <birim>SET</birim>
+    <himpeks_id>113766</himpeks_id>
+  </urun>
+  <urun>
+    <stok_kodu>HMPX-RNZ-02-37325-01</stok_kodu>
+    <kaynak_kodu>RNZ-02-37325-01</kaynak_kodu>
+    <urun_adi>TAKIM CONTA</urun_adi>
+    <uretici_kodu>02-37325-01</uretici_kodu>
+    <tedarikci_marka>VICTOR REINZ</tedarikci_marka>
+    <satis_fiyati>10400</satis_fiyati>
+    <kdv>20</kdv>
+    <para_birimi>TL</para_birimi>
+    <stok>10</stok>
+    <tedarik_durumu>Tedarik ile getirtilir</tedarik_durumu>
+    <teslim_suresi>3-5 iş günü</teslim_suresi>
+    <himpeks_stok>0</himpeks_stok>
+    <birim>SET</birim>
+    <himpeks_id>113767</himpeks_id>
+  </urun>
+  <urun>
+    <stok_kodu>HMPX-RNZ-02-37402-02</stok_kodu>
+    <kaynak_kodu>RNZ-02-37402-02</kaynak_kodu>
+    <urun_adi>UST TAKIM CONTA</urun_adi>
+    <uretici_kodu>02-37402-02</uretici_kodu>
+    <tedarikci_marka>VICTOR REINZ</tedarikci_marka>
+    <satis_fiyati>13200</satis_fiyati>
+    <kdv>20</kdv>
+    <para_birimi>TL</para_birimi>
+    <stok>10</stok>
+    <tedarik_durumu>Tedarik ile getirtilir</tedarik_durumu>
+    <teslim_suresi>3-5 iş günü</teslim_suresi>
+    <himpeks_stok>0</himpeks_stok>
+    <birim>SET</birim>
+    <himpeks_id>113774</himpeks_id>
+  </urun>
+  <urun>
+    <stok_kodu>HMPX-RNZ-02-37955-01</stok_kodu>
+    <kaynak_kodu>RNZ-02-37955-01</kaynak_kodu>
+    <urun_adi>TAKIM CONTA</urun_adi>
+    <uretici_kodu>02-37955-01</uretici_kodu>
+    <tedarikci_marka>VICTOR REINZ</tedarikci_marka>
+    <satis_fiyati>28100</satis_fiyati>
+    <kdv>20</kdv>
+    <para_birimi>TL</para_birimi>
+    <stok>10</stok>
+    <tedarik_durumu>Tedarik ile getirtilir</tedarik_durumu>
+    <teslim_suresi>3-5 iş günü</teslim_suresi>
+    <himpeks_stok>0</himpeks_stok>
+    <birim>SET</birim>
+    <himpeks_id>113803</himpeks_id>
+  </urun>
+  <urun>
+    <stok_kodu>HMPX-RNZ-02-37985-02</stok_kodu>
+    <kaynak_kodu>RNZ-02-37985-02</kaynak_kodu>
+    <urun_adi>MOTOR UST TAKIM CONTA</urun_adi>
+    <uretici_kodu>02-37985-02</uretici_kodu>
+    <tedarikci_marka>VICTOR REINZ</tedarikci_marka>
+    <satis_fiyati>12200</satis_fiyati>
+    <kdv>20</kdv>
+    <para_birimi>TL</para_birimi>
+    <stok>10</stok>
+    <tedarik_durumu>Tedarik ile getirtilir</tedarik_durumu>
+    <teslim_suresi>3-5 iş günü</teslim_suresi>
+    <himpeks_stok>0</himpeks_stok>
+    <birim>SET</birim>
+    <himpeks_id>113805</himpeks_id>
+  </urun>
+  <urun>
+    <stok_kodu>HMPX-RNZ-02-38180-01</stok_kodu>
+    <kaynak_kodu>RNZ-02-38180-01</kaynak_kodu>
+    <urun_adi>UST TAKIM CONTA</urun_adi>
+    <uretici_kodu>02-38180-01</uretici_kodu>
+    <tedarikci_marka>VICTOR REINZ</tedarikci_marka>
+    <satis_fiyati>8800</satis_fiyati>
+    <kdv>20</kdv>
+    <para_birimi>TL</para_birimi>
+    <stok>10</stok>
+    <tedarik_durumu>Tedarik ile getirtilir</tedarik_durumu>
+    <teslim_suresi>3-5 iş günü</teslim_suresi>
+    <himpeks_stok>0</himpeks_stok>
+    <birim>SET</birim>
+    <himpeks_id>113811</himpeks_id>
+  </urun>
+  <urun>
+    <stok_kodu>HMPX-RNZ-02-38270-01</stok_kodu>
+    <kaynak_kodu>RNZ-02-38270-01</kaynak_kodu>
+    <urun_adi>TAKIM CONTA</urun_adi>
+    <uretici_kodu>02-38270-01</uretici_kodu>
+    <tedarikci_marka>VICTOR REINZ</tedarikci_marka>
+    <satis_fiyati>22500</satis_fiyati>
+    <kdv>20</kdv>
+    <para_birimi>TL</para_birimi>
+    <stok>10</stok>
+    <tedarik_durumu>Tedarik ile getirtilir</tedarik_durumu>
+    <teslim_suresi>3-5 iş günü</teslim_suresi>
+    <himpeks_stok>0</himpeks_stok>
+    <birim>SET</birim>
+    <himpeks_id>113814</himpeks_id>
+  </urun>
+  <urun>
+    <stok_kodu>HMPX-RNZ-02-38285-01</stok_kodu>
+    <kaynak_kodu>RNZ-02-38285-01</kaynak_kodu>
+    <urun_adi>TAKIM CONTA</urun_adi>
+    <uretici_kodu>02-38285-01</uretici_kodu>
+    <tedarikci_marka>VICTOR REINZ</tedarikci_marka>
+    <satis_fiyati>20500</satis_fiyati>
+    <kdv>20</kdv>
+    <para_birimi>TL</para_birimi>
+    <stok>10</stok>
+    <tedarik_durumu>Tedarik ile getirtilir</tedarik_durumu>
+    <teslim_suresi>3-5 iş günü</teslim_suresi>
+    <himpeks_stok>0</himpeks_stok>
+    <birim>SET</birim>
+    <himpeks_id>113815</himpeks_id>
+  </urun>
+  <urun>
+    <stok_kodu>HMPX-RNZ-02-39244-03</stok_kodu>
+    <kaynak_kodu>RNZ-02-39244-03</kaynak_kodu>
+    <urun_adi>UST TAKIM CONTA</urun_adi>
+    <uretici_kodu>02-39244-03</uretici_kodu>
+    <tedarikci_marka>VICTOR REINZ</tedarikci_marka>
+    <satis_fiyati>6600</satis_fiyati>
+    <kdv>20</kdv>
+    <para_birimi>TL</para_birimi>
+    <stok>10</stok>
+    <tedarik_durumu>Tedarik ile getirtilir</tedarik_durumu>
+    <teslim_suresi>3-5 iş günü</teslim_suresi>
+    <himpeks_stok>0</himpeks_stok>
+    <birim>SET</birim>
+    <himpeks_id>113827</himpeks_id>
+  </urun>
+  <urun>
+    <stok_kodu>HMPX-RNZ-02-39286-01</stok_kodu>
+    <kaynak_kodu>RNZ-02-39286-01</kaynak_kodu>
+    <urun_adi>UST TAKIM CONTA</urun_adi>
+    <uretici_kodu>02-39286-01</uretici_kodu>
+    <tedarikci_marka>VICTOR REINZ</tedarikci_marka>
+    <satis_fiyati>10100</satis_fiyati>
+    <kdv>20</kdv>
+    <para_birimi>TL</para_birimi>
+    <stok>10</stok>
+    <tedarik_durumu>Tedarik ile getirtilir</tedarik_durumu>
+    <teslim_suresi>3-5 iş günü</teslim_suresi>
+    <himpeks_stok>0</himpeks_stok>
+    <birim>SET</birim>
+    <himpeks_id>113828</himpeks_id>
+  </urun>
+  <urun>
+    <stok_kodu>HMPX-RNZ-02-40487-01</stok_kodu>
+    <kaynak_kodu>RNZ-02-40487-01</kaynak_kodu>
+    <urun_adi>MOTOR TAKIM CONTA</urun_adi>
+    <uretici_kodu>02-40487-01</uretici_kodu>
+    <tedarikci_marka>VICTOR REINZ</tedarikci_marka>
+    <satis_fiyati>14900</satis_fiyati>
+    <kdv>20</kdv>
+    <para_birimi>TL</para_birimi>
+    <stok>10</stok>
+    <tedarik_durumu>Tedarik ile getirtilir</tedarik_durumu>
+    <teslim_suresi>3-5 iş günü</teslim_suresi>
+    <himpeks_stok>0</himpeks_stok>
+    <birim>SET</birim>
+    <himpeks_id>113837</himpeks_id>
+  </urun>
+  <urun>
+    <stok_kodu>HMPX-RNZ-02-41128-01</stok_kodu>
+    <kaynak_kodu>RNZ-02-41128-01</kaynak_kodu>
+    <urun_adi>TAKIM CONTA</urun_adi>
+    <uretici_kodu>02-41128-01</uretici_kodu>
+    <tedarikci_marka>VICTOR REINZ</tedarikci_marka>
+    <satis_fiyati>4900</satis_fiyati>
+    <kdv>20</kdv>
+    <para_birimi>TL</para_birimi>
+    <stok>10</stok>
+    <tedarik_durumu>Tedarik ile getirtilir</tedarik_durumu>
+    <teslim_suresi>3-5 iş günü</teslim_suresi>
+    <himpeks_stok>0</himpeks_stok>
+    <birim>SET</birim>
+    <himpeks_id>113843</himpeks_id>
+  </urun>
+  <urun>
+    <stok_kodu>HMPX-RNZ-02-53065-01</stok_kodu>
+    <kaynak_kodu>RNZ-02-53065-01</kaynak_kodu>
+    <urun_adi>MOTOR UST TAKIM CONTA</urun_adi>
+    <uretici_kodu>02-53065-01</uretici_kodu>
+    <tedarikci_marka>VICTOR REINZ</tedarikci_marka>
+    <satis_fiyati>6700</satis_fiyati>
+    <kdv>20</kdv>
+    <para_birimi>TL</para_birimi>
+    <stok>10</stok>
+    <tedarik_durumu>Tedarik ile getirtilir</tedarik_durumu>
+    <teslim_suresi>3-5 iş günü</teslim_suresi>
+    <himpeks_stok>0</himpeks_stok>
+    <birim>SET</birim>
+    <himpeks_id>113869</himpeks_id>
+  </urun>
+  <urun>
+    <stok_kodu>HMPX-RNZ-02-53640-02</stok_kodu>
+    <kaynak_kodu>RNZ-02-53640-02</kaynak_kodu>
+    <urun_adi>MOTOR TAKIM CONTA</urun_adi>
+    <uretici_kodu>02-53640-02</uretici_kodu>
+    <tedarikci_marka>VICTOR REINZ</tedarikci_marka>
+    <satis_fiyati>7300</satis_fiyati>
+    <kdv>20</kdv>
+    <para_birimi>TL</para_birimi>
+    <stok>10</stok>
+    <tedarik_durumu>Tedarik ile getirtilir</tedarik_durumu>
+    <teslim_suresi>3-5 iş günü</teslim_suresi>
+    <himpeks_stok>0</himpeks_stok>
+    <birim>SET</birim>
+    <himpeks_id>113877</himpeks_id>
+  </urun>
+  <urun>
+    <stok_kodu>HMPX-RNZ-08-10017-01</stok_kodu>
+    <kaynak_kodu>RNZ-08-10017-01</kaynak_kodu>
+    <urun_adi>TAKIM CONTA</urun_adi>
+    <uretici_kodu>08-10017-01</uretici_kodu>
+    <tedarikci_marka>VICTOR REINZ</tedarikci_marka>
+    <satis_fiyati>6900</satis_fiyati>
+    <kdv>20</kdv>
+    <para_birimi>TL</para_birimi>
+    <stok>10</stok>
+    <tedarik_durumu>Tedarik ile getirtilir</tedarik_durumu>
+    <teslim_suresi>3-5 iş günü</teslim_suresi>
+    <himpeks_stok>0</himpeks_stok>
+    <birim>SET</birim>
+    <himpeks_id>113908</himpeks_id>
+  </urun>
+  <urun>
+    <stok_kodu>HMPX-RNZ-08-10018-01</stok_kodu>
+    <kaynak_kodu>RNZ-08-10018-01</kaynak_kodu>
+    <urun_adi>TAKIM CONTA</urun_adi>
+    <uretici_kodu>08-10018-01</uretici_kodu>
+    <tedarikci_marka>VICTOR REINZ</tedarikci_marka>
+    <satis_fiyati>6600</satis_fiyati>
+    <kdv>20</kdv>
+    <para_birimi>TL</para_birimi>
+    <stok>10</stok>
+    <tedarik_durumu>Tedarik ile getirtilir</tedarik_durumu>
+    <teslim_suresi>3-5 iş günü</teslim_suresi>
+    <himpeks_stok>0</himpeks_stok>
+    <birim>SET</birim>
+    <himpeks_id>113909</himpeks_id>
+  </urun>
+  <urun>
+    <stok_kodu>HMPX-RNZ-08-10023-01</stok_kodu>
+    <kaynak_kodu>RNZ-08-10023-01</kaynak_kodu>
+    <urun_adi>TAKIM CONTA</urun_adi>
+    <uretici_kodu>08-10023-01</uretici_kodu>
+    <tedarikci_marka>VICTOR REINZ</tedarikci_marka>
+    <satis_fiyati>4800</satis_fiyati>
+    <kdv>20</kdv>
+    <para_birimi>TL</para_birimi>
+    <stok>10</stok>
+    <tedarik_durumu>Tedarik ile getirtilir</tedarik_durumu>
+    <teslim_suresi>3-5 iş günü</teslim_suresi>
+    <himpeks_stok>0</himpeks_stok>
+    <birim>SET</birim>
+    <himpeks_id>113911</himpeks_id>
+  </urun>
+  <urun>
+    <stok_kodu>HMPX-RNZ-08-10029-01</stok_kodu>
+    <kaynak_kodu>RNZ-08-10029-01</kaynak_kodu>
+    <urun_adi>ALT TAKIM CONTA</urun_adi>
+    <uretici_kodu>08-10029-01</uretici_kodu>
+    <tedarikci_marka>VICTOR REINZ</tedarikci_marka>
+    <satis_fiyati>7100</satis_fiyati>
+    <kdv>20</kdv>
+    <para_birimi>TL</para_birimi>
+    <stok>10</stok>
+    <tedarik_durumu>Tedarik ile getirtilir</tedarik_durumu>
+    <teslim_suresi>3-5 iş günü</teslim_suresi>
+    <himpeks_stok>0</himpeks_stok>
+    <birim>SET</birim>
+    <himpeks_id>113914</himpeks_id>
+  </urun>
+  <urun>
+    <stok_kodu>HMPX-RNZ-08-10030-01</stok_kodu>
+    <kaynak_kodu>RNZ-08-10030-01</kaynak_kodu>
+    <urun_adi>ALT TAKIM CONTA</urun_adi>
+    <uretici_kodu>08-10030-01</uretici_kodu>
+    <tedarikci_marka>VICTOR REINZ</tedarikci_marka>
+    <satis_fiyati>9400</satis_fiyati>
+    <kdv>20</kdv>
+    <para_birimi>TL</para_birimi>
+    <stok>10</stok>
+    <tedarik_durumu>Tedarik ile getirtilir</tedarik_durumu>
+    <teslim_suresi>3-5 iş günü</teslim_suresi>
+    <himpeks_stok>0</himpeks_stok>
+    <birim>SET</birim>
+    <himpeks_id>113915</himpeks_id>
+  </urun>
+  <urun>
+    <stok_kodu>HMPX-RNZ-08-10068-01</stok_kodu>
+    <kaynak_kodu>RNZ-08-10068-01</kaynak_kodu>
+    <urun_adi>TAKIM CONTA</urun_adi>
+    <uretici_kodu>08-10068-01</uretici_kodu>
+    <tedarikci_marka>VICTOR REINZ</tedarikci_marka>
+    <satis_fiyati>8700</satis_fiyati>
+    <kdv>20</kdv>
+    <para_birimi>TL</para_birimi>
+    <stok>10</stok>
+    <tedarik_durumu>Tedarik ile getirtilir</tedarik_durumu>
+    <teslim_suresi>3-5 iş günü</teslim_suresi>
+    <himpeks_stok>0</himpeks_stok>
+    <birim>SET</birim>
+    <himpeks_id>113917</himpeks_id>
+  </urun>
+  <urun>
+    <stok_kodu>HMPX-RNZ-08-10135-01</stok_kodu>
+    <kaynak_kodu>RNZ-08-10135-01</kaynak_kodu>
+    <urun_adi>ALT TAKIM CONTA</urun_adi>
+    <uretici_kodu>08-10135-01</uretici_kodu>
+    <tedarikci_marka>VICTOR REINZ</tedarikci_marka>
+    <satis_fiyati>6700</satis_fiyati>
+    <kdv>20</kdv>
+    <para_birimi>TL</para_birimi>
+    <stok>10</stok>
+    <tedarik_durumu>Tedarik ile getirtilir</tedarik_durumu>
+    <teslim_suresi>3-5 iş günü</teslim_suresi>
+    <himpeks_stok>0</himpeks_stok>
+    <birim>SET</birim>
+    <himpeks_id>113918</himpeks_id>
+  </urun>
+  <urun>
+    <stok_kodu>HMPX-RNZ-08-10176-01</stok_kodu>
+    <kaynak_kodu>RNZ-08-10176-01</kaynak_kodu>
+    <urun_adi>ALT TAKIM CONTA</urun_adi>
+    <uretici_kodu>08-10176-01</uretici_kodu>
+    <tedarikci_marka>VICTOR REINZ</tedarikci_marka>
+    <satis_fiyati>10100</satis_fiyati>
+    <kdv>20</kdv>
+    <para_birimi>TL</para_birimi>
+    <stok>10</stok>
+    <tedarik_durumu>Tedarik ile getirtilir</tedarik_durumu>
+    <teslim_suresi>3-5 iş günü</teslim_suresi>
+    <himpeks_stok>0</himpeks_stok>
+    <birim>SET</birim>
+    <himpeks_id>113920</himpeks_id>
+  </urun>
+  <urun>
+    <stok_kodu>HMPX-RNZ-08-24600-03</stok_kodu>
+    <kaynak_kodu>RNZ-08-24600-03</kaynak_kodu>
+    <urun_adi>ALT TAKIM CONTA</urun_adi>
+    <uretici_kodu>08-24600-03</uretici_kodu>
+    <tedarikci_marka>VICTOR REINZ</tedarikci_marka>
+    <satis_fiyati>2700</satis_fiyati>
+    <kdv>20</kdv>
+    <para_birimi>TL</para_birimi>
+    <stok>10</stok>
+    <tedarik_durumu>Tedarik ile getirtilir</tedarik_durumu>
+    <teslim_suresi>3-5 iş günü</teslim_suresi>
+    <himpeks_stok>0</himpeks_stok>
+    <birim>SET</birim>
+    <himpeks_id>113938</himpeks_id>
+  </urun>
+  <urun>
+    <stok_kodu>HMPX-RNZ-08-26232-03</stok_kodu>
+    <kaynak_kodu>RNZ-08-26232-03</kaynak_kodu>
+    <urun_adi>TAKIM CONTA</urun_adi>
+    <uretici_kodu>08-26232-03</uretici_kodu>
+    <tedarikci_marka>VICTOR REINZ</tedarikci_marka>
+    <satis_fiyati>5100</satis_fiyati>
+    <kdv>20</kdv>
+    <para_birimi>TL</para_birimi>
+    <stok>10</stok>
+    <tedarik_durumu>Tedarik ile getirtilir</tedarik_durumu>
+    <teslim_suresi>3-5 iş günü</teslim_suresi>
+    <himpeks_stok>0</himpeks_stok>
+    <birim>SET</birim>
+    <himpeks_id>113943</himpeks_id>
+  </urun>
+  <urun>
+    <stok_kodu>HMPX-RNZ-08-26543-12</stok_kodu>
+    <kaynak_kodu>RNZ-08-26543-12</kaynak_kodu>
+    <urun_adi>TAKIM CONTA</urun_adi>
+    <uretici_kodu>08-26543-12</uretici_kodu>
+    <tedarikci_marka>VICTOR REINZ</tedarikci_marka>
+    <satis_fiyati>3800</satis_fiyati>
+    <kdv>20</kdv>
+    <para_birimi>TL</para_birimi>
+    <stok>10</stok>
+    <tedarik_durumu>Tedarik ile getirtilir</tedarik_durumu>
+    <teslim_suresi>3-5 iş günü</teslim_suresi>
+    <himpeks_stok>0</himpeks_stok>
+    <birim>SET</birim>
+    <himpeks_id>113944</himpeks_id>
+  </urun>
+  <urun>
+    <stok_kodu>HMPX-RNZ-08-26572-03</stok_kodu>
+    <kaynak_kodu>RNZ-08-26572-03</kaynak_kodu>
+    <urun_adi>TAKIM CONTA</urun_adi>
+    <uretici_kodu>08-26572-03</uretici_kodu>
+    <tedarikci_marka>VICTOR REINZ</tedarikci_marka>
+    <satis_fiyati>4800</satis_fiyati>
+    <kdv>20</kdv>
+    <para_birimi>TL</para_birimi>
+    <stok>10</stok>
+    <tedarik_durumu>Tedarik ile getirtilir</tedarik_durumu>
+    <teslim_suresi>3-5 iş günü</teslim_suresi>
+    <himpeks_stok>0</himpeks_stok>
+    <birim>SET</birim>
+    <himpeks_id>113947</himpeks_id>
+  </urun>
+  <urun>
+    <stok_kodu>HMPX-RNZ-08-27698-05</stok_kodu>
+    <kaynak_kodu>RNZ-08-27698-05</kaynak_kodu>
+    <urun_adi>ALT TAKIM CONTA</urun_adi>
+    <uretici_kodu>08-27698-05</uretici_kodu>
+    <tedarikci_marka>VICTOR REINZ</tedarikci_marka>
+    <satis_fiyati>5400</satis_fiyati>
+    <kdv>20</kdv>
+    <para_birimi>TL</para_birimi>
+    <stok>10</stok>
+    <tedarik_durumu>Tedarik ile getirtilir</tedarik_durumu>
+    <teslim_suresi>3-5 iş günü</teslim_suresi>
+    <himpeks_stok>0</himpeks_stok>
+    <birim>SET</birim>
+    <himpeks_id>113953</himpeks_id>
+  </urun>
+  <urun>
+    <stok_kodu>HMPX-RNZ-08-33139-01</stok_kodu>
+    <kaynak_kodu>RNZ-08-33139-01</kaynak_kodu>
+    <urun_adi>ALT TAKIM CONTA</urun_adi>
+    <uretici_kodu>08-33139-01</uretici_kodu>
+    <tedarikci_marka>VICTOR REINZ</tedarikci_marka>
+    <satis_fiyati>6600</satis_fiyati>
+    <kdv>20</kdv>
+    <para_birimi>TL</para_birimi>
+    <stok>10</stok>
+    <tedarik_durumu>Tedarik ile getirtilir</tedarik_durumu>
+    <teslim_suresi>3-5 iş günü</teslim_suresi>
+    <himpeks_stok>0</himpeks_stok>
+    <birim>SET</birim>
+    <himpeks_id>113976</himpeks_id>
+  </urun>
+  <urun>
+    <stok_kodu>HMPX-RNZ-08-34038-01</stok_kodu>
+    <kaynak_kodu>RNZ-08-34038-01</kaynak_kodu>
+    <urun_adi>TAKIM CONTA</urun_adi>
+    <uretici_kodu>08-34038-01</uretici_kodu>
+    <tedarikci_marka>VICTOR REINZ</tedarikci_marka>
+    <satis_fiyati>5900</satis_fiyati>
+    <kdv>20</kdv>
+    <para_birimi>TL</para_birimi>
+    <stok>10</stok>
+    <tedarik_durumu>Tedarik ile getirtilir</tedarik_durumu>
+    <teslim_suresi>3-5 iş günü</teslim_suresi>
+    <himpeks_stok>0</himpeks_stok>
+    <birim>SET</birim>
+    <himpeks_id>113985</himpeks_id>
+  </urun>
+  <urun>
+    <stok_kodu>HMPX-RNZ-08-34056-01</stok_kodu>
+    <kaynak_kodu>RNZ-08-34056-01</kaynak_kodu>
+    <urun_adi>ALT TAKIM CONTA</urun_adi>
+    <uretici_kodu>08-34056-01</uretici_kodu>
+    <tedarikci_marka>VICTOR REINZ</tedarikci_marka>
+    <satis_fiyati>6200</satis_fiyati>
+    <kdv>20</kdv>
+    <para_birimi>TL</para_birimi>
+    <stok>10</stok>
+    <tedarik_durumu>Tedarik ile getirtilir</tedarik_durumu>
+    <teslim_suresi>3-5 iş günü</teslim_suresi>
+    <himpeks_stok>0</himpeks_stok>
+    <birim>SET</birim>
+    <himpeks_id>113987</himpeks_id>
+  </urun>
+  <urun>
+    <stok_kodu>HMPX-RNZ-08-35536-03</stok_kodu>
+    <kaynak_kodu>RNZ-08-35536-03</kaynak_kodu>
+    <urun_adi>CONTA</urun_adi>
+    <uretici_kodu>08-35536-03</uretici_kodu>
+    <tedarikci_marka>VICTOR REINZ</tedarikci_marka>
+    <satis_fiyati>6600</satis_fiyati>
+    <kdv>20</kdv>
+    <para_birimi>TL</para_birimi>
+    <stok>10</stok>
+    <tedarik_durumu>Tedarik ile getirtilir</tedarik_durumu>
+    <teslim_suresi>3-5 iş günü</teslim_suresi>
+    <himpeks_stok>0</himpeks_stok>
+    <birim>SET</birim>
+    <himpeks_id>114017</himpeks_id>
+  </urun>
+  <urun>
+    <stok_kodu>HMPX-RNZ-08-36210-01</stok_kodu>
+    <kaynak_kodu>RNZ-08-36210-01</kaynak_kodu>
+    <urun_adi>UST TAKIM CONTA</urun_adi>
+    <uretici_kodu>08-36210-01</uretici_kodu>
+    <tedarikci_marka>VICTOR REINZ</tedarikci_marka>
+    <satis_fiyati>9400</satis_fiyati>
+    <kdv>20</kdv>
+    <para_birimi>TL</para_birimi>
+    <stok>10</stok>
+    <tedarik_durumu>Tedarik ile getirtilir</tedarik_durumu>
+    <teslim_suresi>3-5 iş günü</teslim_suresi>
+    <himpeks_stok>0</himpeks_stok>
+    <birim>SET</birim>
+    <himpeks_id>114022</himpeks_id>
+  </urun>
+  <urun>
+    <stok_kodu>HMPX-RNZ-08-36278-01</stok_kodu>
+    <kaynak_kodu>RNZ-08-36278-01</kaynak_kodu>
+    <urun_adi>ALT TAKIM CONTA</urun_adi>
+    <uretici_kodu>08-36278-01</uretici_kodu>
+    <tedarikci_marka>VICTOR REINZ</tedarikci_marka>
+    <satis_fiyati>4200</satis_fiyati>
+    <kdv>20</kdv>
+    <para_birimi>TL</para_birimi>
+    <stok>10</stok>
+    <tedarik_durumu>Tedarik ile getirtilir</tedarik_durumu>
+    <teslim_suresi>3-5 iş günü</teslim_suresi>
+    <himpeks_stok>0</himpeks_stok>
+    <birim>SET</birim>
+    <himpeks_id>114026</himpeks_id>
+  </urun>
+  <urun>
+    <stok_kodu>HMPX-RNZ-08-37313-01</stok_kodu>
+    <kaynak_kodu>RNZ-08-37313-01</kaynak_kodu>
+    <urun_adi>ALT TAKIM CONTA</urun_adi>
+    <uretici_kodu>08-37313-01</uretici_kodu>
+    <tedarikci_marka>VICTOR REINZ</tedarikci_marka>
+    <satis_fiyati>8000</satis_fiyati>
+    <kdv>20</kdv>
+    <para_birimi>TL</para_birimi>
+    <stok>10</stok>
+    <tedarik_durumu>Tedarik ile getirtilir</tedarik_durumu>
+    <teslim_suresi>3-5 iş günü</teslim_suresi>
+    <himpeks_stok>0</himpeks_stok>
+    <birim>SET</birim>
+    <himpeks_id>114036</himpeks_id>
+  </urun>
+  <urun>
+    <stok_kodu>HMPX-RNZ-08-37313-02</stok_kodu>
+    <kaynak_kodu>RNZ-08-37313-02</kaynak_kodu>
+    <urun_adi>ALT TAKIM CONTA</urun_adi>
+    <uretici_kodu>08-37313-02</uretici_kodu>
+    <tedarikci_marka>VICTOR REINZ</tedarikci_marka>
+    <satis_fiyati>8900</satis_fiyati>
+    <kdv>20</kdv>
+    <para_birimi>TL</para_birimi>
+    <stok>10</stok>
+    <tedarik_durumu>Tedarik ile getirtilir</tedarik_durumu>
+    <teslim_suresi>3-5 iş günü</teslim_suresi>
+    <himpeks_stok>0</himpeks_stok>
+    <birim>SET</birim>
+    <himpeks_id>114037</himpeks_id>
+  </urun>
+</urunler>
