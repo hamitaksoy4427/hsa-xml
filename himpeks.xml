@@ -26573,6 +26573,7 @@
     <himpeks_stok>0</himpeks_stok>
     <birim>PCE</birim>
     <himpeks_id>228201</himpeks_id>
+    <resimler><resim>https://raw.githubusercontent.com/hamitaksoy4427/hsa-xml/main/resim/HMP_AB39_13100_FE_MOT.jpg</resim></resimler>
   </urun>
   <urun>
     <stok_kodu>HMPX-HMP AB39 13100 FE/S</stok_kodu>
@@ -26605,6 +26606,7 @@
     <himpeks_stok>0</himpeks_stok>
     <birim>PCE</birim>
     <himpeks_id>228206</himpeks_id>
+    <resimler><resim>https://raw.githubusercontent.com/hamitaksoy4427/hsa-xml/main/resim/HMP_AB39_13101_FE_MOT.jpg</resim></resimler>
   </urun>
   <urun>
     <stok_kodu>HMPX-HMP AB39 13101 FE/S</stok_kodu>
@@ -26621,6 +26623,7 @@
     <himpeks_stok>0</himpeks_stok>
     <birim>PCE</birim>
     <himpeks_id>228207</himpeks_id>
+    <resimler><resim>https://raw.githubusercontent.com/hamitaksoy4427/hsa-xml/main/resim/HMP_AB39_13101_FE_S.jpg</resim></resimler>
   </urun>
   <urun>
     <stok_kodu>HMPX-HMP AM51 16C657 AG</stok_kodu>
@@ -40577,6 +40580,7 @@
     <himpeks_stok>0</himpeks_stok>
     <birim>PCE</birim>
     <himpeks_id>220109</himpeks_id>
+    <resimler><resim>https://raw.githubusercontent.com/hamitaksoy4427/hsa-xml/main/resim/GRD_4M51_17E908_AF_AST.jpg</resim></resimler>
   </urun>
   <urun>
     <stok_kodu>HMPX-GRD 4M51 17E909 AF/AST</stok_kodu>
@@ -40593,6 +40597,7 @@
     <himpeks_stok>0</himpeks_stok>
     <birim>PCE</birim>
     <himpeks_id>220110</himpeks_id>
+    <resimler><resim>https://raw.githubusercontent.com/hamitaksoy4427/hsa-xml/main/resim/GRD_4M51_17E909_AF_AST.jpg</resim></resimler>
   </urun>
   <urun>
     <stok_kodu>HMPX-GRD 5000</stok_kodu>
@@ -85862,6 +85867,7 @@
     <himpeks_stok>11</himpeks_stok>
     <birim>PCE</birim>
     <himpeks_id>226245</himpeks_id>
+    <resimler><resim>https://raw.githubusercontent.com/hamitaksoy4427/hsa-xml/main/resim/HMP_1M51_6F012_BB_T.jpg</resim></resimler>
   </urun>
   <urun>
     <stok_kodu>HMPX-HMP 1M51 7A543 AD</stok_kodu>
@@ -114218,6 +114224,7 @@
     <himpeks_stok>0</himpeks_stok>
     <birim>PCE</birim>
     <himpeks_id>228204</himpeks_id>
+    <resimler><resim>https://raw.githubusercontent.com/hamitaksoy4427/hsa-xml/main/resim/HMP_AB39_13100_HE_S.jpg</resim></resimler>
   </urun>
   <urun>
     <stok_kodu>HMPX-HMP AB39 13101 FE</stok_kodu>
@@ -158093,6 +158100,7 @@
     <himpeks_stok>55</himpeks_stok>
     <birim>PCE</birim>
     <himpeks_id>262955</himpeks_id>
+    <resimler><resim>https://raw.githubusercontent.com/hamitaksoy4427/hsa-xml/main/resim/HMP_96FB_7A543_AF_AC.jpg</resim></resimler>
   </urun>
   <urun>
     <stok_kodu>HMPX-HMP BK21 7A543 BE</stok_kodu>
@@ -159471,6 +159479,7 @@
     <himpeks_stok>6</himpeks_stok>
     <birim>PCE</birim>
     <himpeks_id>266519</himpeks_id>
+    <resimler><resim>https://raw.githubusercontent.com/hamitaksoy4427/hsa-xml/main/resim/HMP_1K0853651E_F_G__.jpg</resim></resimler>
   </urun>
   <urun>
     <stok_kodu>HMPX-HMP 1K0853665B 9B9</stok_kodu>
@@ -162318,6 +162327,7 @@
     <himpeks_stok>18</himpeks_stok>
     <birim>PCE</birim>
     <himpeks_id>266727</himpeks_id>
+    <resimler><resim>https://raw.githubusercontent.com/hamitaksoy4427/hsa-xml/main/resim/HMP_3G0919399_400.jpg</resim></resimler>
   </urun>
   <urun>
     <stok_kodu>HMPX-HMP 3G0941661E</stok_kodu>
@@ -166951,6 +166961,7 @@
     <himpeks_stok>13</himpeks_stok>
     <birim>PCE</birim>
     <himpeks_id>267021</himpeks_id>
+    <resimler><resim>https://raw.githubusercontent.com/hamitaksoy4427/hsa-xml/main/resim/HMP_7P6807449C_450C.jpg</resim></resimler>
   </urun>
   <urun>
     <stok_kodu>HMPX-HMP 7P6807482D 9B9</stok_kodu>
@@ -191192,6 +191203,7 @@
     <himpeks_stok>529</himpeks_stok>
     <birim>PCE</birim>
     <himpeks_id>386730</himpeks_id>
+    <resimler><resim>https://raw.githubusercontent.com/hamitaksoy4427/hsa-xml/main/resim/SKF_LM_11949_910_Q.jpg</resim></resimler>
   </urun>
   <urun>
     <stok_kodu>HMPX-HK31 V42982 AE</stok_kodu>
@@ -302385,6 +302397,7 @@
     <himpeks_stok>0</himpeks_stok>
     <birim>PCE</birim>
     <himpeks_id>643928</himpeks_id>
+    <resimler><resim>https://raw.githubusercontent.com/hamitaksoy4427/hsa-xml/main/resim/HMPX_EB_8400010_77.jpg</resim></resimler>
   </urun>
   <urun>
     <stok_kodu>HMPX-EKEA-5401240/77</stok_kodu>
@@ -302401,6 +302414,7 @@
     <himpeks_stok>3</himpeks_stok>
     <birim>PCE</birim>
     <himpeks_id>643929</himpeks_id>
+    <resimler><resim>https://raw.githubusercontent.com/hamitaksoy4427/hsa-xml/main/resim/HMPX_EKEA_5401240_77.jpg</resim></resimler>
   </urun>
   <urun>
     <stok_kodu>HMPX-EKEA-5401249/77</stok_kodu>
@@ -302417,6 +302431,7 @@
     <himpeks_stok>2</himpeks_stok>
     <birim>PCE</birim>
     <himpeks_id>643930</himpeks_id>
+    <resimler><resim>https://raw.githubusercontent.com/hamitaksoy4427/hsa-xml/main/resim/HMPX_EKEA_5401249_77.jpg</resim></resimler>
   </urun>
   <urun>
     <stok_kodu>HMPX-EKEA-5601010/77</stok_kodu>
@@ -302433,6 +302448,7 @@
     <himpeks_stok>2</himpeks_stok>
     <birim>PCE</birim>
     <himpeks_id>643931</himpeks_id>
+    <resimler><resim>https://raw.githubusercontent.com/hamitaksoy4427/hsa-xml/main/resim/HMPX_EKEA_5601010_77.jpg</resim></resimler>
   </urun>
   <urun>
     <stok_kodu>HMPX-EKEA-5604010/77</stok_kodu>
@@ -302449,6 +302465,7 @@
     <himpeks_stok>2</himpeks_stok>
     <birim>PCE</birim>
     <himpeks_id>643932</himpeks_id>
+    <resimler><resim>https://raw.githubusercontent.com/hamitaksoy4427/hsa-xml/main/resim/HMPX_EKEA_5604010_77.jpg</resim></resimler>
   </urun>
   <urun>
     <stok_kodu>HMPX-EKEA-6101010/77</stok_kodu>
@@ -302465,6 +302482,7 @@
     <himpeks_stok>0</himpeks_stok>
     <birim>PCE</birim>
     <himpeks_id>643933</himpeks_id>
+    <resimler><resim>https://raw.githubusercontent.com/hamitaksoy4427/hsa-xml/main/resim/HMPX_EKEA_6101010_77.jpg</resim></resimler>
   </urun>
   <urun>
     <stok_kodu>HMPX-EKEA-6101019/77</stok_kodu>
@@ -302481,6 +302499,7 @@
     <himpeks_stok>0</himpeks_stok>
     <birim>PCE</birim>
     <himpeks_id>643934</himpeks_id>
+    <resimler><resim>https://raw.githubusercontent.com/hamitaksoy4427/hsa-xml/main/resim/HMPX_EKEA_6101019_77.jpg</resim></resimler>
   </urun>
   <urun>
     <stok_kodu>HMPX-EKEA-6201010/77</stok_kodu>
@@ -302497,6 +302516,7 @@
     <himpeks_stok>4</himpeks_stok>
     <birim>PCE</birim>
     <himpeks_id>643935</himpeks_id>
+    <resimler><resim>https://raw.githubusercontent.com/hamitaksoy4427/hsa-xml/main/resim/HMPX_EKEA_6201010_77.jpg</resim></resimler>
   </urun>
   <urun>
     <stok_kodu>HMPX-EKEA-6201019/77</stok_kodu>
@@ -302513,6 +302533,7 @@
     <himpeks_stok>0</himpeks_stok>
     <birim>PCE</birim>
     <himpeks_id>643936</himpeks_id>
+    <resimler><resim>https://raw.githubusercontent.com/hamitaksoy4427/hsa-xml/main/resim/HMPX_EKEA_6201019_77.jpg</resim></resimler>
   </urun>
   <urun>
     <stok_kodu>HMPX-EKEA-8400020/77</stok_kodu>
@@ -302529,6 +302550,7 @@
     <himpeks_stok>3</himpeks_stok>
     <birim>PCE</birim>
     <himpeks_id>643937</himpeks_id>
+    <resimler><resim>https://raw.githubusercontent.com/hamitaksoy4427/hsa-xml/main/resim/HMPX_EKEA_8400020_77.jpg</resim></resimler>
   </urun>
   <urun>
     <stok_kodu>HMPX-EKEA-8402010/77</stok_kodu>
@@ -302545,6 +302567,7 @@
     <himpeks_stok>3</himpeks_stok>
     <birim>PCE</birim>
     <himpeks_id>643938</himpeks_id>
+    <resimler><resim>https://raw.githubusercontent.com/hamitaksoy4427/hsa-xml/main/resim/HMPX_EKEA_8402010_77.jpg</resim></resimler>
   </urun>
   <urun>
     <stok_kodu>HMPX-EKEA-8403010/77</stok_kodu>
@@ -302561,6 +302584,7 @@
     <himpeks_stok>1</himpeks_stok>
     <birim>PCE</birim>
     <himpeks_id>643939</himpeks_id>
+    <resimler><resim>https://raw.githubusercontent.com/hamitaksoy4427/hsa-xml/main/resim/HMPX_EKEA_8403010_77.jpg</resim></resimler>
   </urun>
   <urun>
     <stok_kodu>HMPX-EKEA-8403019/77</stok_kodu>
@@ -302577,6 +302601,7 @@
     <himpeks_stok>4</himpeks_stok>
     <birim>PCE</birim>
     <himpeks_id>643940</himpeks_id>
+    <resimler><resim>https://raw.githubusercontent.com/hamitaksoy4427/hsa-xml/main/resim/HMPX_EKEA_8403019_77.jpg</resim></resimler>
   </urun>
   <urun>
     <stok_kodu>HMPX-EM2E-6201010/77</stok_kodu>
@@ -302593,6 +302618,7 @@
     <himpeks_stok>6</himpeks_stok>
     <birim>PCE</birim>
     <himpeks_id>643943</himpeks_id>
+    <resimler><resim>https://raw.githubusercontent.com/hamitaksoy4427/hsa-xml/main/resim/HMPX_EM2E_6201010_77.jpg</resim></resimler>
   </urun>
   <urun>
     <stok_kodu>HMPX-EM2E-6201019/77</stok_kodu>
@@ -302609,6 +302635,7 @@
     <himpeks_stok>0</himpeks_stok>
     <birim>PCE</birim>
     <himpeks_id>643944</himpeks_id>
+    <resimler><resim>https://raw.githubusercontent.com/hamitaksoy4427/hsa-xml/main/resim/HMPX_EM2E_6201019_77.jpg</resim></resimler>
   </urun>
   <urun>
     <stok_kodu>HMPX-EM2EU-5401917/77</stok_kodu>
@@ -302625,6 +302652,7 @@
     <himpeks_stok>1</himpeks_stok>
     <birim>PCE</birim>
     <himpeks_id>643945</himpeks_id>
+    <resimler><resim>https://raw.githubusercontent.com/hamitaksoy4427/hsa-xml/main/resim/HMPX_EM2EU_5401917_77.jpg</resim></resimler>
   </urun>
   <urun>
     <stok_kodu>HMPX-EM2EU-5401918/77</stok_kodu>
@@ -302641,6 +302669,7 @@
     <himpeks_stok>2</himpeks_stok>
     <birim>PCE</birim>
     <himpeks_id>643946</himpeks_id>
+    <resimler><resim>https://raw.githubusercontent.com/hamitaksoy4427/hsa-xml/main/resim/HMPX_EM2EU_5401918_77.jpg</resim></resimler>
   </urun>
   <urun>
     <stok_kodu>HMPX-EM2EU-5601010/77</stok_kodu>
@@ -302657,6 +302686,7 @@
     <himpeks_stok>3</himpeks_stok>
     <birim>PCE</birim>
     <himpeks_id>643947</himpeks_id>
+    <resimler><resim>https://raw.githubusercontent.com/hamitaksoy4427/hsa-xml/main/resim/HMPX_EM2EU_5601010_77.jpg</resim></resimler>
   </urun>
   <urun>
     <stok_kodu>HMPX-EM2EU-6301010/77</stok_kodu>
@@ -302673,6 +302703,7 @@
     <himpeks_stok>2</himpeks_stok>
     <birim>PCE</birim>
     <himpeks_id>643950</himpeks_id>
+    <resimler><resim>https://raw.githubusercontent.com/hamitaksoy4427/hsa-xml/main/resim/HMPX_EM2EU_6301010_77.jpg</resim></resimler>
   </urun>
   <urun>
     <stok_kodu>HMPX-EM2EU-8400010/77</stok_kodu>
@@ -302689,6 +302720,7 @@
     <himpeks_stok>3</himpeks_stok>
     <birim>PCE</birim>
     <himpeks_id>643951</himpeks_id>
+    <resimler><resim>https://raw.githubusercontent.com/hamitaksoy4427/hsa-xml/main/resim/HMPX_EM2EU_8400010_77.jpg</resim></resimler>
   </urun>
   <urun>
     <stok_kodu>HMPX-EM2EU-8400211/77</stok_kodu>
@@ -302705,6 +302737,7 @@
     <himpeks_stok>1</himpeks_stok>
     <birim>PCE</birim>
     <himpeks_id>643952</himpeks_id>
+    <resimler><resim>https://raw.githubusercontent.com/hamitaksoy4427/hsa-xml/main/resim/HMPX_EM2EU_8400211_77.jpg</resim></resimler>
   </urun>
   <urun>
     <stok_kodu>HMPX-EM2EU-8402010/77</stok_kodu>
@@ -302721,6 +302754,7 @@
     <himpeks_stok>3</himpeks_stok>
     <birim>PCE</birim>
     <himpeks_id>643953</himpeks_id>
+    <resimler><resim>https://raw.githubusercontent.com/hamitaksoy4427/hsa-xml/main/resim/HMPX_EM2EU_8402010_77.jpg</resim></resimler>
   </urun>
   <urun>
     <stok_kodu>HMPX-EM2EU-8403010/77</stok_kodu>
@@ -302737,6 +302771,7 @@
     <himpeks_stok>3</himpeks_stok>
     <birim>PCE</birim>
     <himpeks_id>643954</himpeks_id>
+    <resimler><resim>https://raw.githubusercontent.com/hamitaksoy4427/hsa-xml/main/resim/HMPX_EM2EU_8403010_77.jpg</resim></resimler>
   </urun>
   <urun>
     <stok_kodu>HMPX-EM2EU-8403019/77</stok_kodu>
@@ -302753,6 +302788,7 @@
     <himpeks_stok>3</himpeks_stok>
     <birim>PCE</birim>
     <himpeks_id>643955</himpeks_id>
+    <resimler><resim>https://raw.githubusercontent.com/hamitaksoy4427/hsa-xml/main/resim/HMPX_EM2EU_8403019_77.jpg</resim></resimler>
   </urun>
   <urun>
     <stok_kodu>HMPX-HC-6101010/77</stok_kodu>
@@ -302769,6 +302805,7 @@
     <himpeks_stok>6</himpeks_stok>
     <birim>PCE</birim>
     <himpeks_id>643956</himpeks_id>
+    <resimler><resim>https://raw.githubusercontent.com/hamitaksoy4427/hsa-xml/main/resim/HMPX_HC_6101010_77.jpg</resim></resimler>
   </urun>
   <urun>
     <stok_kodu>HMPX-HC-6101019/77</stok_kodu>
@@ -302785,6 +302822,7 @@
     <himpeks_stok>0</himpeks_stok>
     <birim>PCE</birim>
     <himpeks_id>643957</himpeks_id>
+    <resimler><resim>https://raw.githubusercontent.com/hamitaksoy4427/hsa-xml/main/resim/HMPX_HC_6101019_77.jpg</resim></resimler>
   </urun>
   <urun>
     <stok_kodu>HMPX-HC-6201010/77</stok_kodu>
@@ -302801,6 +302839,7 @@
     <himpeks_stok>2</himpeks_stok>
     <birim>PCE</birim>
     <himpeks_id>643958</himpeks_id>
+    <resimler><resim>https://raw.githubusercontent.com/hamitaksoy4427/hsa-xml/main/resim/HMPX_HC_6201010_77.jpg</resim></resimler>
   </urun>
   <urun>
     <stok_kodu>HMPX-HC-6201019/77</stok_kodu>
@@ -302817,6 +302856,7 @@
     <himpeks_stok>0</himpeks_stok>
     <birim>PCE</birim>
     <himpeks_id>643959</himpeks_id>
+    <resimler><resim>https://raw.githubusercontent.com/hamitaksoy4427/hsa-xml/main/resim/HMPX_HC_6201019_77.jpg</resim></resimler>
   </urun>
   <urun>
     <stok_kodu>HMPX-HCE-8400020/77</stok_kodu>
@@ -302833,6 +302873,7 @@
     <himpeks_stok>0</himpeks_stok>
     <birim>PCE</birim>
     <himpeks_id>643960</himpeks_id>
+    <resimler><resim>https://raw.githubusercontent.com/hamitaksoy4427/hsa-xml/main/resim/HMPX_HCE_8400020_77.jpg</resim></resimler>
   </urun>
   <urun>
     <stok_kodu>HMPX-HCE-8402010/77</stok_kodu>
@@ -302849,6 +302890,7 @@
     <himpeks_stok>4</himpeks_stok>
     <birim>PCE</birim>
     <himpeks_id>643961</himpeks_id>
+    <resimler><resim>https://raw.githubusercontent.com/hamitaksoy4427/hsa-xml/main/resim/HMPX_HCE_8402010_77.jpg</resim></resimler>
   </urun>
   <urun>
     <stok_kodu>HMPX-HCE-8403010/77</stok_kodu>
@@ -302865,6 +302907,7 @@
     <himpeks_stok>4</himpeks_stok>
     <birim>PCE</birim>
     <himpeks_id>643962</himpeks_id>
+    <resimler><resim>https://raw.githubusercontent.com/hamitaksoy4427/hsa-xml/main/resim/HMPX_HCE_8403010_77.jpg</resim></resimler>
   </urun>
   <urun>
     <stok_kodu>HMPX-HCE-8403019/77</stok_kodu>
@@ -302881,6 +302924,7 @@
     <himpeks_stok>0</himpeks_stok>
     <birim>PCE</birim>
     <himpeks_id>643963</himpeks_id>
+    <resimler><resim>https://raw.githubusercontent.com/hamitaksoy4427/hsa-xml/main/resim/HMPX_HCE_8403019_77.jpg</resim></resimler>
   </urun>
   <urun>
     <stok_kodu>HMPX-HCEF-5601010/77</stok_kodu>
@@ -302897,6 +302941,7 @@
     <himpeks_stok>0</himpeks_stok>
     <birim>PCE</birim>
     <himpeks_id>643964</himpeks_id>
+    <resimler><resim>https://raw.githubusercontent.com/hamitaksoy4427/hsa-xml/main/resim/HMPX_HCEF_5601010_77.jpg</resim></resimler>
   </urun>
   <urun>
     <stok_kodu>HMPX-HCEF-5604010/77</stok_kodu>
@@ -302913,6 +302958,7 @@
     <himpeks_stok>1</himpeks_stok>
     <birim>PCE</birim>
     <himpeks_id>643965</himpeks_id>
+    <resimler><resim>https://raw.githubusercontent.com/hamitaksoy4427/hsa-xml/main/resim/HMPX_HCEF_5604010_77.jpg</resim></resimler>
   </urun>
   <urun>
     <stok_kodu>HMPX-HCHY-8400010/77</stok_kodu>
@@ -302929,6 +302975,7 @@
     <himpeks_stok>0</himpeks_stok>
     <birim>PCE</birim>
     <himpeks_id>643966</himpeks_id>
+    <resimler><resim>https://raw.githubusercontent.com/hamitaksoy4427/hsa-xml/main/resim/HMPX_HCHY_8400010_77.jpg</resim></resimler>
   </urun>
   <urun>
     <stok_kodu>HMPX-SA3F-5401917/70</stok_kodu>
@@ -302945,6 +302992,7 @@
     <himpeks_stok>3</himpeks_stok>
     <birim>PCE</birim>
     <himpeks_id>643967</himpeks_id>
+    <resimler><resim>https://raw.githubusercontent.com/hamitaksoy4427/hsa-xml/main/resim/HMPX_SA3F_5401917_70.jpg</resim></resimler>
   </urun>
   <urun>
     <stok_kodu>HMPX-SA3F-5401918/70</stok_kodu>
@@ -302961,6 +303009,7 @@
     <himpeks_stok>2</himpeks_stok>
     <birim>PCE</birim>
     <himpeks_id>643968</himpeks_id>
+    <resimler><resim>https://raw.githubusercontent.com/hamitaksoy4427/hsa-xml/main/resim/HMPX_SA3F_5401918_70.jpg</resim></resimler>
   </urun>
   <urun>
     <stok_kodu>HMPX-SA3F-6101010/70</stok_kodu>
@@ -302977,6 +303026,7 @@
     <himpeks_stok>0</himpeks_stok>
     <birim>PCE</birim>
     <himpeks_id>643969</himpeks_id>
+    <resimler><resim>https://raw.githubusercontent.com/hamitaksoy4427/hsa-xml/main/resim/HMPX_SA3F_6101010_70.jpg</resim></resimler>
   </urun>
   <urun>
     <stok_kodu>HMPX-SA3F-6101019/70</stok_kodu>
@@ -302993,6 +303043,7 @@
     <himpeks_stok>3</himpeks_stok>
     <birim>PCE</birim>
     <himpeks_id>643970</himpeks_id>
+    <resimler><resim>https://raw.githubusercontent.com/hamitaksoy4427/hsa-xml/main/resim/HMPX_SA3F_6101019_70.jpg</resim></resimler>
   </urun>
   <urun>
     <stok_kodu>HMPX-SA3F-6201010/70</stok_kodu>
@@ -303009,6 +303060,7 @@
     <himpeks_stok>1</himpeks_stok>
     <birim>PCE</birim>
     <himpeks_id>643971</himpeks_id>
+    <resimler><resim>https://raw.githubusercontent.com/hamitaksoy4427/hsa-xml/main/resim/HMPX_SA3F_6201010_70.jpg</resim></resimler>
   </urun>
   <urun>
     <stok_kodu>HMPX-SA3F-6201019/70</stok_kodu>
@@ -303025,6 +303077,7 @@
     <himpeks_stok>4</himpeks_stok>
     <birim>PCE</birim>
     <himpeks_id>643972</himpeks_id>
+    <resimler><resim>https://raw.githubusercontent.com/hamitaksoy4427/hsa-xml/main/resim/HMPX_SA3F_6201019_70.jpg</resim></resimler>
   </urun>
   <urun>
     <stok_kodu>HMPX-SA3F-8400010A/70</stok_kodu>
@@ -303041,6 +303094,7 @@
     <himpeks_stok>0</himpeks_stok>
     <birim>PCE</birim>
     <himpeks_id>643973</himpeks_id>
+    <resimler><resim>https://raw.githubusercontent.com/hamitaksoy4427/hsa-xml/main/resim/HMPX_SA3F_8400010A_70.jpg</resim></resimler>
   </urun>
   <urun>
     <stok_kodu>HMPX-SA3HK-6301010/70</stok_kodu>
@@ -303057,6 +303111,7 @@
     <himpeks_stok>0</himpeks_stok>
     <birim>PCE</birim>
     <himpeks_id>643974</himpeks_id>
+    <resimler><resim>https://raw.githubusercontent.com/hamitaksoy4427/hsa-xml/main/resim/HMPX_SA3HK_6301010_70.jpg</resim></resimler>
   </urun>
   <urun>
     <stok_kodu>HMPX-SA3HK-8400020/70</stok_kodu>
@@ -303073,6 +303128,7 @@
     <himpeks_stok>0</himpeks_stok>
     <birim>PCE</birim>
     <himpeks_id>643975</himpeks_id>
+    <resimler><resim>https://raw.githubusercontent.com/hamitaksoy4427/hsa-xml/main/resim/HMPX_SA3HK_8400020_70.jpg</resim></resimler>
   </urun>
   <urun>
     <stok_kodu>HMPX-SA3HK-8402010/70</stok_kodu>
@@ -303089,6 +303145,7 @@
     <himpeks_stok>7</himpeks_stok>
     <birim>PCE</birim>
     <himpeks_id>643976</himpeks_id>
+    <resimler><resim>https://raw.githubusercontent.com/hamitaksoy4427/hsa-xml/main/resim/HMPX_SA3HK_8402010_70.jpg</resim></resimler>
   </urun>
   <urun>
     <stok_kodu>HMPX-SA3HK-8403010/70</stok_kodu>
@@ -303105,6 +303162,7 @@
     <himpeks_stok>0</himpeks_stok>
     <birim>PCE</birim>
     <himpeks_id>643977</himpeks_id>
+    <resimler><resim>https://raw.githubusercontent.com/hamitaksoy4427/hsa-xml/main/resim/HMPX_SA3HK_8403010_70.jpg</resim></resimler>
   </urun>
   <urun>
     <stok_kodu>HMPX-SA3HK-8403019/70</stok_kodu>
@@ -303121,6 +303179,7 @@
     <himpeks_stok>0</himpeks_stok>
     <birim>PCE</birim>
     <himpeks_id>643978</himpeks_id>
+    <resimler><resim>https://raw.githubusercontent.com/hamitaksoy4427/hsa-xml/main/resim/HMPX_SA3HK_8403019_70.jpg</resim></resimler>
   </urun>
   <urun>
     <stok_kodu>HMPX-SC2EM-5401917/77</stok_kodu>
@@ -303137,6 +303196,7 @@
     <himpeks_stok>1</himpeks_stok>
     <birim>PCE</birim>
     <himpeks_id>643979</himpeks_id>
+    <resimler><resim>https://raw.githubusercontent.com/hamitaksoy4427/hsa-xml/main/resim/HMPX_SC2EM_5401917_77.jpg</resim></resimler>
   </urun>
   <urun>
     <stok_kodu>HMPX-SC2EM-5401918/77</stok_kodu>
@@ -303153,6 +303213,7 @@
     <himpeks_stok>2</himpeks_stok>
     <birim>PCE</birim>
     <himpeks_id>643980</himpeks_id>
+    <resimler><resim>https://raw.githubusercontent.com/hamitaksoy4427/hsa-xml/main/resim/HMPX_SC2EM_5401918_77.jpg</resim></resimler>
   </urun>
   <urun>
     <stok_kodu>HMPX-SC2EM-5601010/77</stok_kodu>
@@ -303169,6 +303230,7 @@
     <himpeks_stok>3</himpeks_stok>
     <birim>PCE</birim>
     <himpeks_id>643981</himpeks_id>
+    <resimler><resim>https://raw.githubusercontent.com/hamitaksoy4427/hsa-xml/main/resim/HMPX_SC2EM_5601010_77.jpg</resim></resimler>
   </urun>
   <urun>
     <stok_kodu>HMPX-SC2EM-6101010/77</stok_kodu>
@@ -303185,6 +303247,7 @@
     <himpeks_stok>4</himpeks_stok>
     <birim>PCE</birim>
     <himpeks_id>643982</himpeks_id>
+    <resimler><resim>https://raw.githubusercontent.com/hamitaksoy4427/hsa-xml/main/resim/HMPX_SC2EM_6101010_77.jpg</resim></resimler>
   </urun>
   <urun>
     <stok_kodu>HMPX-SC2EM-6101019/77</stok_kodu>
@@ -303201,6 +303264,7 @@
     <himpeks_stok>4</himpeks_stok>
     <birim>PCE</birim>
     <himpeks_id>643983</himpeks_id>
+    <resimler><resim>https://raw.githubusercontent.com/hamitaksoy4427/hsa-xml/main/resim/HMPX_SC2EM_6101019_77.jpg</resim></resimler>
   </urun>
   <urun>
     <stok_kodu>HMPX-SC2EM-6201010/77</stok_kodu>
@@ -303217,6 +303281,7 @@
     <himpeks_stok>0</himpeks_stok>
     <birim>PCE</birim>
     <himpeks_id>643984</himpeks_id>
+    <resimler><resim>https://raw.githubusercontent.com/hamitaksoy4427/hsa-xml/main/resim/HMPX_SC2EM_6201010_77.jpg</resim></resimler>
   </urun>
   <urun>
     <stok_kodu>HMPX-SC2EM-6201019/77</stok_kodu>
@@ -303233,6 +303298,7 @@
     <himpeks_stok>1</himpeks_stok>
     <birim>PCE</birim>
     <himpeks_id>643985</himpeks_id>
+    <resimler><resim>https://raw.githubusercontent.com/hamitaksoy4427/hsa-xml/main/resim/HMPX_SC2EM_6201019_77.jpg</resim></resimler>
   </urun>
   <urun>
     <stok_kodu>HMPX-SC2EM-6301010/77</stok_kodu>
@@ -303249,6 +303315,7 @@
     <himpeks_stok>3</himpeks_stok>
     <birim>PCE</birim>
     <himpeks_id>643986</himpeks_id>
+    <resimler><resim>https://raw.githubusercontent.com/hamitaksoy4427/hsa-xml/main/resim/HMPX_SC2EM_6301010_77.jpg</resim></resimler>
   </urun>
   <urun>
     <stok_kodu>HMPX-SC2EM-8400010/77</stok_kodu>
@@ -303265,6 +303332,7 @@
     <himpeks_stok>0</himpeks_stok>
     <birim>PCE</birim>
     <himpeks_id>643987</himpeks_id>
+    <resimler><resim>https://raw.githubusercontent.com/hamitaksoy4427/hsa-xml/main/resim/HMPX_SC2EM_8400010_77.jpg</resim></resimler>
   </urun>
   <urun>
     <stok_kodu>HMPX-SC2EM-8400211/77</stok_kodu>
@@ -303281,6 +303349,7 @@
     <himpeks_stok>1</himpeks_stok>
     <birim>PCE</birim>
     <himpeks_id>643988</himpeks_id>
+    <resimler><resim>https://raw.githubusercontent.com/hamitaksoy4427/hsa-xml/main/resim/HMPX_SC2EM_8400211_77.jpg</resim></resimler>
   </urun>
   <urun>
     <stok_kodu>HMPX-SC2EM-8402010/77</stok_kodu>
@@ -303297,6 +303366,7 @@
     <himpeks_stok>0</himpeks_stok>
     <birim>PCE</birim>
     <himpeks_id>643989</himpeks_id>
+    <resimler><resim>https://raw.githubusercontent.com/hamitaksoy4427/hsa-xml/main/resim/HMPX_SC2EM_8402010_77.jpg</resim></resimler>
   </urun>
   <urun>
     <stok_kodu>HMPX-SC2EM-8403010/77</stok_kodu>
@@ -303313,6 +303383,7 @@
     <himpeks_stok>2</himpeks_stok>
     <birim>PCE</birim>
     <himpeks_id>643990</himpeks_id>
+    <resimler><resim>https://raw.githubusercontent.com/hamitaksoy4427/hsa-xml/main/resim/HMPX_SC2EM_8403010_77.jpg</resim></resimler>
   </urun>
   <urun>
     <stok_kodu>HMPX-SC2EM-8403019/77</stok_kodu>
@@ -303329,6 +303400,7 @@
     <himpeks_stok>8</himpeks_stok>
     <birim>PCE</birim>
     <himpeks_id>643991</himpeks_id>
+    <resimler><resim>https://raw.githubusercontent.com/hamitaksoy4427/hsa-xml/main/resim/HMPX_SC2EM_8403019_77.jpg</resim></resimler>
   </urun>
   <urun>
     <stok_kodu>HMPX-509001132AADYJ</stok_kodu>
@@ -362769,6 +362841,7 @@
     <himpeks_stok>1</himpeks_stok>
     <birim>PCE</birim>
     <himpeks_id>1023553</himpeks_id>
+    <resimler><resim>https://raw.githubusercontent.com/hamitaksoy4427/hsa-xml/main/resim/HMP_80A853887A_C.jpg</resim></resimler>
   </urun>
   <urun>
     <stok_kodu>HMPX-HMP 80A853888A/C</stok_kodu>
@@ -362785,6 +362858,7 @@
     <himpeks_stok>1</himpeks_stok>
     <birim>PCE</birim>
     <himpeks_id>1023554</himpeks_id>
+    <resimler><resim>https://raw.githubusercontent.com/hamitaksoy4427/hsa-xml/main/resim/HMP_80A853888A_C.jpg</resim></resimler>
   </urun>
   <urun>
     <stok_kodu>HMPX-HMP 80A955101</stok_kodu>
@@ -371165,6 +371239,7 @@
     <himpeks_stok>2</himpeks_stok>
     <birim>PCE</birim>
     <himpeks_id>1024149</himpeks_id>
+    <resimler><resim>https://raw.githubusercontent.com/hamitaksoy4427/hsa-xml/main/resim/HMPX_EKEA_5401917_77.jpg</resim></resimler>
   </urun>
   <urun>
     <stok_kodu>HMPX-EKEA-5401918/77</stok_kodu>
@@ -371181,6 +371256,7 @@
     <himpeks_stok>2</himpeks_stok>
     <birim>PCE</birim>
     <himpeks_id>1024150</himpeks_id>
+    <resimler><resim>https://raw.githubusercontent.com/hamitaksoy4427/hsa-xml/main/resim/HMPX_EKEA_5401918_77.jpg</resim></resimler>
   </urun>
   <urun>
     <stok_kodu>HMPX-R2X6 17E715 BB</stok_kodu>
