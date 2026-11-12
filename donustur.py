@@ -95,6 +95,16 @@ for r in seen.values(): r['urun_adi'] = ad_duzelt(r['urun_adi'], meydan=False)
 # 11 Kas 2026: kalici (duzeltilmis) urun adlari
 from ad_kayit import kayitli_ad
 for r in seen.values(): r['urun_adi'] = kayitli_ad(r['stok_kodu'], r['urun_adi'])
+# 12 Kas 2026: v4 kopya urunler (SKU/1, /2 ...) - ananin fiyat/stok/teslim bilgisiyle ayni, ad farkli (kalici)
+_K = os.path.join(_D, 'himpeks_kopya_adlar.tsv')
+if os.path.exists(_K):
+    _ana = {r['stok_kodu']: r for r in seen.values()}
+    for _l in open(_K, encoding='utf-8'):
+        if _l.startswith('#'): continue
+        _p = _l.rstrip('\n').split('\t')
+        if len(_p) == 3 and _p[0] in _ana and _p[1] not in _ana:
+            _r = dict(_ana[_p[0]]); _r['stok_kodu'] = _p[1]; _r['urun_adi'] = kayitli_ad(_p[1], _p[2])
+            seen['K:' + _p[1]] = _r
 with open(out, 'w', encoding='utf-8') as fh:
     fh.write('<?xml version="1.0" encoding="UTF-8"?>\n<urunler>\n')
     for r in seen.values():
