@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urunler>
+  <urun>
+    <stok_kodu>HMPX-DAY-APV2214</stok_kodu>
+    <kaynak_kodu>DAY-APV2214</kaynak_kodu>
+    <urun_adi>Fiat Doblo V Kayış Gergi Rulmanı 2001 Sonrası</urun_adi>
+    <uretici_kodu>APV2214</uretici_kodu>
+    <tedarikci_marka>DAYCO</tedarikci_marka>
+    <satis_fiyati>1200</satis_fiyati>
+    <kdv>20</kdv>
+    <para_birimi>TL</para_birimi>
+    <stok>10</stok>
+    <tedarik_durumu>Tedarik ile getirtilir</tedarik_durumu>
+    <teslim_suresi>3-5 iş günü</teslim_suresi>
+    <himpeks_stok>0</himpeks_stok>
+    <birim>PCE</birim>
+    <himpeks_id>18365</himpeks_id>
+  </urun>
+  <urun>
+    <stok_kodu>HMPX-DAY-APV2214/1</stok_kodu>
+    <kaynak_kodu>DAY-APV2214</kaynak_kodu>
+    <urun_adi>Fiat Palio V Kayış Gergi Rulmanı</urun_adi>
+    <uretici_kodu>APV2214</uretici_kodu>
+    <tedarikci_marka>DAYCO</tedarikci_marka>
+    <satis_fiyati>1200</satis_fiyati>
+    <kdv>20</kdv>
+    <para_birimi>TL</para_birimi>
+    <stok>10</stok>
+    <tedarik_durumu>Tedarik ile getirtilir</tedarik_durumu>
+    <teslim_suresi>3-5 iş günü</teslim_suresi>
+    <himpeks_stok>0</himpeks_stok>
+    <birim>PCE</birim>
+    <himpeks_id>18365</himpeks_id>
+  </urun>
+  <urun>
+    <stok_kodu>HMPX-DAY-APV2214/2</stok_kodu>
+    <kaynak_kodu>DAY-APV2214</kaynak_kodu>
+    <urun_adi>Fiat Albea V Kayış Gergi Rulmanı</urun_adi>
+    <uretici_kodu>APV2214</uretici_kodu>
+    <tedarikci_marka>DAYCO</tedarikci_marka>
+    <satis_fiyati>1200</satis_fiyati>
+    <kdv>20</kdv>
+    <para_birimi>TL</para_birimi>
+    <stok>10</stok>
+    <tedarik_durumu>Tedarik ile getirtilir</tedarik_durumu>
+    <teslim_suresi>3-5 iş günü</teslim_suresi>
+    <himpeks_stok>0</himpeks_stok>
+    <birim>PCE</birim>
+    <himpeks_id>18365</himpeks_id>
+  </urun>
+  <urun>
+    <stok_kodu>HMPX-DAY-APV2214/3</stok_kodu>
+    <kaynak_kodu>DAY-APV2214</kaynak_kodu>
+    <urun_adi>Fiat Stilo V Kayış Gergi Rulmanı</urun_adi>
+    <uretici_kodu>APV2214</uretici_kodu>
+    <tedarikci_marka>DAYCO</tedarikci_marka>
+    <satis_fiyati>1200</satis_fiyati>
+    <kdv>20</kdv>
+    <para_birimi>TL</para_birimi>
+    <stok>10</stok>
+    <tedarik_durumu>Tedarik ile getirtilir</tedarik_durumu>
+    <teslim_suresi>3-5 iş günü</teslim_suresi>
+    <himpeks_stok>0</himpeks_stok>
+    <birim>PCE</birim>
+    <himpeks_id>18365</himpeks_id>
+  </urun>
+  <urun>
+    <stok_kodu>HMPX-DAY-APV2214/4</stok_kodu>
+    <kaynak_kodu>DAY-APV2214</kaynak_kodu>
+    <urun_adi>Fiat Bravo V Kayış Gergi Rulmanı 2001 Sonrası</urun_adi>
+    <uretici_kodu>APV2214</uretici_kodu>
+    <tedarikci_marka>DAYCO</tedarikci_marka>
+    <satis_fiyati>1200</satis_fiyati>
+    <kdv>20</kdv>
+    <para_birimi>TL</para_birimi>
+    <stok>10</stok>
+    <tedarik_durumu>Tedarik ile getirtilir</tedarik_durumu>
+    <teslim_suresi>3-5 iş günü</teslim_suresi>
+    <himpeks_stok>0</himpeks_stok>
+    <birim>PCE</birim>
+    <himpeks_id>18365</himpeks_id>
+  </urun>
+  <urun>
+    <stok_kodu>HMPX-DAY-APV2214/5</stok_kodu>
+    <kaynak_kodu>DAY-APV2214</kaynak_kodu>
+    <urun_adi>Fiat Tipo V Kayış Gergi Rulmanı</urun_adi>
+    <uretici_kodu>APV2214</uretici_kodu>
+    <tedarikci_marka>DAYCO</tedarikci_marka>
+    <satis_fiyati>1200</satis_fiyati>
+    <kdv>20</kdv>
+    <para_birimi>TL</para_birimi>
+    <stok>10</stok>
+    <tedarik_durumu>Tedarik ile getirtilir</tedarik_durumu>
+    <teslim_suresi>3-5 iş günü</teslim_suresi>
+    <himpeks_stok>0</himpeks_stok>
+    <birim>PCE</birim>
+    <himpeks_id>18365</himpeks_id>
+  </urun>
+</urunler>
