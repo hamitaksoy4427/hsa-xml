@@ -10753,7 +10753,7 @@
     <Price2>1333.3333</Price2>
     <CurrencyType>TRL</CurrencyType>
     <Tax>20</Tax>
-    <Stock>6</Stock>
+    <Stock>5</Stock>
     <Brand><![CDATA[ITAQI]]></Brand>
     <Image1><![CDATA[https://universaloto.com/foto/photos/img000465.jpg]]></Image1>
     <Image2><![CDATA[https://slide.universaloto.com/slides/6842e1dd31ce6.jpeg]]></Image2>
@@ -10779,7 +10779,7 @@
     <Price2>1333.3333</Price2>
     <CurrencyType>TRL</CurrencyType>
     <Tax>20</Tax>
-    <Stock>6</Stock>
+    <Stock>5</Stock>
     <Brand><![CDATA[ITAQI]]></Brand>
     <Image1><![CDATA[https://universaloto.com/foto/photos/img000465.jpg]]></Image1>
     <Image2><![CDATA[https://slide.universaloto.com/slides/6842e1dd31ce6.jpeg]]></Image2>
@@ -12547,7 +12547,7 @@
     <Price2>1083.3333</Price2>
     <CurrencyType>TRL</CurrencyType>
     <Tax>20</Tax>
-    <Stock>9</Stock>
+    <Stock>6</Stock>
     <Brand><![CDATA[ITAQI]]></Brand>
     <Image1><![CDATA[https://universaloto.com/foto/photos/img000536.jpg]]></Image1>
     <Image2><![CDATA[https://slide.universaloto.com/slides/68ac9d879b7b0.jpeg]]></Image2>
@@ -12573,7 +12573,7 @@
     <Price2>1083.3333</Price2>
     <CurrencyType>TRL</CurrencyType>
     <Tax>20</Tax>
-    <Stock>9</Stock>
+    <Stock>6</Stock>
     <Brand><![CDATA[ITAQI]]></Brand>
     <Image1><![CDATA[https://universaloto.com/foto/photos/img000536.jpg]]></Image1>
     <Image2><![CDATA[https://slide.universaloto.com/slides/68ac9d879b7b0.jpeg]]></Image2>
@@ -25339,7 +25339,7 @@
     <Price2>6666.6667</Price2>
     <CurrencyType>TRL</CurrencyType>
     <Tax>20</Tax>
-    <Stock>10</Stock>
+    <Stock>9</Stock>
     <Brand><![CDATA[ITAQI-T]]></Brand>
     <Image1><![CDATA[https://universaloto.com/foto/photos/img001251.jpg]]></Image1>
     <Image2><![CDATA[https://slide.universaloto.com/slides/IMG_9358.jpeg]]></Image2>
@@ -25963,7 +25963,7 @@
     <Price2>583.3333</Price2>
     <CurrencyType>TRL</CurrencyType>
     <Tax>20</Tax>
-    <Stock>2</Stock>
+    <Stock>10</Stock>
     <Brand><![CDATA[MATSUBA]]></Brand>
     <Image1><![CDATA[https://universaloto.com/foto/photos/img001277.jpg]]></Image1>
     <Image2><![CDATA[]]></Image2>
@@ -31865,7 +31865,7 @@
     <Price2>583.3333</Price2>
     <CurrencyType>TRL</CurrencyType>
     <Tax>20</Tax>
-    <Stock>0</Stock>
+    <Stock>10</Stock>
     <Brand><![CDATA[MATSUBA]]></Brand>
     <Image1><![CDATA[https://universaloto.com/foto/photos/img001460.jpg]]></Image1>
     <Image2><![CDATA[]]></Image2>
@@ -34569,7 +34569,7 @@
     <Price2>750.0000</Price2>
     <CurrencyType>TRL</CurrencyType>
     <Tax>20</Tax>
-    <Stock>0</Stock>
+    <Stock>10</Stock>
     <Brand><![CDATA[MATSUBA-T]]></Brand>
     <Image1><![CDATA[https://universaloto.com/foto/photos/img001614.jpg]]></Image1>
     <Image2><![CDATA[]]></Image2>
@@ -34595,7 +34595,7 @@
     <Price2>750.0000</Price2>
     <CurrencyType>TRL</CurrencyType>
     <Tax>20</Tax>
-    <Stock>0</Stock>
+    <Stock>10</Stock>
     <Brand><![CDATA[MATSUBA-T]]></Brand>
     <Image1><![CDATA[https://universaloto.com/foto/photos/img001615.jpg]]></Image1>
     <Image2><![CDATA[https://slide.universaloto.com/slides/689476f417595.jpeg]]></Image2>
@@ -34647,7 +34647,7 @@
     <Price2>3666.6667</Price2>
     <CurrencyType>TRL</CurrencyType>
     <Tax>20</Tax>
-    <Stock>0</Stock>
+    <Stock>10</Stock>
     <Brand><![CDATA[MATSUBA-T]]></Brand>
     <Image1><![CDATA[https://universaloto.com/foto/photos/img001618.jpg]]></Image1>
     <Image2><![CDATA[]]></Image2>
@@ -36753,7 +36753,7 @@
     <Price2>3833.3333</Price2>
     <CurrencyType>TRL</CurrencyType>
     <Tax>20</Tax>
-    <Stock>3</Stock>
+    <Stock>0</Stock>
     <Brand><![CDATA[MATSUBA-T]]></Brand>
     <Image1><![CDATA[https://universaloto.com/foto/photos/img001687.jpg]]></Image1>
     <Image2><![CDATA[https://slide.universaloto.com/slides/683d78c5a9571.jpeg]]></Image2>
@@ -36779,7 +36779,7 @@
     <Price2>3833.3333</Price2>
     <CurrencyType>TRL</CurrencyType>
     <Tax>20</Tax>
-    <Stock>4</Stock>
+    <Stock>1</Stock>
     <Brand><![CDATA[MATSUBA-T]]></Brand>
     <Image1><![CDATA[https://universaloto.com/foto/photos/img001688.jpg]]></Image1>
     <Image2><![CDATA[https://slide.universaloto.com/slides/683d7ad4b2d86.jpeg]]></Image2>
@@ -38703,7 +38703,7 @@
     <Price2>1166.6667</Price2>
     <CurrencyType>TRL</CurrencyType>
     <Tax>20</Tax>
-    <Stock>0</Stock>
+    <Stock>10</Stock>
     <Brand><![CDATA[MATSUBA-T]]></Brand>
     <Image1><![CDATA[https://universaloto.com/foto/photos/img001787.jpg]]></Image1>
     <Image2><![CDATA[]]></Image2>
@@ -38729,7 +38729,7 @@
     <Price2>1166.6667</Price2>
     <CurrencyType>TRL</CurrencyType>
     <Tax>20</Tax>
-    <Stock>0</Stock>
+    <Stock>10</Stock>
     <Brand><![CDATA[MATSUBA-T]]></Brand>
     <Image1><![CDATA[https://universaloto.com/foto/photos/img001788.jpg]]></Image1>
     <Image2><![CDATA[]]></Image2>
@@ -43253,7 +43253,7 @@
     <Price2>750.0000</Price2>
     <CurrencyType>TRL</CurrencyType>
     <Tax>20</Tax>
-    <Stock>0</Stock>
+    <Stock>1</Stock>
     <Brand><![CDATA[MATSUBA]]></Brand>
     <Image1><![CDATA[https://universaloto.com/foto/photos/img001938.jpg]]></Image1>
     <Image2><![CDATA[https://slide.universaloto.com/slides/68a2cd8d413b4.jpeg]]></Image2>
@@ -47309,7 +47309,7 @@
     <Price2>1333.3333</Price2>
     <CurrencyType>TRL</CurrencyType>
     <Tax>20</Tax>
-    <Stock>10</Stock>
+    <Stock>9</Stock>
     <Brand><![CDATA[ITAQI]]></Brand>
     <Image1><![CDATA[https://universaloto.com/foto/photos/img002150.jpg]]></Image1>
     <Image2><![CDATA[]]></Image2>
@@ -55239,7 +55239,7 @@
     <Price2>250.0000</Price2>
     <CurrencyType>TRL</CurrencyType>
     <Tax>20</Tax>
-    <Stock>5</Stock>
+    <Stock>2</Stock>
     <Brand><![CDATA[ITAQI]]></Brand>
     <Image1><![CDATA[https://universaloto.com/foto/photos/img002444.jpg]]></Image1>
     <Image2><![CDATA[https://slide.universaloto.com/slides/686e517cf027d.jpeg]]></Image2>
@@ -55265,7 +55265,7 @@
     <Price2>250.0000</Price2>
     <CurrencyType>TRL</CurrencyType>
     <Tax>20</Tax>
-    <Stock>5</Stock>
+    <Stock>2</Stock>
     <Brand><![CDATA[ITAQI]]></Brand>
     <Image1><![CDATA[https://universaloto.com/foto/photos/img002444.jpg]]></Image1>
     <Image2><![CDATA[https://slide.universaloto.com/slides/686e517cf027d.jpeg]]></Image2>
@@ -55291,7 +55291,7 @@
     <Price2>250.0000</Price2>
     <CurrencyType>TRL</CurrencyType>
     <Tax>20</Tax>
-    <Stock>5</Stock>
+    <Stock>2</Stock>
     <Brand><![CDATA[ITAQI]]></Brand>
     <Image1><![CDATA[https://universaloto.com/foto/photos/img002444.jpg]]></Image1>
     <Image2><![CDATA[https://slide.universaloto.com/slides/686e517cf027d.jpeg]]></Image2>
@@ -55317,7 +55317,7 @@
     <Price2>250.0000</Price2>
     <CurrencyType>TRL</CurrencyType>
     <Tax>20</Tax>
-    <Stock>5</Stock>
+    <Stock>2</Stock>
     <Brand><![CDATA[ITAQI]]></Brand>
     <Image1><![CDATA[https://universaloto.com/foto/photos/img002444.jpg]]></Image1>
     <Image2><![CDATA[https://slide.universaloto.com/slides/686e517cf027d.jpeg]]></Image2>
@@ -55889,7 +55889,7 @@
     <Price2>1500.0000</Price2>
     <CurrencyType>TRL</CurrencyType>
     <Tax>20</Tax>
-    <Stock>2</Stock>
+    <Stock>10</Stock>
     <Brand><![CDATA[MATSUBA-T]]></Brand>
     <Image1><![CDATA[https://universaloto.com/foto/photos/img002475.jpg]]></Image1>
     <Image2><![CDATA[https://slide.universaloto.com/slides/666c13361dba2.jpeg]]></Image2>
@@ -55915,7 +55915,7 @@
     <Price2>1500.0000</Price2>
     <CurrencyType>TRL</CurrencyType>
     <Tax>20</Tax>
-    <Stock>0</Stock>
+    <Stock>10</Stock>
     <Brand><![CDATA[MATSUBA-T]]></Brand>
     <Image1><![CDATA[https://universaloto.com/foto/photos/img002476.jpg]]></Image1>
     <Image2><![CDATA[https://slide.universaloto.com/slides/6863998140ca9.jpeg]]></Image2>
@@ -77807,7 +77807,7 @@
     <Price2>2000.0000</Price2>
     <CurrencyType>TRL</CurrencyType>
     <Tax>20</Tax>
-    <Stock>0</Stock>
+    <Stock>10</Stock>
     <Brand><![CDATA[MATSUBA-T]]></Brand>
     <Image1><![CDATA[https://universaloto.com/foto/photos/img003416.jpg]]></Image1>
     <Image2><![CDATA[]]></Image2>
@@ -77833,7 +77833,7 @@
     <Price2>1333.3333</Price2>
     <CurrencyType>TRL</CurrencyType>
     <Tax>20</Tax>
-    <Stock>0</Stock>
+    <Stock>10</Stock>
     <Brand><![CDATA[MATSUBA-T]]></Brand>
     <Image1><![CDATA[https://universaloto.com/foto/photos/img003417.jpg]]></Image1>
     <Image2><![CDATA[]]></Image2>
@@ -78171,7 +78171,7 @@
     <Price2>2000.0000</Price2>
     <CurrencyType>TRL</CurrencyType>
     <Tax>20</Tax>
-    <Stock>0</Stock>
+    <Stock>10</Stock>
     <Brand><![CDATA[MATSUBA-T]]></Brand>
     <Image1><![CDATA[https://universaloto.com/foto/photos/img003430.jpg]]></Image1>
     <Image2><![CDATA[]]></Image2>
@@ -78197,7 +78197,7 @@
     <Price2>1333.3333</Price2>
     <CurrencyType>TRL</CurrencyType>
     <Tax>20</Tax>
-    <Stock>0</Stock>
+    <Stock>10</Stock>
     <Brand><![CDATA[MATSUBA-T]]></Brand>
     <Image1><![CDATA[https://universaloto.com/foto/photos/img003431.jpg]]></Image1>
     <Image2><![CDATA[]]></Image2>
@@ -80745,7 +80745,7 @@
     <Price2>2000.0000</Price2>
     <CurrencyType>TRL</CurrencyType>
     <Tax>20</Tax>
-    <Stock>7</Stock>
+    <Stock>10</Stock>
     <Brand><![CDATA[MATSUBA]]></Brand>
     <Image1><![CDATA[https://universaloto.com/foto/photos/img003575.jpg]]></Image1>
     <Image2><![CDATA[https://slide.universaloto.com/slides/68ac40c267417.jpeg]]></Image2>
@@ -86309,7 +86309,7 @@
     <Price2>1916.6667</Price2>
     <CurrencyType>TRL</CurrencyType>
     <Tax>20</Tax>
-    <Stock>2</Stock>
+    <Stock>1</Stock>
     <Brand><![CDATA[MATSUBA]]></Brand>
     <Image1><![CDATA[https://universaloto.com/foto/photos/img003835.jpg]]></Image1>
     <Image2><![CDATA[]]></Image2>
@@ -89689,7 +89689,7 @@
     <Price2>1166.6667</Price2>
     <CurrencyType>TRL</CurrencyType>
     <Tax>20</Tax>
-    <Stock>0</Stock>
+    <Stock>10</Stock>
     <Brand><![CDATA[MATSUBA]]></Brand>
     <Image1><![CDATA[https://universaloto.com/foto/photos/img004044.jpg]]></Image1>
     <Image2><![CDATA[]]></Image2>
@@ -136593,7 +136593,7 @@
     <Price2>3333.3333</Price2>
     <CurrencyType>TRL</CurrencyType>
     <Tax>20</Tax>
-    <Stock>4</Stock>
+    <Stock>10</Stock>
     <Brand><![CDATA[MATSUBA]]></Brand>
     <Image1><![CDATA[https://universaloto.com/foto/photos/img006614.jpg]]></Image1>
     <Image2><![CDATA[]]></Image2>
@@ -158303,7 +158303,7 @@
     <Price2>416.6667</Price2>
     <CurrencyType>TRL</CurrencyType>
     <Tax>20</Tax>
-    <Stock>0</Stock>
+    <Stock>10</Stock>
     <Brand><![CDATA[MATSUBA]]></Brand>
     <Image1><![CDATA[https://universaloto.com/foto/photos/img008063.jpg]]></Image1>
     <Image2><![CDATA[https://slide.universaloto.com/slides/683ae5ed0d218.jpeg]]></Image2>
@@ -164465,7 +164465,7 @@
     <Price2>250.0000</Price2>
     <CurrencyType>TRL</CurrencyType>
     <Tax>20</Tax>
-    <Stock>0</Stock>
+    <Stock>10</Stock>
     <Brand><![CDATA[MATSUBA]]></Brand>
     <Image1><![CDATA[https://universaloto.com/foto/photos/img008463.jpg]]></Image1>
     <Image2><![CDATA[]]></Image2>
@@ -165193,7 +165193,7 @@
     <Price2>416.6667</Price2>
     <CurrencyType>TRL</CurrencyType>
     <Tax>20</Tax>
-    <Stock>0</Stock>
+    <Stock>10</Stock>
     <Brand><![CDATA[MATSUBA]]></Brand>
     <Image1><![CDATA[https://universaloto.com/foto/photos/img008503.jpg]]></Image1>
     <Image2><![CDATA[]]></Image2>
@@ -165245,7 +165245,7 @@
     <Price2>416.6667</Price2>
     <CurrencyType>TRL</CurrencyType>
     <Tax>20</Tax>
-    <Stock>0</Stock>
+    <Stock>10</Stock>
     <Brand><![CDATA[MATSUBA]]></Brand>
     <Image1><![CDATA[https://universaloto.com/foto/photos/img008505.jpg]]></Image1>
     <Image2><![CDATA[]]></Image2>
@@ -183601,7 +183601,7 @@
     <Price2>1333.3333</Price2>
     <CurrencyType>TRL</CurrencyType>
     <Tax>20</Tax>
-    <Stock>2</Stock>
+    <Stock>1</Stock>
     <Brand><![CDATA[MATSUBA]]></Brand>
     <Image1><![CDATA[https://universaloto.com/foto/photos/img009621.jpg]]></Image1>
     <Image2><![CDATA[]]></Image2>
@@ -185187,7 +185187,7 @@
     <Price2>416.6667</Price2>
     <CurrencyType>TRL</CurrencyType>
     <Tax>20</Tax>
-    <Stock>1</Stock>
+    <Stock>0</Stock>
     <Brand><![CDATA[MATSUBA]]></Brand>
     <Image1><![CDATA[https://universaloto.com/foto/photos/img009686.jpg]]></Image1>
     <Image2><![CDATA[]]></Image2>
@@ -188229,7 +188229,7 @@
     <Price2>4750.0000</Price2>
     <CurrencyType>TRL</CurrencyType>
     <Tax>20</Tax>
-    <Stock>0</Stock>
+    <Stock>10</Stock>
     <Brand><![CDATA[MATSUBA-T]]></Brand>
     <Image1><![CDATA[https://universaloto.com/foto/photos/img009863.jpg]]></Image1>
     <Image2><![CDATA[https://slide.universaloto.com/slides/68a82c22e86bc.jpeg]]></Image2>
@@ -189893,7 +189893,7 @@
     <Price2>916.6667</Price2>
     <CurrencyType>TRL</CurrencyType>
     <Tax>20</Tax>
-    <Stock>4</Stock>
+    <Stock>3</Stock>
     <Brand><![CDATA[MATSUBA]]></Brand>
     <Image1><![CDATA[https://universaloto.com/foto/photos/img009979.jpg]]></Image1>
     <Image2><![CDATA[]]></Image2>
@@ -193377,7 +193377,7 @@
     <Price2>2916.6667</Price2>
     <CurrencyType>TRL</CurrencyType>
     <Tax>20</Tax>
-    <Stock>0</Stock>
+    <Stock>10</Stock>
     <Brand><![CDATA[MATSUBA-T]]></Brand>
     <Image1><![CDATA[https://universaloto.com/foto/photos/img010209.jpg]]></Image1>
     <Image2><![CDATA[https://slide.universaloto.com/slides/6862771034553.jpeg]]></Image2>
@@ -193923,7 +193923,7 @@
     <Price2>2916.6667</Price2>
     <CurrencyType>TRL</CurrencyType>
     <Tax>20</Tax>
-    <Stock>0</Stock>
+    <Stock>10</Stock>
     <Brand><![CDATA[MATSUBA-T]]></Brand>
     <Image1><![CDATA[https://universaloto.com/foto/photos/img010237.jpg]]></Image1>
     <Image2><![CDATA[https://slide.universaloto.com/slides/686275ce96d99.jpeg]]></Image2>
@@ -196783,7 +196783,7 @@
     <Price2>2000.0000</Price2>
     <CurrencyType>TRL</CurrencyType>
     <Tax>20</Tax>
-    <Stock>0</Stock>
+    <Stock>10</Stock>
     <Brand><![CDATA[MATSUBA-T]]></Brand>
     <Image1><![CDATA[https://universaloto.com/foto/photos/img010421.jpg]]></Image1>
     <Image2><![CDATA[]]></Image2>
@@ -197017,7 +197017,7 @@
     <Price2>1583.3333</Price2>
     <CurrencyType>TRL</CurrencyType>
     <Tax>20</Tax>
-    <Stock>0</Stock>
+    <Stock>10</Stock>
     <Brand><![CDATA[MATSUBA-T]]></Brand>
     <Image1><![CDATA[https://universaloto.com/foto/photos/img010431.jpg]]></Image1>
     <Image2><![CDATA[https://slide.universaloto.com/slides/IMG_3897.jpeg]]></Image2>
@@ -197147,7 +197147,7 @@
     <Price2>2000.0000</Price2>
     <CurrencyType>TRL</CurrencyType>
     <Tax>20</Tax>
-    <Stock>0</Stock>
+    <Stock>10</Stock>
     <Brand><![CDATA[MATSUBA-T]]></Brand>
     <Image1><![CDATA[https://universaloto.com/foto/photos/img010439.jpg]]></Image1>
     <Image2><![CDATA[]]></Image2>
@@ -211863,7 +211863,7 @@
     <Price2>250.0000</Price2>
     <CurrencyType>TRL</CurrencyType>
     <Tax>20</Tax>
-    <Stock>9</Stock>
+    <Stock>10</Stock>
     <Brand><![CDATA[ITAQI]]></Brand>
     <Image1><![CDATA[https://universaloto.com/foto/photos/img011145.jpg]]></Image1>
     <Image2><![CDATA[https://slide.universaloto.com/slides/684041f5b4c01.jpeg]]></Image2>
@@ -215685,7 +215685,7 @@
     <Price2>1083.3333</Price2>
     <CurrencyType>TRL</CurrencyType>
     <Tax>20</Tax>
-    <Stock>0</Stock>
+    <Stock>10</Stock>
     <Brand><![CDATA[MATSUBA]]></Brand>
     <Image1><![CDATA[https://universaloto.com/foto/photos/img011315.jpg]]></Image1>
     <Image2><![CDATA[https://slide.universaloto.com/slides/683eb589ab9ac.jpeg]]></Image2>
@@ -217167,7 +217167,7 @@
     <Price2>1416.6667</Price2>
     <CurrencyType>TRL</CurrencyType>
     <Tax>20</Tax>
-    <Stock>0</Stock>
+    <Stock>10</Stock>
     <Brand><![CDATA[MATSUBA]]></Brand>
     <Image1><![CDATA[https://universaloto.com/foto/photos/img011405.jpg]]></Image1>
     <Image2><![CDATA[]]></Image2>
@@ -219351,7 +219351,7 @@
     <Price2>666.6667</Price2>
     <CurrencyType>TRL</CurrencyType>
     <Tax>20</Tax>
-    <Stock>0</Stock>
+    <Stock>10</Stock>
     <Brand><![CDATA[MATSUBA]]></Brand>
     <Image1><![CDATA[https://universaloto.com/foto/photos/img011531.jpg]]></Image1>
     <Image2><![CDATA[]]></Image2>
@@ -233729,7 +233729,7 @@
     <Price2>6666.6667</Price2>
     <CurrencyType>TRL</CurrencyType>
     <Tax>20</Tax>
-    <Stock>0</Stock>
+    <Stock>10</Stock>
     <Brand><![CDATA[MATSUBA-T]]></Brand>
     <Image1><![CDATA[https://universaloto.com/foto/photos/img012219.jpg]]></Image1>
     <Image2><![CDATA[https://slide.universaloto.com/slides/68599eeb460e6.jpeg]]></Image2>
@@ -234353,7 +234353,7 @@
     <Price2>6666.6667</Price2>
     <CurrencyType>TRL</CurrencyType>
     <Tax>20</Tax>
-    <Stock>0</Stock>
+    <Stock>10</Stock>
     <Brand><![CDATA[MATSUBA-T]]></Brand>
     <Image1><![CDATA[https://universaloto.com/foto/photos/img012246.jpg]]></Image1>
     <Image2><![CDATA[https://slide.universaloto.com/slides/685943e2aa102.jpeg]]></Image2>
@@ -235939,7 +235939,7 @@
     <Price2>833.3333</Price2>
     <CurrencyType>TRL</CurrencyType>
     <Tax>20</Tax>
-    <Stock>0</Stock>
+    <Stock>10</Stock>
     <Brand><![CDATA[MATSUBA-T]]></Brand>
     <Image1><![CDATA[https://universaloto.com/foto/photos/img012298.jpg]]></Image1>
     <Image2><![CDATA[https://slide.universaloto.com/slides/68590cbdaf518.jpeg]]></Image2>
@@ -236407,7 +236407,7 @@
     <Price2>916.6667</Price2>
     <CurrencyType>TRL</CurrencyType>
     <Tax>20</Tax>
-    <Stock>1</Stock>
+    <Stock>10</Stock>
     <Brand><![CDATA[MATSUBA-T]]></Brand>
     <Image1><![CDATA[https://universaloto.com/foto/photos/img012317.jpg]]></Image1>
     <Image2><![CDATA[https://slide.universaloto.com/slides/68592f0a6bb61.jpeg]]></Image2>
@@ -236459,7 +236459,7 @@
     <Price2>916.6667</Price2>
     <CurrencyType>TRL</CurrencyType>
     <Tax>20</Tax>
-    <Stock>4</Stock>
+    <Stock>10</Stock>
     <Brand><![CDATA[MATSUBA-T]]></Brand>
     <Image1><![CDATA[https://universaloto.com/foto/photos/img012319.jpg]]></Image1>
     <Image2><![CDATA[https://slide.universaloto.com/slides/68598d68e3e5d.jpeg]]></Image2>
@@ -236589,7 +236589,7 @@
     <Price2>3666.6667</Price2>
     <CurrencyType>TRL</CurrencyType>
     <Tax>20</Tax>
-    <Stock>0</Stock>
+    <Stock>9</Stock>
     <Brand><![CDATA[MATSUBA-T]]></Brand>
     <Image1><![CDATA[https://universaloto.com/foto/photos/img012324.jpg]]></Image1>
     <Image2><![CDATA[https://slide.universaloto.com/slides/689da52a4af81.jpeg]]></Image2>
@@ -236719,7 +236719,7 @@
     <Price2>1750.0000</Price2>
     <CurrencyType>TRL</CurrencyType>
     <Tax>20</Tax>
-    <Stock>0</Stock>
+    <Stock>10</Stock>
     <Brand><![CDATA[MATSUBA-T]]></Brand>
     <Image1><![CDATA[https://universaloto.com/foto/photos/img012329.jpg]]></Image1>
     <Image2><![CDATA[https://slide.universaloto.com/slides/IMG_4021.jpeg]]></Image2>
@@ -236771,7 +236771,7 @@
     <Price2>833.3333</Price2>
     <CurrencyType>TRL</CurrencyType>
     <Tax>20</Tax>
-    <Stock>0</Stock>
+    <Stock>10</Stock>
     <Brand><![CDATA[MATSUBA-T]]></Brand>
     <Image1><![CDATA[https://universaloto.com/foto/photos/img012332.jpg]]></Image1>
     <Image2><![CDATA[https://slide.universaloto.com/slides/68590baddd798.jpeg]]></Image2>
@@ -237447,7 +237447,7 @@
     <Price2>20750.0000</Price2>
     <CurrencyType>TRL</CurrencyType>
     <Tax>20</Tax>
-    <Stock>7</Stock>
+    <Stock>5</Stock>
     <Brand><![CDATA[MATSUBA]]></Brand>
     <Image1><![CDATA[https://universaloto.com/foto/photos/img012360.jpg]]></Image1>
     <Image2><![CDATA[https://slide.universaloto.com/slides/66912b388604d.jpeg]]></Image2>
@@ -250109,7 +250109,7 @@
     <Price2>1583.3333</Price2>
     <CurrencyType>TRL</CurrencyType>
     <Tax>20</Tax>
-    <Stock>0</Stock>
+    <Stock>10</Stock>
     <Brand><![CDATA[MATSUBA-T]]></Brand>
     <Image1><![CDATA[https://universaloto.com/foto/photos/img012824.jpg]]></Image1>
     <Image2><![CDATA[https://slide.universaloto.com/slides/689ef5d87e925.jpeg]]></Image2>
@@ -250135,7 +250135,7 @@
     <Price2>1583.3333</Price2>
     <CurrencyType>TRL</CurrencyType>
     <Tax>20</Tax>
-    <Stock>3</Stock>
+    <Stock>10</Stock>
     <Brand><![CDATA[MATSUBA-T]]></Brand>
     <Image1><![CDATA[https://universaloto.com/foto/photos/img012825.jpg]]></Image1>
     <Image2><![CDATA[https://slide.universaloto.com/slides/689edeae0373d.jpeg]]></Image2>
@@ -264175,7 +264175,7 @@
     <Price2>166.6667</Price2>
     <CurrencyType>TRL</CurrencyType>
     <Tax>20</Tax>
-    <Stock>10</Stock>
+    <Stock>7</Stock>
     <Brand><![CDATA[ITAQI]]></Brand>
     <Image1><![CDATA[https://universaloto.com/foto/photos/img013597.jpg]]></Image1>
     <Image2><![CDATA[]]></Image2>
@@ -264227,7 +264227,7 @@
     <Price2>8416.6667</Price2>
     <CurrencyType>TRL</CurrencyType>
     <Tax>20</Tax>
-    <Stock>5</Stock>
+    <Stock>4</Stock>
     <Brand><![CDATA[ITAQI-T]]></Brand>
     <Image1><![CDATA[https://universaloto.com/foto/photos/img013599.jpg]]></Image1>
     <Image2><![CDATA[https://slide.universaloto.com/slides/IMG_9443.jpeg]]></Image2>
@@ -264253,7 +264253,7 @@
     <Price2>8416.6667</Price2>
     <CurrencyType>TRL</CurrencyType>
     <Tax>20</Tax>
-    <Stock>5</Stock>
+    <Stock>4</Stock>
     <Brand><![CDATA[ITAQI-T]]></Brand>
     <Image1><![CDATA[https://universaloto.com/foto/photos/img013599.jpg]]></Image1>
     <Image2><![CDATA[https://slide.universaloto.com/slides/IMG_9443.jpeg]]></Image2>
@@ -274575,7 +274575,7 @@
     <Price2>1500.0000</Price2>
     <CurrencyType>TRL</CurrencyType>
     <Tax>20</Tax>
-    <Stock>0</Stock>
+    <Stock>10</Stock>
     <Brand><![CDATA[MATSUBA-T]]></Brand>
     <Image1><![CDATA[https://universaloto.com/foto/photos/img014088.jpg]]></Image1>
     <Image2><![CDATA[]]></Image2>
@@ -274601,7 +274601,7 @@
     <Price2>1750.0000</Price2>
     <CurrencyType>TRL</CurrencyType>
     <Tax>20</Tax>
-    <Stock>0</Stock>
+    <Stock>10</Stock>
     <Brand><![CDATA[MATSUBA-T]]></Brand>
     <Image1><![CDATA[https://universaloto.com/foto/photos/img014089.jpg]]></Image1>
     <Image2><![CDATA[https://slide.universaloto.com/slides/Photoroom_20240426_150215.jpeg]]></Image2>
@@ -274653,7 +274653,7 @@
     <Price2>1500.0000</Price2>
     <CurrencyType>TRL</CurrencyType>
     <Tax>20</Tax>
-    <Stock>0</Stock>
+    <Stock>10</Stock>
     <Brand><![CDATA[MATSUBA-T]]></Brand>
     <Image1><![CDATA[https://universaloto.com/foto/photos/img014091.jpg]]></Image1>
     <Image2><![CDATA[]]></Image2>
@@ -274705,7 +274705,7 @@
     <Price2>3666.6667</Price2>
     <CurrencyType>TRL</CurrencyType>
     <Tax>20</Tax>
-    <Stock>0</Stock>
+    <Stock>10</Stock>
     <Brand><![CDATA[MATSUBA-T]]></Brand>
     <Image1><![CDATA[https://universaloto.com/foto/photos/img014093.jpg]]></Image1>
     <Image2><![CDATA[]]></Image2>
@@ -274783,7 +274783,7 @@
     <Price2>1666.6667</Price2>
     <CurrencyType>TRL</CurrencyType>
     <Tax>20</Tax>
-    <Stock>0</Stock>
+    <Stock>10</Stock>
     <Brand><![CDATA[MATSUBA-T]]></Brand>
     <Image1><![CDATA[https://universaloto.com/foto/photos/img014095.jpg]]></Image1>
     <Image2><![CDATA[]]></Image2>
@@ -274809,7 +274809,7 @@
     <Price2>1666.6667</Price2>
     <CurrencyType>TRL</CurrencyType>
     <Tax>20</Tax>
-    <Stock>0</Stock>
+    <Stock>10</Stock>
     <Brand><![CDATA[MATSUBA-T]]></Brand>
     <Image1><![CDATA[https://universaloto.com/foto/photos/img014096.jpg]]></Image1>
     <Image2><![CDATA[]]></Image2>
@@ -274861,7 +274861,7 @@
     <Price2>1166.6667</Price2>
     <CurrencyType>TRL</CurrencyType>
     <Tax>20</Tax>
-    <Stock>0</Stock>
+    <Stock>10</Stock>
     <Brand><![CDATA[MATSUBA-T]]></Brand>
     <Image1><![CDATA[https://universaloto.com/foto/photos/img014098.jpg]]></Image1>
     <Image2><![CDATA[]]></Image2>
@@ -276395,7 +276395,7 @@
     <Price2>1333.3333</Price2>
     <CurrencyType>TRL</CurrencyType>
     <Tax>20</Tax>
-    <Stock>7</Stock>
+    <Stock>6</Stock>
     <Brand><![CDATA[ITAQI]]></Brand>
     <Image1><![CDATA[https://universaloto.com/foto/photos/img014198.jpg]]></Image1>
     <Image2><![CDATA[]]></Image2>
@@ -276421,7 +276421,7 @@
     <Price2>1333.3333</Price2>
     <CurrencyType>TRL</CurrencyType>
     <Tax>20</Tax>
-    <Stock>7</Stock>
+    <Stock>6</Stock>
     <Brand><![CDATA[ITAQI]]></Brand>
     <Image1><![CDATA[https://universaloto.com/foto/photos/img014198.jpg]]></Image1>
     <Image2><![CDATA[]]></Image2>
@@ -287523,7 +287523,7 @@
     <Price2>1333.3333</Price2>
     <CurrencyType>TRL</CurrencyType>
     <Tax>20</Tax>
-    <Stock>4</Stock>
+    <Stock>10</Stock>
     <Brand><![CDATA[MATSUBA-T]]></Brand>
     <Image1><![CDATA[https://universaloto.com/foto/photos/img015075.jpg]]></Image1>
     <Image2><![CDATA[]]></Image2>
@@ -287549,7 +287549,7 @@
     <Price2>1333.3333</Price2>
     <CurrencyType>TRL</CurrencyType>
     <Tax>20</Tax>
-    <Stock>0</Stock>
+    <Stock>10</Stock>
     <Brand><![CDATA[MATSUBA-T]]></Brand>
     <Image1><![CDATA[https://universaloto.com/foto/photos/img015076.jpg]]></Image1>
     <Image2><![CDATA[]]></Image2>
@@ -289057,7 +289057,7 @@
     <Price2>1166.6667</Price2>
     <CurrencyType>TRL</CurrencyType>
     <Tax>20</Tax>
-    <Stock>0</Stock>
+    <Stock>10</Stock>
     <Brand><![CDATA[MATSUBA-T]]></Brand>
     <Image1><![CDATA[https://universaloto.com/foto/photos/img015167.jpg]]></Image1>
     <Image2><![CDATA[https://slide.universaloto.com/slides/68598f3470602.jpeg]]></Image2>
@@ -292593,7 +292593,7 @@
     <Price2>2583.3333</Price2>
     <CurrencyType>TRL</CurrencyType>
     <Tax>20</Tax>
-    <Stock>0</Stock>
+    <Stock>10</Stock>
     <Brand><![CDATA[MATSUBA-T]]></Brand>
     <Image1><![CDATA[https://universaloto.com/foto/photos/img015361.jpg]]></Image1>
     <Image2><![CDATA[]]></Image2>
@@ -293347,7 +293347,7 @@
     <Price2>1750.0000</Price2>
     <CurrencyType>TRL</CurrencyType>
     <Tax>20</Tax>
-    <Stock>0</Stock>
+    <Stock>10</Stock>
     <Brand><![CDATA[MATSUBA-T]]></Brand>
     <Image1><![CDATA[https://universaloto.com/foto/photos/img015413.jpg]]></Image1>
     <Image2><![CDATA[]]></Image2>
@@ -293399,7 +293399,7 @@
     <Price2>1750.0000</Price2>
     <CurrencyType>TRL</CurrencyType>
     <Tax>20</Tax>
-    <Stock>0</Stock>
+    <Stock>10</Stock>
     <Brand><![CDATA[MATSUBA-T]]></Brand>
     <Image1><![CDATA[https://universaloto.com/foto/photos/img015418.jpg]]></Image1>
     <Image2><![CDATA[]]></Image2>
@@ -293685,7 +293685,7 @@
     <Price2>6916.6667</Price2>
     <CurrencyType>TRL</CurrencyType>
     <Tax>20</Tax>
-    <Stock>0</Stock>
+    <Stock>4</Stock>
     <Brand><![CDATA[MATSUBA-T]]></Brand>
     <Image1><![CDATA[https://universaloto.com/foto/photos/img015430.jpg]]></Image1>
     <Image2><![CDATA[]]></Image2>
@@ -294023,7 +294023,7 @@
     <Price2>1333.3333</Price2>
     <CurrencyType>TRL</CurrencyType>
     <Tax>20</Tax>
-    <Stock>0</Stock>
+    <Stock>10</Stock>
     <Brand><![CDATA[MATSUBA-T]]></Brand>
     <Image1><![CDATA[https://universaloto.com/foto/photos/img015452.jpg]]></Image1>
     <Image2><![CDATA[]]></Image2>
@@ -294049,7 +294049,7 @@
     <Price2>1333.3333</Price2>
     <CurrencyType>TRL</CurrencyType>
     <Tax>20</Tax>
-    <Stock>0</Stock>
+    <Stock>10</Stock>
     <Brand><![CDATA[MATSUBA-T]]></Brand>
     <Image1><![CDATA[https://universaloto.com/foto/photos/img015453.jpg]]></Image1>
     <Image2><![CDATA[]]></Image2>
@@ -294127,7 +294127,7 @@
     <Price2>1416.6667</Price2>
     <CurrencyType>TRL</CurrencyType>
     <Tax>20</Tax>
-    <Stock>0</Stock>
+    <Stock>10</Stock>
     <Brand><![CDATA[MATSUBA]]></Brand>
     <Image1><![CDATA[https://universaloto.com/foto/photos/img015463.jpg]]></Image1>
     <Image2><![CDATA[https://slide.universaloto.com/slides/683ece9778150.jpeg]]></Image2>
@@ -295687,7 +295687,7 @@
     <Price2>166.6667</Price2>
     <CurrencyType>TRL</CurrencyType>
     <Tax>20</Tax>
-    <Stock>10</Stock>
+    <Stock>6</Stock>
     <Brand><![CDATA[ITAQI]]></Brand>
     <Image1><![CDATA[https://universaloto.com/foto/photos/img015554.jpg]]></Image1>
     <Image2><![CDATA[]]></Image2>
@@ -295713,7 +295713,7 @@
     <Price2>166.6667</Price2>
     <CurrencyType>TRL</CurrencyType>
     <Tax>20</Tax>
-    <Stock>10</Stock>
+    <Stock>6</Stock>
     <Brand><![CDATA[ITAQI]]></Brand>
     <Image1><![CDATA[https://universaloto.com/foto/photos/img015554.jpg]]></Image1>
     <Image2><![CDATA[]]></Image2>
@@ -295739,7 +295739,7 @@
     <Price2>166.6667</Price2>
     <CurrencyType>TRL</CurrencyType>
     <Tax>20</Tax>
-    <Stock>10</Stock>
+    <Stock>6</Stock>
     <Brand><![CDATA[ITAQI]]></Brand>
     <Image1><![CDATA[https://universaloto.com/foto/photos/img015554.jpg]]></Image1>
     <Image2><![CDATA[]]></Image2>
@@ -298495,7 +298495,7 @@
     <Price2>166.6667</Price2>
     <CurrencyType>TRL</CurrencyType>
     <Tax>20</Tax>
-    <Stock>3</Stock>
+    <Stock>0</Stock>
     <Brand><![CDATA[ITAQI]]></Brand>
     <Image1><![CDATA[https://universaloto.com/foto/photos/img015705.jpg]]></Image1>
     <Image2><![CDATA[https://slide.universaloto.com/slides/68723afdbb6ba.jpeg]]></Image2>
@@ -298521,7 +298521,7 @@
     <Price2>166.6667</Price2>
     <CurrencyType>TRL</CurrencyType>
     <Tax>20</Tax>
-    <Stock>3</Stock>
+    <Stock>0</Stock>
     <Brand><![CDATA[ITAQI]]></Brand>
     <Image1><![CDATA[https://universaloto.com/foto/photos/img015705.jpg]]></Image1>
     <Image2><![CDATA[https://slide.universaloto.com/slides/68723afdbb6ba.jpeg]]></Image2>
@@ -298547,7 +298547,7 @@
     <Price2>166.6667</Price2>
     <CurrencyType>TRL</CurrencyType>
     <Tax>20</Tax>
-    <Stock>3</Stock>
+    <Stock>0</Stock>
     <Brand><![CDATA[ITAQI]]></Brand>
     <Image1><![CDATA[https://universaloto.com/foto/photos/img015705.jpg]]></Image1>
     <Image2><![CDATA[https://slide.universaloto.com/slides/68723afdbb6ba.jpeg]]></Image2>
@@ -307777,7 +307777,7 @@
     <Price2>500.0000</Price2>
     <CurrencyType>TRL</CurrencyType>
     <Tax>20</Tax>
-    <Stock>0</Stock>
+    <Stock>10</Stock>
     <Brand><![CDATA[MATSUBA]]></Brand>
     <Image1><![CDATA[https://universaloto.com/foto/photos/img016153.jpg]]></Image1>
     <Image2><![CDATA[]]></Image2>
@@ -307803,7 +307803,7 @@
     <Price2>500.0000</Price2>
     <CurrencyType>TRL</CurrencyType>
     <Tax>20</Tax>
-    <Stock>0</Stock>
+    <Stock>10</Stock>
     <Brand><![CDATA[MATSUBA]]></Brand>
     <Image1><![CDATA[https://universaloto.com/foto/photos/img016154.jpg]]></Image1>
     <Image2><![CDATA[]]></Image2>
@@ -314407,7 +314407,7 @@
     <Price2>666.6667</Price2>
     <CurrencyType>TRL</CurrencyType>
     <Tax>20</Tax>
-    <Stock>0</Stock>
+    <Stock>10</Stock>
     <Brand><![CDATA[MATSUBA]]></Brand>
     <Image1><![CDATA[https://universaloto.com/foto/photos/img016534.jpg]]></Image1>
     <Image2><![CDATA[]]></Image2>
@@ -314433,7 +314433,7 @@
     <Price2>666.6667</Price2>
     <CurrencyType>TRL</CurrencyType>
     <Tax>20</Tax>
-    <Stock>0</Stock>
+    <Stock>10</Stock>
     <Brand><![CDATA[MATSUBA]]></Brand>
     <Image1><![CDATA[https://universaloto.com/foto/photos/img016535.jpg]]></Image1>
     <Image2><![CDATA[]]></Image2>
@@ -314927,7 +314927,7 @@
     <Price2>6916.6667</Price2>
     <CurrencyType>TRL</CurrencyType>
     <Tax>20</Tax>
-    <Stock>0</Stock>
+    <Stock>4</Stock>
     <Brand><![CDATA[MATSUBA-T]]></Brand>
     <Image1><![CDATA[https://universaloto.com/foto/photos/img016592.jpg]]></Image1>
     <Image2><![CDATA[]]></Image2>
@@ -326185,7 +326185,7 @@
     <Price2>250.0000</Price2>
     <CurrencyType>TRL</CurrencyType>
     <Tax>20</Tax>
-    <Stock>0</Stock>
+    <Stock>10</Stock>
     <Brand><![CDATA[MATSUBA]]></Brand>
     <Image1><![CDATA[https://universaloto.com/foto/photos/img017330.jpg]]></Image1>
     <Image2><![CDATA[]]></Image2>
@@ -326471,7 +326471,7 @@
     <Price2>500.0000</Price2>
     <CurrencyType>TRL</CurrencyType>
     <Tax>20</Tax>
-    <Stock>1</Stock>
+    <Stock>2</Stock>
     <Brand><![CDATA[MATSUBA]]></Brand>
     <Image1><![CDATA[https://universaloto.com/foto/photos/img017355.jpg]]></Image1>
     <Image2><![CDATA[]]></Image2>
@@ -329513,7 +329513,7 @@
     <Price2>1750.0000</Price2>
     <CurrencyType>TRL</CurrencyType>
     <Tax>20</Tax>
-    <Stock>0</Stock>
+    <Stock>10</Stock>
     <Brand><![CDATA[MATSUBA-T]]></Brand>
     <Image1><![CDATA[https://universaloto.com/foto/photos/img017539.jpg]]></Image1>
     <Image2><![CDATA[]]></Image2>
@@ -333595,7 +333595,7 @@
     <Price2>3083.3333</Price2>
     <CurrencyType>TRL</CurrencyType>
     <Tax>20</Tax>
-    <Stock>4</Stock>
+    <Stock>0</Stock>
     <Brand><![CDATA[ITAQI]]></Brand>
     <Image1><![CDATA[https://universaloto.com/foto/photos/img017833.jpg]]></Image1>
     <Image2><![CDATA[https://slide.universaloto.com/slides/688b6a8a4d5ad.jpeg]]></Image2>
@@ -335285,7 +335285,7 @@
     <Price2>583.3333</Price2>
     <CurrencyType>TRL</CurrencyType>
     <Tax>20</Tax>
-    <Stock>0</Stock>
+    <Stock>10</Stock>
     <Brand><![CDATA[MATSUBA]]></Brand>
     <Image1><![CDATA[https://universaloto.com/foto/photos/img017891.jpg]]></Image1>
     <Image2><![CDATA[]]></Image2>
@@ -335883,7 +335883,7 @@
     <Price2>3750.0000</Price2>
     <CurrencyType>TRL</CurrencyType>
     <Tax>20</Tax>
-    <Stock>5</Stock>
+    <Stock>10</Stock>
     <Brand><![CDATA[MATSUBA-T]]></Brand>
     <Image1><![CDATA[https://universaloto.com/foto/photos/img017926.jpg]]></Image1>
     <Image2><![CDATA[https://slide.universaloto.com/slides/685ae294e85ec.jpeg]]></Image2>
@@ -336091,7 +336091,7 @@
     <Price2>833.3333</Price2>
     <CurrencyType>TRL</CurrencyType>
     <Tax>20</Tax>
-    <Stock>9</Stock>
+    <Stock>8</Stock>
     <Brand><![CDATA[ITAQI]]></Brand>
     <Image1><![CDATA[https://universaloto.com/foto/photos/img017947.jpg]]></Image1>
     <Image2><![CDATA[https://slide.universaloto.com/slides/17f08ecf-8422-4f9d-9f43-f9db55aa9656.jpg]]></Image2>
@@ -343943,7 +343943,7 @@
     <Price2>1583.3333</Price2>
     <CurrencyType>TRL</CurrencyType>
     <Tax>20</Tax>
-    <Stock>0</Stock>
+    <Stock>10</Stock>
     <Brand><![CDATA[MATSUBA-T]]></Brand>
     <Image1><![CDATA[https://universaloto.com/foto/photos/img018431.jpg]]></Image1>
     <Image2><![CDATA[]]></Image2>
@@ -346569,7 +346569,7 @@
     <Price2>1583.3333</Price2>
     <CurrencyType>TRL</CurrencyType>
     <Tax>20</Tax>
-    <Stock>2</Stock>
+    <Stock>10</Stock>
     <Brand><![CDATA[MATSUBA-T]]></Brand>
     <Image1><![CDATA[https://universaloto.com/foto/photos/img018550.jpg]]></Image1>
     <Image2><![CDATA[]]></Image2>
@@ -350651,7 +350651,7 @@
     <Price2>3416.6667</Price2>
     <CurrencyType>TRL</CurrencyType>
     <Tax>20</Tax>
-    <Stock>0</Stock>
+    <Stock>10</Stock>
     <Brand><![CDATA[MATSUBA-T]]></Brand>
     <Image1><![CDATA[https://universaloto.com/foto/photos/img018851.jpg]]></Image1>
     <Image2><![CDATA[]]></Image2>
@@ -350677,7 +350677,7 @@
     <Price2>3416.6667</Price2>
     <CurrencyType>TRL</CurrencyType>
     <Tax>20</Tax>
-    <Stock>0</Stock>
+    <Stock>10</Stock>
     <Brand><![CDATA[MATSUBA-T]]></Brand>
     <Image1><![CDATA[https://universaloto.com/foto/photos/img018852.jpg]]></Image1>
     <Image2><![CDATA[]]></Image2>
@@ -353459,7 +353459,7 @@
     <Price2>1166.6667</Price2>
     <CurrencyType>TRL</CurrencyType>
     <Tax>20</Tax>
-    <Stock>0</Stock>
+    <Stock>10</Stock>
     <Brand><![CDATA[MATSUBA-T]]></Brand>
     <Image1><![CDATA[https://universaloto.com/foto/photos/img019042.jpg]]></Image1>
     <Image2><![CDATA[]]></Image2>
@@ -365263,7 +365263,7 @@
     <Price2>1666.6667</Price2>
     <CurrencyType>TRL</CurrencyType>
     <Tax>20</Tax>
-    <Stock>0</Stock>
+    <Stock>10</Stock>
     <Brand><![CDATA[MATSUBA]]></Brand>
     <Image1><![CDATA[https://universaloto.com/foto/photos/img019783.jpg]]></Image1>
     <Image2><![CDATA[]]></Image2>
@@ -368981,7 +368981,7 @@
     <Price2>1666.6667</Price2>
     <CurrencyType>TRL</CurrencyType>
     <Tax>20</Tax>
-    <Stock>9</Stock>
+    <Stock>7</Stock>
     <Brand><![CDATA[MATSUBA]]></Brand>
     <Image1><![CDATA[https://universaloto.com/foto/photos/img019938.jpg]]></Image1>
     <Image2><![CDATA[]]></Image2>
@@ -373375,7 +373375,7 @@
     <Price2>1833.3333</Price2>
     <CurrencyType>TRL</CurrencyType>
     <Tax>20</Tax>
-    <Stock>0</Stock>
+    <Stock>10</Stock>
     <Brand><![CDATA[MATSUBA-T]]></Brand>
     <Image1><![CDATA[https://universaloto.com/foto/photos/img020220.jpg]]></Image1>
     <Image2><![CDATA[]]></Image2>
@@ -373401,7 +373401,7 @@
     <Price2>1833.3333</Price2>
     <CurrencyType>TRL</CurrencyType>
     <Tax>20</Tax>
-    <Stock>0</Stock>
+    <Stock>10</Stock>
     <Brand><![CDATA[MATSUBA-T]]></Brand>
     <Image1><![CDATA[https://universaloto.com/foto/photos/img020220.jpg]]></Image1>
     <Image2><![CDATA[]]></Image2>
@@ -373427,7 +373427,7 @@
     <Price2>1833.3333</Price2>
     <CurrencyType>TRL</CurrencyType>
     <Tax>20</Tax>
-    <Stock>0</Stock>
+    <Stock>10</Stock>
     <Brand><![CDATA[MATSUBA-T]]></Brand>
     <Image1><![CDATA[https://universaloto.com/foto/photos/img020221.jpg]]></Image1>
     <Image2><![CDATA[]]></Image2>
@@ -373453,7 +373453,7 @@
     <Price2>1833.3333</Price2>
     <CurrencyType>TRL</CurrencyType>
     <Tax>20</Tax>
-    <Stock>0</Stock>
+    <Stock>10</Stock>
     <Brand><![CDATA[MATSUBA-T]]></Brand>
     <Image1><![CDATA[https://universaloto.com/foto/photos/img020221.jpg]]></Image1>
     <Image2><![CDATA[]]></Image2>
@@ -374363,7 +374363,7 @@
     <Price2>416.6667</Price2>
     <CurrencyType>TRL</CurrencyType>
     <Tax>20</Tax>
-    <Stock>0</Stock>
+    <Stock>10</Stock>
     <Brand><![CDATA[MATSUBA]]></Brand>
     <Image1><![CDATA[https://universaloto.com/foto/photos/img020267.jpg]]></Image1>
     <Image2><![CDATA[https://slide.universaloto.com/slides/6858fd58b8971.jpeg]]></Image2>
@@ -374389,7 +374389,7 @@
     <Price2>416.6667</Price2>
     <CurrencyType>TRL</CurrencyType>
     <Tax>20</Tax>
-    <Stock>0</Stock>
+    <Stock>10</Stock>
     <Brand><![CDATA[MATSUBA]]></Brand>
     <Image1><![CDATA[https://universaloto.com/foto/photos/img020268.jpg]]></Image1>
     <Image2><![CDATA[https://slide.universaloto.com/slides/6858fdf7ec1a8.jpeg]]></Image2>
@@ -375273,7 +375273,7 @@
     <Price2>583.3333</Price2>
     <CurrencyType>TRL</CurrencyType>
     <Tax>20</Tax>
-    <Stock>0</Stock>
+    <Stock>10</Stock>
     <Brand><![CDATA[MATSUBA-T]]></Brand>
     <Image1><![CDATA[https://universaloto.com/foto/photos/img020304.jpg]]></Image1>
     <Image2><![CDATA[https://slide.universaloto.com/slides/665da46349266.jpeg]]></Image2>
@@ -375299,7 +375299,7 @@
     <Price2>583.3333</Price2>
     <CurrencyType>TRL</CurrencyType>
     <Tax>20</Tax>
-    <Stock>0</Stock>
+    <Stock>10</Stock>
     <Brand><![CDATA[MATSUBA-T]]></Brand>
     <Image1><![CDATA[https://universaloto.com/foto/photos/img020305.jpg]]></Image1>
     <Image2><![CDATA[https://slide.universaloto.com/slides/665da364a1d52.jpeg]]></Image2>
@@ -376287,7 +376287,7 @@
     <Price2>8500.0000</Price2>
     <CurrencyType>TRL</CurrencyType>
     <Tax>20</Tax>
-    <Stock>1</Stock>
+    <Stock>10</Stock>
     <Brand><![CDATA[MATSUBA]]></Brand>
     <Image1><![CDATA[https://universaloto.com/foto/photos/img020375.jpg]]></Image1>
     <Image2><![CDATA[https://slide.universaloto.com/slides/6899a9cfe8e77.jpeg]]></Image2>
@@ -387753,7 +387753,7 @@
     <Price2>416.6667</Price2>
     <CurrencyType>TRL</CurrencyType>
     <Tax>20</Tax>
-    <Stock>9</Stock>
+    <Stock>8</Stock>
     <Brand><![CDATA[ITAQI]]></Brand>
     <Image1><![CDATA[https://universaloto.com/foto/photos/img021119.jpg]]></Image1>
     <Image2><![CDATA[]]></Image2>
@@ -395345,7 +395345,7 @@
     <Price2>1333.3333</Price2>
     <CurrencyType>TRL</CurrencyType>
     <Tax>20</Tax>
-    <Stock>0</Stock>
+    <Stock>10</Stock>
     <Brand><![CDATA[MATSUBA-T]]></Brand>
     <Image1><![CDATA[https://universaloto.com/foto/photos/img021472.jpg]]></Image1>
     <Image2><![CDATA[]]></Image2>
@@ -395371,7 +395371,7 @@
     <Price2>1333.3333</Price2>
     <CurrencyType>TRL</CurrencyType>
     <Tax>20</Tax>
-    <Stock>0</Stock>
+    <Stock>10</Stock>
     <Brand><![CDATA[MATSUBA-T]]></Brand>
     <Image1><![CDATA[https://universaloto.com/foto/photos/img021473.jpg]]></Image1>
     <Image2><![CDATA[]]></Image2>
@@ -398023,7 +398023,7 @@
     <Price2>1000.0000</Price2>
     <CurrencyType>TRL</CurrencyType>
     <Tax>20</Tax>
-    <Stock>3</Stock>
+    <Stock>2</Stock>
     <Brand><![CDATA[ITAQI]]></Brand>
     <Image1><![CDATA[https://universaloto.com/foto/photos/img021624.jpg]]></Image1>
     <Image2><![CDATA[https://slide.universaloto.com/slides/6874e72face9a.jpeg]]></Image2>
@@ -403795,7 +403795,7 @@
     <Price2>333.3333</Price2>
     <CurrencyType>TRL</CurrencyType>
     <Tax>20</Tax>
-    <Stock>0</Stock>
+    <Stock>10</Stock>
     <Brand><![CDATA[MATSUBA]]></Brand>
     <Image1><![CDATA[https://universaloto.com/foto/photos/img021902.jpg]]></Image1>
     <Image2><![CDATA[]]></Image2>
@@ -403821,7 +403821,7 @@
     <Price2>333.3333</Price2>
     <CurrencyType>TRL</CurrencyType>
     <Tax>20</Tax>
-    <Stock>0</Stock>
+    <Stock>10</Stock>
     <Brand><![CDATA[MATSUBA]]></Brand>
     <Image1><![CDATA[https://universaloto.com/foto/photos/img021903.jpg]]></Image1>
     <Image2><![CDATA[]]></Image2>
@@ -406681,7 +406681,7 @@
     <Price2>1000.0000</Price2>
     <CurrencyType>TRL</CurrencyType>
     <Tax>20</Tax>
-    <Stock>0</Stock>
+    <Stock>10</Stock>
     <Brand><![CDATA[MATSUBA-T]]></Brand>
     <Image1><![CDATA[https://universaloto.com/foto/photos/img022029.jpg]]></Image1>
     <Image2><![CDATA[https://slide.universaloto.com/slides/689dbaa53acce.jpeg]]></Image2>
@@ -406707,7 +406707,7 @@
     <Price2>1000.0000</Price2>
     <CurrencyType>TRL</CurrencyType>
     <Tax>20</Tax>
-    <Stock>0</Stock>
+    <Stock>10</Stock>
     <Brand><![CDATA[MATSUBA-T]]></Brand>
     <Image1><![CDATA[https://universaloto.com/foto/photos/img022029.jpg]]></Image1>
     <Image2><![CDATA[https://slide.universaloto.com/slides/689dbaa53acce.jpeg]]></Image2>
@@ -406733,7 +406733,7 @@
     <Price2>1000.0000</Price2>
     <CurrencyType>TRL</CurrencyType>
     <Tax>20</Tax>
-    <Stock>0</Stock>
+    <Stock>10</Stock>
     <Brand><![CDATA[MATSUBA-T]]></Brand>
     <Image1><![CDATA[https://universaloto.com/foto/photos/img022029.jpg]]></Image1>
     <Image2><![CDATA[https://slide.universaloto.com/slides/689dbaa53acce.jpeg]]></Image2>
@@ -406759,7 +406759,7 @@
     <Price2>1000.0000</Price2>
     <CurrencyType>TRL</CurrencyType>
     <Tax>20</Tax>
-    <Stock>0</Stock>
+    <Stock>10</Stock>
     <Brand><![CDATA[MATSUBA-T]]></Brand>
     <Image1><![CDATA[https://universaloto.com/foto/photos/img022029.jpg]]></Image1>
     <Image2><![CDATA[https://slide.universaloto.com/slides/689dbaa53acce.jpeg]]></Image2>
@@ -406785,7 +406785,7 @@
     <Price2>1000.0000</Price2>
     <CurrencyType>TRL</CurrencyType>
     <Tax>20</Tax>
-    <Stock>0</Stock>
+    <Stock>10</Stock>
     <Brand><![CDATA[MATSUBA-T]]></Brand>
     <Image1><![CDATA[https://universaloto.com/foto/photos/img022030.jpg]]></Image1>
     <Image2><![CDATA[https://slide.universaloto.com/slides/689d9f5285968.jpeg]]></Image2>
@@ -406811,7 +406811,7 @@
     <Price2>1000.0000</Price2>
     <CurrencyType>TRL</CurrencyType>
     <Tax>20</Tax>
-    <Stock>0</Stock>
+    <Stock>10</Stock>
     <Brand><![CDATA[MATSUBA-T]]></Brand>
     <Image1><![CDATA[https://universaloto.com/foto/photos/img022030.jpg]]></Image1>
     <Image2><![CDATA[https://slide.universaloto.com/slides/689d9f5285968.jpeg]]></Image2>
@@ -406837,7 +406837,7 @@
     <Price2>1000.0000</Price2>
     <CurrencyType>TRL</CurrencyType>
     <Tax>20</Tax>
-    <Stock>0</Stock>
+    <Stock>10</Stock>
     <Brand><![CDATA[MATSUBA-T]]></Brand>
     <Image1><![CDATA[https://universaloto.com/foto/photos/img022030.jpg]]></Image1>
     <Image2><![CDATA[https://slide.universaloto.com/slides/689d9f5285968.jpeg]]></Image2>
@@ -406863,7 +406863,7 @@
     <Price2>1000.0000</Price2>
     <CurrencyType>TRL</CurrencyType>
     <Tax>20</Tax>
-    <Stock>0</Stock>
+    <Stock>10</Stock>
     <Brand><![CDATA[MATSUBA-T]]></Brand>
     <Image1><![CDATA[https://universaloto.com/foto/photos/img022030.jpg]]></Image1>
     <Image2><![CDATA[https://slide.universaloto.com/slides/689d9f5285968.jpeg]]></Image2>
@@ -409645,7 +409645,7 @@
     <Price2>1583.3333</Price2>
     <CurrencyType>TRL</CurrencyType>
     <Tax>20</Tax>
-    <Stock>0</Stock>
+    <Stock>10</Stock>
     <Brand><![CDATA[MATSUBA-T]]></Brand>
     <Image1><![CDATA[https://universaloto.com/foto/photos/img022167.jpg]]></Image1>
     <Image2><![CDATA[]]></Image2>
@@ -409671,7 +409671,7 @@
     <Price2>1583.3333</Price2>
     <CurrencyType>TRL</CurrencyType>
     <Tax>20</Tax>
-    <Stock>0</Stock>
+    <Stock>10</Stock>
     <Brand><![CDATA[MATSUBA-T]]></Brand>
     <Image1><![CDATA[https://universaloto.com/foto/photos/img022168.jpg]]></Image1>
     <Image2><![CDATA[]]></Image2>
@@ -428885,7 +428885,7 @@
     <Price2>1416.6667</Price2>
     <CurrencyType>TRL</CurrencyType>
     <Tax>20</Tax>
-    <Stock>0</Stock>
+    <Stock>10</Stock>
     <Brand><![CDATA[MATSUBA-T]]></Brand>
     <Image1><![CDATA[https://universaloto.com/foto/photos/img023234.jpg]]></Image1>
     <Image2><![CDATA[]]></Image2>
@@ -428911,7 +428911,7 @@
     <Price2>1416.6667</Price2>
     <CurrencyType>TRL</CurrencyType>
     <Tax>20</Tax>
-    <Stock>0</Stock>
+    <Stock>10</Stock>
     <Brand><![CDATA[MATSUBA-T]]></Brand>
     <Image1><![CDATA[https://universaloto.com/foto/photos/img023235.jpg]]></Image1>
     <Image2><![CDATA[]]></Image2>
@@ -430237,7 +430237,7 @@
     <Price2>750.0000</Price2>
     <CurrencyType>TRL</CurrencyType>
     <Tax>20</Tax>
-    <Stock>2</Stock>
+    <Stock>10</Stock>
     <Brand><![CDATA[MATSUBA]]></Brand>
     <Image1><![CDATA[https://universaloto.com/foto/photos/img023336.jpg]]></Image1>
     <Image2><![CDATA[]]></Image2>
@@ -432291,7 +432291,7 @@
     <Price2>1500.0000</Price2>
     <CurrencyType>TRL</CurrencyType>
     <Tax>20</Tax>
-    <Stock>0</Stock>
+    <Stock>10</Stock>
     <Brand><![CDATA[MATSUBA]]></Brand>
     <Image1><![CDATA[https://universaloto.com/foto/photos/img023461.jpg]]></Image1>
     <Image2><![CDATA[https://slide.universaloto.com/slides/IMG_8460.jpeg]]></Image2>
@@ -432317,7 +432317,7 @@
     <Price2>1500.0000</Price2>
     <CurrencyType>TRL</CurrencyType>
     <Tax>20</Tax>
-    <Stock>0</Stock>
+    <Stock>10</Stock>
     <Brand><![CDATA[MATSUBA]]></Brand>
     <Image1><![CDATA[https://universaloto.com/foto/photos/img023461.jpg]]></Image1>
     <Image2><![CDATA[https://slide.universaloto.com/slides/IMG_8460.jpeg]]></Image2>
@@ -444667,7 +444667,7 @@
     <Price2>833.3333</Price2>
     <CurrencyType>TRL</CurrencyType>
     <Tax>20</Tax>
-    <Stock>2</Stock>
+    <Stock>10</Stock>
     <Brand><![CDATA[MATSUBA]]></Brand>
     <Image1><![CDATA[https://universaloto.com/foto/photos/img024233.jpg]]></Image1>
     <Image2><![CDATA[https://slide.universaloto.com/slides/IMG_8444.jpeg]]></Image2>
@@ -444693,7 +444693,7 @@
     <Price2>833.3333</Price2>
     <CurrencyType>TRL</CurrencyType>
     <Tax>20</Tax>
-    <Stock>2</Stock>
+    <Stock>10</Stock>
     <Brand><![CDATA[MATSUBA]]></Brand>
     <Image1><![CDATA[https://universaloto.com/foto/photos/img024233.jpg]]></Image1>
     <Image2><![CDATA[https://slide.universaloto.com/slides/IMG_8444.jpeg]]></Image2>
@@ -444719,7 +444719,7 @@
     <Price2>1000.0000</Price2>
     <CurrencyType>TRL</CurrencyType>
     <Tax>20</Tax>
-    <Stock>0</Stock>
+    <Stock>10</Stock>
     <Brand><![CDATA[MATSUBA]]></Brand>
     <Image1><![CDATA[https://universaloto.com/foto/photos/img024234.jpg]]></Image1>
     <Image2><![CDATA[]]></Image2>
@@ -448983,7 +448983,7 @@
     <Price2>6750.0000</Price2>
     <CurrencyType>TRL</CurrencyType>
     <Tax>20</Tax>
-    <Stock>2</Stock>
+    <Stock>10</Stock>
     <Brand><![CDATA[MATSUBA-T]]></Brand>
     <Image1><![CDATA[https://universaloto.com/foto/photos/img024560.jpg]]></Image1>
     <Image2><![CDATA[https://slide.universaloto.com/slides/685938eeb65a7.jpeg]]></Image2>
@@ -449009,7 +449009,7 @@
     <Price2>6750.0000</Price2>
     <CurrencyType>TRL</CurrencyType>
     <Tax>20</Tax>
-    <Stock>8</Stock>
+    <Stock>10</Stock>
     <Brand><![CDATA[MATSUBA-T]]></Brand>
     <Image1><![CDATA[https://universaloto.com/foto/photos/img024561.jpg]]></Image1>
     <Image2><![CDATA[https://slide.universaloto.com/slides/68593a90b6d25.jpeg]]></Image2>
@@ -449035,7 +449035,7 @@
     <Price2>6916.6667</Price2>
     <CurrencyType>TRL</CurrencyType>
     <Tax>20</Tax>
-    <Stock>8</Stock>
+    <Stock>10</Stock>
     <Brand><![CDATA[MATSUBA-T]]></Brand>
     <Image1><![CDATA[https://universaloto.com/foto/photos/img024562.jpg]]></Image1>
     <Image2><![CDATA[https://slide.universaloto.com/slides/68593026cbcfb.jpeg]]></Image2>
@@ -449087,7 +449087,7 @@
     <Price2>6666.6667</Price2>
     <CurrencyType>TRL</CurrencyType>
     <Tax>20</Tax>
-    <Stock>0</Stock>
+    <Stock>10</Stock>
     <Brand><![CDATA[MATSUBA-T]]></Brand>
     <Image1><![CDATA[https://universaloto.com/foto/photos/img024564.jpg]]></Image1>
     <Image2><![CDATA[https://slide.universaloto.com/slides/68599ffa4ecfa.jpeg]]></Image2>
@@ -449113,7 +449113,7 @@
     <Price2>6666.6667</Price2>
     <CurrencyType>TRL</CurrencyType>
     <Tax>20</Tax>
-    <Stock>0</Stock>
+    <Stock>10</Stock>
     <Brand><![CDATA[MATSUBA-T]]></Brand>
     <Image1><![CDATA[https://universaloto.com/foto/photos/img024565.jpg]]></Image1>
     <Image2><![CDATA[https://slide.universaloto.com/slides/685944bf3f6ae.jpeg]]></Image2>
@@ -449243,7 +449243,7 @@
     <Price2>11583.3333</Price2>
     <CurrencyType>TRL</CurrencyType>
     <Tax>20</Tax>
-    <Stock>4</Stock>
+    <Stock>9</Stock>
     <Brand><![CDATA[MATSUBA-T]]></Brand>
     <Image1><![CDATA[https://universaloto.com/foto/photos/img024571.jpg]]></Image1>
     <Image2><![CDATA[]]></Image2>
@@ -449269,7 +449269,7 @@
     <Price2>11583.3333</Price2>
     <CurrencyType>TRL</CurrencyType>
     <Tax>20</Tax>
-    <Stock>4</Stock>
+    <Stock>9</Stock>
     <Brand><![CDATA[MATSUBA-T]]></Brand>
     <Image1><![CDATA[https://universaloto.com/foto/photos/img024572.jpg]]></Image1>
     <Image2><![CDATA[]]></Image2>
@@ -451999,7 +451999,7 @@
     <Price2>250.0000</Price2>
     <CurrencyType>TRL</CurrencyType>
     <Tax>20</Tax>
-    <Stock>6</Stock>
+    <Stock>4</Stock>
     <Brand><![CDATA[ITAQI]]></Brand>
     <Image1><![CDATA[https://universaloto.com/foto/photos/img024703.jpg]]></Image1>
     <Image2><![CDATA[]]></Image2>
@@ -454235,7 +454235,7 @@
     <Price2>833.3333</Price2>
     <CurrencyType>TRL</CurrencyType>
     <Tax>20</Tax>
-    <Stock>6</Stock>
+    <Stock>4</Stock>
     <Brand><![CDATA[ITAQI]]></Brand>
     <Image1><![CDATA[https://universaloto.com/foto/photos/img024835.jpg]]></Image1>
     <Image2><![CDATA[https://slide.universaloto.com/slides/IMG_8819.jpeg]]></Image2>
@@ -456757,7 +456757,7 @@
     <Price2>3166.6667</Price2>
     <CurrencyType>TRL</CurrencyType>
     <Tax>20</Tax>
-    <Stock>0</Stock>
+    <Stock>10</Stock>
     <Brand><![CDATA[MATSUBA-T]]></Brand>
     <Image1><![CDATA[https://universaloto.com/foto/photos/img026943.jpg]]></Image1>
     <Image2><![CDATA[]]></Image2>
@@ -456783,7 +456783,7 @@
     <Price2>3166.6667</Price2>
     <CurrencyType>TRL</CurrencyType>
     <Tax>20</Tax>
-    <Stock>0</Stock>
+    <Stock>10</Stock>
     <Brand><![CDATA[MATSUBA-T]]></Brand>
     <Image1><![CDATA[https://universaloto.com/foto/photos/img026945.jpg]]></Image1>
     <Image2><![CDATA[]]></Image2>
@@ -457511,7 +457511,7 @@
     <Price2>2000.0000</Price2>
     <CurrencyType>TRL</CurrencyType>
     <Tax>20</Tax>
-    <Stock>0</Stock>
+    <Stock>5</Stock>
     <Brand><![CDATA[MATSUBA-T]]></Brand>
     <Image1><![CDATA[https://universaloto.com/foto/photos/img026984.jpg]]></Image1>
     <Image2><![CDATA[https://slide.universaloto.com/slides/668fe010078a6.jpeg]]></Image2>
@@ -457537,7 +457537,7 @@
     <Price2>2000.0000</Price2>
     <CurrencyType>TRL</CurrencyType>
     <Tax>20</Tax>
-    <Stock>0</Stock>
+    <Stock>10</Stock>
     <Brand><![CDATA[MATSUBA-T]]></Brand>
     <Image1><![CDATA[https://universaloto.com/foto/photos/img026985.jpg]]></Image1>
     <Image2><![CDATA[https://slide.universaloto.com/slides/668fe0811236b.jpeg]]></Image2>
@@ -457953,7 +457953,7 @@
     <Price2>12166.6667</Price2>
     <CurrencyType>TRL</CurrencyType>
     <Tax>20</Tax>
-    <Stock>0</Stock>
+    <Stock>1</Stock>
     <Brand><![CDATA[MATSUBA-T]]></Brand>
     <Image1><![CDATA[https://universaloto.com/foto/photos/img026995.jpg]]></Image1>
     <Image2><![CDATA[https://slide.universaloto.com/slides/6691091b24517.jpeg]]></Image2>
@@ -457979,7 +457979,7 @@
     <Price2>9916.6667</Price2>
     <CurrencyType>TRL</CurrencyType>
     <Tax>20</Tax>
-    <Stock>0</Stock>
+    <Stock>10</Stock>
     <Brand><![CDATA[MATSUBA-T]]></Brand>
     <Image1><![CDATA[https://universaloto.com/foto/photos/img026996.jpg]]></Image1>
     <Image2><![CDATA[https://slide.universaloto.com/slides/66910580c99cb.jpeg]]></Image2>
@@ -458005,7 +458005,7 @@
     <Price2>9916.6667</Price2>
     <CurrencyType>TRL</CurrencyType>
     <Tax>20</Tax>
-    <Stock>0</Stock>
+    <Stock>10</Stock>
     <Brand><![CDATA[MATSUBA-T]]></Brand>
     <Image1><![CDATA[https://universaloto.com/foto/photos/img026997.jpg]]></Image1>
     <Image2><![CDATA[https://slide.universaloto.com/slides/6691046f5de09.jpeg]]></Image2>
@@ -462347,7 +462347,7 @@
     <Price2>1583.3333</Price2>
     <CurrencyType>TRL</CurrencyType>
     <Tax>20</Tax>
-    <Stock>7</Stock>
+    <Stock>6</Stock>
     <Brand><![CDATA[MATSUBA]]></Brand>
     <Image1><![CDATA[https://universaloto.com/foto/photos/img027136.jpg]]></Image1>
     <Image2><![CDATA[]]></Image2>
@@ -466195,7 +466195,7 @@
     <Price2>583.3333</Price2>
     <CurrencyType>TRL</CurrencyType>
     <Tax>20</Tax>
-    <Stock>9</Stock>
+    <Stock>7</Stock>
     <Brand><![CDATA[MATSUBA]]></Brand>
     <Image1><![CDATA[https://universaloto.com/foto/photos/img027292.jpg]]></Image1>
     <Image2><![CDATA[]]></Image2>
@@ -466247,7 +466247,7 @@
     <Price2>583.3333</Price2>
     <CurrencyType>TRL</CurrencyType>
     <Tax>20</Tax>
-    <Stock>10</Stock>
+    <Stock>9</Stock>
     <Brand><![CDATA[MATSUBA]]></Brand>
     <Image1><![CDATA[https://universaloto.com/foto/photos/img027294.jpg]]></Image1>
     <Image2><![CDATA[]]></Image2>
@@ -466793,7 +466793,7 @@
     <Price2>24333.3333</Price2>
     <CurrencyType>TRL</CurrencyType>
     <Tax>20</Tax>
-    <Stock>1</Stock>
+    <Stock>0</Stock>
     <Brand><![CDATA[MATSUBA-T]]></Brand>
     <Image1><![CDATA[https://universaloto.com/foto/photos/img027315.jpg]]></Image1>
     <Image2><![CDATA[https://slide.universaloto.com/slides/66900ee18bf8c.jpeg]]></Image2>
@@ -467105,7 +467105,7 @@
     <Price2>250.0000</Price2>
     <CurrencyType>TRL</CurrencyType>
     <Tax>20</Tax>
-    <Stock>10</Stock>
+    <Stock>0</Stock>
     <Brand><![CDATA[MATSUBA]]></Brand>
     <Image1><![CDATA[https://universaloto.com/foto/photos/img027329.jpg]]></Image1>
     <Image2><![CDATA[https://slide.universaloto.com/slides/6841870c364dd.jpeg]]></Image2>
@@ -510369,7 +510369,7 @@
     <Price2>9250.0000</Price2>
     <CurrencyType>TRL</CurrencyType>
     <Tax>20</Tax>
-    <Stock>6</Stock>
+    <Stock>10</Stock>
     <Brand><![CDATA[MATSUBA-T]]></Brand>
     <Image1><![CDATA[https://universaloto.com/foto/photos/img029136.jpg]]></Image1>
     <Image2><![CDATA[]]></Image2>
@@ -510395,7 +510395,7 @@
     <Price2>3916.6667</Price2>
     <CurrencyType>TRL</CurrencyType>
     <Tax>20</Tax>
-    <Stock>0</Stock>
+    <Stock>10</Stock>
     <Brand><![CDATA[MATSUBA-T]]></Brand>
     <Image1><![CDATA[https://universaloto.com/foto/photos/img029137.jpg]]></Image1>
     <Image2><![CDATA[]]></Image2>
@@ -510421,7 +510421,7 @@
     <Price2>3916.6667</Price2>
     <CurrencyType>TRL</CurrencyType>
     <Tax>20</Tax>
-    <Stock>0</Stock>
+    <Stock>10</Stock>
     <Brand><![CDATA[MATSUBA-T]]></Brand>
     <Image1><![CDATA[https://universaloto.com/foto/photos/img029138.jpg]]></Image1>
     <Image2><![CDATA[]]></Image2>
@@ -510447,7 +510447,7 @@
     <Price2>3916.6667</Price2>
     <CurrencyType>TRL</CurrencyType>
     <Tax>20</Tax>
-    <Stock>2</Stock>
+    <Stock>6</Stock>
     <Brand><![CDATA[MATSUBA-T]]></Brand>
     <Image1><![CDATA[https://universaloto.com/foto/photos/img029139.jpg]]></Image1>
     <Image2><![CDATA[]]></Image2>
@@ -510473,7 +510473,7 @@
     <Price2>3916.6667</Price2>
     <CurrencyType>TRL</CurrencyType>
     <Tax>20</Tax>
-    <Stock>2</Stock>
+    <Stock>6</Stock>
     <Brand><![CDATA[MATSUBA-T]]></Brand>
     <Image1><![CDATA[https://universaloto.com/foto/photos/img029140.jpg]]></Image1>
     <Image2><![CDATA[]]></Image2>
@@ -516219,7 +516219,7 @@
     <Price2>1166.6667</Price2>
     <CurrencyType>TRL</CurrencyType>
     <Tax>20</Tax>
-    <Stock>2</Stock>
+    <Stock>1</Stock>
     <Brand><![CDATA[MATSUBA]]></Brand>
     <Image1><![CDATA[https://universaloto.com/foto/photos/img029330.jpg]]></Image1>
     <Image2><![CDATA[https://slide.universaloto.com/slides/685914f5c980a.jpeg]]></Image2>
@@ -516401,7 +516401,7 @@
     <Price2>12000.0000</Price2>
     <CurrencyType>TRL</CurrencyType>
     <Tax>20</Tax>
-    <Stock>4</Stock>
+    <Stock>3</Stock>
     <Brand><![CDATA[MATSUBA]]></Brand>
     <Image1><![CDATA[https://universaloto.com/foto/photos/img029338.jpg]]></Image1>
     <Image2><![CDATA[]]></Image2>
@@ -516973,7 +516973,7 @@
     <Price2>1416.6667</Price2>
     <CurrencyType>TRL</CurrencyType>
     <Tax>20</Tax>
-    <Stock>3</Stock>
+    <Stock>0</Stock>
     <Brand><![CDATA[MATSUBA]]></Brand>
     <Image1><![CDATA[https://universaloto.com/foto/photos/img029362.jpg]]></Image1>
     <Image2><![CDATA[]]></Image2>
@@ -522719,7 +522719,7 @@
     <Price2>1583.3333</Price2>
     <CurrencyType>TRL</CurrencyType>
     <Tax>20</Tax>
-    <Stock>9</Stock>
+    <Stock>6</Stock>
     <Brand><![CDATA[MATSUBA]]></Brand>
     <Image1><![CDATA[https://universaloto.com/foto/photos/img029543.jpg]]></Image1>
     <Image2><![CDATA[]]></Image2>
@@ -528231,7 +528231,7 @@
     <Price2>13000.0000</Price2>
     <CurrencyType>TRL</CurrencyType>
     <Tax>20</Tax>
-    <Stock>1</Stock>
+    <Stock>0</Stock>
     <Brand><![CDATA[MATSUBA-T]]></Brand>
     <Image1><![CDATA[https://universaloto.com/foto/photos/img029741.jpg]]></Image1>
     <Image2><![CDATA[]]></Image2>
@@ -528257,7 +528257,7 @@
     <Price2>13000.0000</Price2>
     <CurrencyType>TRL</CurrencyType>
     <Tax>20</Tax>
-    <Stock>1</Stock>
+    <Stock>0</Stock>
     <Brand><![CDATA[MATSUBA-T]]></Brand>
     <Image1><![CDATA[https://universaloto.com/foto/photos/img029741.jpg]]></Image1>
     <Image2><![CDATA[]]></Image2>
@@ -529557,7 +529557,7 @@
     <Price2>916.6667</Price2>
     <CurrencyType>TRL</CurrencyType>
     <Tax>20</Tax>
-    <Stock>5</Stock>
+    <Stock>4</Stock>
     <Brand><![CDATA[MATSUBA]]></Brand>
     <Image1><![CDATA[https://universaloto.com/foto/photos/img029784.jpg]]></Image1>
     <Image2><![CDATA[]]></Image2>
@@ -533041,7 +533041,7 @@
     <Price2>1166.6667</Price2>
     <CurrencyType>TRL</CurrencyType>
     <Tax>20</Tax>
-    <Stock>7</Stock>
+    <Stock>6</Stock>
     <Brand><![CDATA[MATSUBA-T]]></Brand>
     <Image1><![CDATA[https://universaloto.com/foto/photos/img029900.jpg]]></Image1>
     <Image2><![CDATA[]]></Image2>
@@ -533821,7 +533821,7 @@
     <Price2>250.0000</Price2>
     <CurrencyType>TRL</CurrencyType>
     <Tax>20</Tax>
-    <Stock>4</Stock>
+    <Stock>5</Stock>
     <Brand><![CDATA[MATSUBA]]></Brand>
     <Image1><![CDATA[https://universaloto.com/foto/photos/img029920.jpg]]></Image1>
     <Image2><![CDATA[]]></Image2>
@@ -534575,7 +534575,7 @@
     <Price2>1250.0000</Price2>
     <CurrencyType>TRL</CurrencyType>
     <Tax>20</Tax>
-    <Stock>6</Stock>
+    <Stock>4</Stock>
     <Brand><![CDATA[MATSUBA-T]]></Brand>
     <Image1><![CDATA[https://universaloto.com/foto/photos/img029949.jpg]]></Image1>
     <Image2><![CDATA[]]></Image2>
@@ -534965,7 +534965,7 @@
     <Price2>833.3333</Price2>
     <CurrencyType>TRL</CurrencyType>
     <Tax>20</Tax>
-    <Stock>0</Stock>
+    <Stock>10</Stock>
     <Brand><![CDATA[MATSUBA]]></Brand>
     <Image1><![CDATA[https://universaloto.com/foto/photos/img029975.jpg]]></Image1>
     <Image2><![CDATA[]]></Image2>
@@ -543181,7 +543181,7 @@
     <Price2>3166.6667</Price2>
     <CurrencyType>TRL</CurrencyType>
     <Tax>20</Tax>
-    <Stock>1</Stock>
+    <Stock>0</Stock>
     <Brand><![CDATA[ITAQI]]></Brand>
     <Image1><![CDATA[https://universaloto.com/foto/photos/img030339.jpg]]></Image1>
     <Image2><![CDATA[]]></Image2>
@@ -546431,7 +546431,7 @@
     <Price2>250.0000</Price2>
     <CurrencyType>TRL</CurrencyType>
     <Tax>20</Tax>
-    <Stock>0</Stock>
+    <Stock>10</Stock>
     <Brand><![CDATA[MATSUBA]]></Brand>
     <Image1><![CDATA[https://universaloto.com/foto/photos/img030455.jpg]]></Image1>
     <Image2><![CDATA[]]></Image2>
@@ -575655,7 +575655,7 @@
     <Price2>15333.3333</Price2>
     <CurrencyType>TRL</CurrencyType>
     <Tax>20</Tax>
-    <Stock>0</Stock>
+    <Stock>10</Stock>
     <Brand><![CDATA[MATSUBA]]></Brand>
     <Image1><![CDATA[https://universaloto.com/foto/photos/img031544.jpg]]></Image1>
     <Image2><![CDATA[]]></Image2>
@@ -577397,7 +577397,7 @@
     <Price2>4750.0000</Price2>
     <CurrencyType>TRL</CurrencyType>
     <Tax>20</Tax>
-    <Stock>0</Stock>
+    <Stock>8</Stock>
     <Brand><![CDATA[MATSUBA]]></Brand>
     <Image1><![CDATA[https://universaloto.com/foto/photos/img031603.jpg]]></Image1>
     <Image2><![CDATA[]]></Image2>
@@ -577553,7 +577553,7 @@
     <Price2>1416.6667</Price2>
     <CurrencyType>TRL</CurrencyType>
     <Tax>20</Tax>
-    <Stock>0</Stock>
+    <Stock>10</Stock>
     <Brand><![CDATA[MATSUBA]]></Brand>
     <Image1><![CDATA[https://universaloto.com/foto/photos/img031609.jpg]]></Image1>
     <Image2><![CDATA[]]></Image2>
@@ -577579,7 +577579,7 @@
     <Price2>1416.6667</Price2>
     <CurrencyType>TRL</CurrencyType>
     <Tax>20</Tax>
-    <Stock>0</Stock>
+    <Stock>10</Stock>
     <Brand><![CDATA[MATSUBA]]></Brand>
     <Image1><![CDATA[https://universaloto.com/foto/photos/img031609.jpg]]></Image1>
     <Image2><![CDATA[]]></Image2>
@@ -587407,7 +587407,7 @@
     <Price2>1250.0000</Price2>
     <CurrencyType>TRL</CurrencyType>
     <Tax>20</Tax>
-    <Stock>0</Stock>
+    <Stock>10</Stock>
     <Brand><![CDATA[MATSUBA]]></Brand>
     <Image1><![CDATA[https://universaloto.com/foto/photos/img031962.jpg]]></Image1>
     <Image2><![CDATA[]]></Image2>
@@ -587433,7 +587433,7 @@
     <Price2>1250.0000</Price2>
     <CurrencyType>TRL</CurrencyType>
     <Tax>20</Tax>
-    <Stock>0</Stock>
+    <Stock>10</Stock>
     <Brand><![CDATA[MATSUBA]]></Brand>
     <Image1><![CDATA[https://universaloto.com/foto/photos/img031963.jpg]]></Image1>
     <Image2><![CDATA[]]></Image2>
@@ -593153,7 +593153,7 @@
     <Price2>166.6667</Price2>
     <CurrencyType>TRL</CurrencyType>
     <Tax>20</Tax>
-    <Stock>1</Stock>
+    <Stock>0</Stock>
     <Brand><![CDATA[ITAQI]]></Brand>
     <Image1><![CDATA[https://universaloto.com/foto/photos/img032153.jpg]]></Image1>
     <Image2><![CDATA[]]></Image2>
@@ -593179,7 +593179,7 @@
     <Price2>166.6667</Price2>
     <CurrencyType>TRL</CurrencyType>
     <Tax>20</Tax>
-    <Stock>1</Stock>
+    <Stock>0</Stock>
     <Brand><![CDATA[ITAQI]]></Brand>
     <Image1><![CDATA[https://universaloto.com/foto/photos/img032153.jpg]]></Image1>
     <Image2><![CDATA[]]></Image2>
@@ -594739,7 +594739,7 @@
     <Price2>333.3333</Price2>
     <CurrencyType>TRL</CurrencyType>
     <Tax>20</Tax>
-    <Stock>10</Stock>
+    <Stock>0</Stock>
     <Brand><![CDATA[ITAQI]]></Brand>
     <Image1><![CDATA[https://universaloto.com/foto/photos/img032195.jpg]]></Image1>
     <Image2><![CDATA[]]></Image2>
@@ -595155,7 +595155,7 @@
     <Price2>500.0000</Price2>
     <CurrencyType>TRL</CurrencyType>
     <Tax>20</Tax>
-    <Stock>10</Stock>
+    <Stock>0</Stock>
     <Brand><![CDATA[ITAQI]]></Brand>
     <Image1><![CDATA[https://universaloto.com/foto/photos/img032219.jpg]]></Image1>
     <Image2><![CDATA[]]></Image2>
@@ -598119,7 +598119,7 @@
     <Price2>583.3333</Price2>
     <CurrencyType>TRL</CurrencyType>
     <Tax>20</Tax>
-    <Stock>1</Stock>
+    <Stock>0</Stock>
     <Brand><![CDATA[ITAQI]]></Brand>
     <Image1><![CDATA[https://universaloto.com/foto/photos/img032372.jpg]]></Image1>
     <Image2><![CDATA[]]></Image2>
@@ -638601,7 +638601,7 @@
     <Price2>5250.0000</Price2>
     <CurrencyType>TRL</CurrencyType>
     <Tax>20</Tax>
-    <Stock>0</Stock>
+    <Stock>10</Stock>
     <Brand><![CDATA[MATSUBA-T]]></Brand>
     <Image1><![CDATA[https://universaloto.com/foto/photos/img035119.jpg]]></Image1>
     <Image2><![CDATA[]]></Image2>
@@ -638627,7 +638627,7 @@
     <Price2>5250.0000</Price2>
     <CurrencyType>TRL</CurrencyType>
     <Tax>20</Tax>
-    <Stock>0</Stock>
+    <Stock>10</Stock>
     <Brand><![CDATA[MATSUBA-T]]></Brand>
     <Image1><![CDATA[https://universaloto.com/foto/photos/img035120.jpg]]></Image1>
     <Image2><![CDATA[]]></Image2>
@@ -638679,7 +638679,7 @@
     <Price2>6083.3333</Price2>
     <CurrencyType>TRL</CurrencyType>
     <Tax>20</Tax>
-    <Stock>0</Stock>
+    <Stock>10</Stock>
     <Brand><![CDATA[MATSUBA-T]]></Brand>
     <Image1><![CDATA[https://universaloto.com/foto/photos/img035122.jpg]]></Image1>
     <Image2><![CDATA[]]></Image2>
@@ -648819,7 +648819,7 @@
     <Price2>4666.6667</Price2>
     <CurrencyType>TRL</CurrencyType>
     <Tax>20</Tax>
-    <Stock>0</Stock>
+    <Stock>10</Stock>
     <Brand><![CDATA[MATSUBA-T]]></Brand>
     <Image1><![CDATA[https://universaloto.com/foto/photos/img035649.jpg]]></Image1>
     <Image2><![CDATA[]]></Image2>
@@ -648845,7 +648845,7 @@
     <Price2>4666.6667</Price2>
     <CurrencyType>TRL</CurrencyType>
     <Tax>20</Tax>
-    <Stock>0</Stock>
+    <Stock>10</Stock>
     <Brand><![CDATA[MATSUBA-T]]></Brand>
     <Image1><![CDATA[https://universaloto.com/foto/photos/img035650.jpg]]></Image1>
     <Image2><![CDATA[]]></Image2>
