@@ -8,6 +8,10 @@ import re, sys, math
 CARPAN = 1.85
 FAR_STOP_CARPAN = 1.40   # 9 Kas 2026: alt kategorisi FAR veya STOP olan urunler
 YUVARLA = 100
+EK500 = 500
+def ek500_mi(ad):
+    u = ad.upper().replace('İ','I').replace('Ç','C')
+    return bool((re.search(r'DODIK|BRAKET|CEKI DEMIR', u) or (re.search(r'DAVLUMBAZ', u) and re.search(r'CAMURLUK', u) and not re.search(r'FAN|RADYATOR|KLIMA', u))) and not re.search(r'KLIPS', u))
 src, out = sys.argv[1], sys.argv[2]
 t = open(src, encoding='utf-8').read()
 n = 0
@@ -28,6 +32,9 @@ def urun(m):
     c = FAR_STOP_CARPAN if alt in ('FAR', 'STOP') else CARPAN
     if c == FAR_STOP_CARPAN: fs.append(1)
     yeni = int(math.ceil(round(p * c, 4) / YUVARLA) * YUVARLA)
+    # 16 Kas 2026: camurluk davlumbazi, dodik, braket, ceki demir kapagi urunlerine +500 TL (klipsler haric)
+    nm = re.search(r'<Name><!\[CDATA\[(.*?)\]\]></Name>', b, re.S)
+    if nm and ek500_mi(nm.group(1)): yeni += EK500
     b = b.replace(pm.group(0), '<Price>%d.00</Price>' % yeni, 1)
     b = re.sub(r'<Price2>[^<]*</Price2>', '<Price2>%.4f</Price2>' % (yeni / (1 + kdv / 100)), b, count=1)
     n += 1

@@ -57,6 +57,9 @@ for f in sorted(glob.glob(src + '/*.xml')):
         _ad = (p.findtext('ProductNames/ProductName') or '').strip()
         _c = KAPORTA_CARPAN if (kaporta_mi(_ad) and not re.search(r'DİREK|DIREK|KORDON|GERGİ|GERGI|KOLU|KİLİT|KILIT|MENTEŞE|FİTİL|CAM', _ad.upper())) else CARPAN
         fiyat = max(YUVARLA, int(math.ceil(round(net * _c, 4) / YUVARLA) * YUVARLA))
+        # 16 Kas 2026: camurluk davlumbazi, dodik, braket, ceki demir kapagi urunlerine +500 TL (klipsler haric)
+        _u = _ad.upper().replace('İ','I').replace('Ç','C')
+        if (re.search(r'DODIK|BRAKET|CEKI DEMIR', _u) or (re.search(r'DAVLUMBAZ', _u) and re.search(r'CAMURLUK', _u) and not re.search(r'FAN|RADYATOR|KLIMA', _u))) and not re.search(r'KLIPS', _u): fiyat += 500
         stok = int(sum(float(s.text or 0) for s in p.findall('Stocks/Stock')))
         seen[p.get('ID')] = dict(
             stok_kodu=p.get('ProductCode').strip(), kaynak_kodu=p.get('ProductCode').strip(), urun_adi=(p.findtext('ProductNames/ProductName') or '').strip(),
